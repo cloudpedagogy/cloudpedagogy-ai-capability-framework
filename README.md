@@ -1,5 +1,7 @@
 # CloudPedagogy AI Capability Framework (2026 Edition)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17833663.svg)](https://doi.org/10.5281/zenodo.17833663)
+
 A values-based, developmental framework for ethical, strategic, and creative use of artificial intelligence across education, research, public services, and the wider public good.
 
 This repository provides the official, openly licensed publication of the **CloudPedagogy AI Capability Framework (2026 Edition)** and its companion resources. All materials are free to download, adapt, and remix under **CC BY-NC-SA 4.0**.
