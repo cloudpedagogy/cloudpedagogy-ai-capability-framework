@@ -13,9 +13,9 @@ All materials are free to download, adapt, and remix under the **CC BY-NC-SA 4.0
 
 ## 📘 About the Framework
 
-The CloudPedagogy AI Capability Framework provides a structured, future-ready model for building responsible, ethical, and transparent AI capability across complex professional environments.
+The Framework provides a structured, future-ready model for building responsible, ethical, and transparent AI capability across complex professional environments.
 
-It defines six interdependent capability domains:
+It defines **six interdependent capability domains**:
 
 1. **AI Awareness & Orientation**  
 2. **Human–AI Co-Agency**  
@@ -39,23 +39,23 @@ Grounded in ecological learning, systems thinking, and ethical foresight, the Fr
 ## 📄 Core Framework Downloads
 
 ### **Canonical Framework (PDF)**  
-👉 *AI-Capability-Framework-2026.pdf*
+👉 `AI-Capability-Framework-2026.pdf`
 
 ### **Institutional Overview & Value Guide**  
-👉 *AI-Capability-Framework-Overview-2026.pdf*
+👉 `AI-Capability-Framework-Overview-2026.pdf`
 
 ---
 
 ## 📚 Companion Guides & Handbooks
 
-### **1. Application Handbook (Full Version)**  
-👉 *AI CAPABILITY FRAMEWORK APPLICATION HANDBOOK.pdf*
+### 1. **Application Handbook (Full Version)**  
+👉 `AI CAPABILITY FRAMEWORK APPLICATION HANDBOOK.pdf`
 
-### **2. Executive Summary (Leadership Edition)**  
-👉 *AI Capability Framework Application Handbook — Executive Summary.pdf*
+### 2. **Executive Summary (Leadership Edition)**  
+👉 `AI Capability Framework Application Handbook — Executive Summary.pdf`
 
-### **3. Quick Reference Guide for Course Designers**  
-👉 *AI Capability Framework — Quick Reference Guide for Course Designers.pdf*
+### 3. **Quick Reference Guide for Course Designers**  
+👉 `AI Capability Framework — Quick Reference Guide for Course Designers.pdf`
 
 ---
 
@@ -63,7 +63,7 @@ Grounded in ecological learning, systems thinking, and ethical foresight, the Fr
 
 A consolidated collection of tools, templates, scenarios, examples, and workshop resources.
 
-👉 *framework toolkit.zip*
+👉 `framework toolkit.zip`
 
 Additional supplementary materials are also available via the GitHub release ZIP.
 
@@ -82,7 +82,7 @@ A self-paced introductory course covering the six domains, applied examples, and
 
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**
 
-You may remix and adapt the materials for **non-commercial** purposes with attribution and the same licence terms.
+You may remix and adapt the materials for non-commercial purposes with attribution and under the same licence.
 
 For commercial licensing, consultancy, or institutional partnerships:  
 📩 **info@cloudpedagogy.com**
@@ -91,11 +91,11 @@ For commercial licensing, consultancy, or institutional partnerships:
 
 ## 🧭 Citation
 
-### **Preferred Citation (All-Versions DOI)**
+### **Preferred Citation (All-Versions DOI)**  
 Wong, J. (2025). *CloudPedagogy AI Capability Framework (2026 Edition).* Zenodo.  
 https://doi.org/10.5281/zenodo.17833663
 
-### **Version-Specific Citation (v1.2)**
+### **Version-Specific Citation (v1.2)**  
 Wong, J. (2025). *CloudPedagogy AI Capability Framework (2026 Edition) (v1.2).* Zenodo.  
 https://doi.org/10.5281/zenodo.17834575
 
@@ -103,13 +103,12 @@ https://doi.org/10.5281/zenodo.17834575
 
 ## 🔄 Versioning
 
-Current release: **v1.2 (2026 Edition)**  
-Earlier versions (v1.0, v1.1, v1.1.1) remain archived via Zenodo and GitHub Releases.
+- **Current release:** v1.2 (2026 Edition)  
+- Earlier versions (v1.0, v1.1, v1.1.1) remain archived via Zenodo and GitHub Releases.
 
 ---
 
 ## 🌐 CloudPedagogy Website
 
-More frameworks, free courses, and resources:
-
+More frameworks, free courses, and resources:  
 👉 https://www.cloudpedagogy.com
