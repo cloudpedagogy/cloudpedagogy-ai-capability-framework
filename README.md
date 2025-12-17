@@ -119,6 +119,10 @@ The following repositories provide **applied companion resources** derived from 
   Facilitation-ready scenarios for applying the Framework in real professional settings, including recruitment, meetings, governance, leadership, teaching, and research.  
   https://github.com/cloudpedagogy/ai-capability-framework-scenarios
 
+- **CloudPedagogy n8n Workflows** *(under development)*  
+This n8n workflows repository translates these ideas into operational, human-in-the-loop systems, showing how AI capability can be enacted through everyday tools and processes.  
+https://github.com/cloudpedagogy/cloudpedagogy-n8n-workflows
+
 *Companion repositories extend the Framework into applied practice; this repository remains the authoritative reference for the framework model, domains, and core resources.*
 
 
