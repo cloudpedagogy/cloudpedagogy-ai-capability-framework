@@ -107,23 +107,55 @@ Also included:
 
 ## 🔗 Related CloudPedagogy repositories
 
-This repository is the canonical source for the **CloudPedagogy AI Capability Framework (2026 Edition)**.
+This repository is the **canonical source** for the CloudPedagogy AI Capability Framework (2026 Edition), including the framework model, domains, and core reference resources.
 
-The following repositories provide applied companion resources derived from the Framework:
+The following repositories provide **applied companion resources and software tools** derived from, and explicitly grounded in, the Framework.
 
-### AI Capability Briefs
+---
+
+### 📘 Applied Guidance & Practice Resources
+
+**AI Capability Briefs**  
 Short, role- and context-specific briefs supporting professional judgement and decision-making using the AI Capability Framework.  
 https://github.com/cloudpedagogy/ai-capability-briefs
 
-### AI Capability Framework – Scenario Library
-Facilitation-ready scenarios for applying the Framework in real professional settings, including recruitment, meetings, governance, leadership, teaching, and research.  
+**AI Capability Framework – Scenario Library**  
+Facilitation-ready scenarios for applying the Framework in real professional settings, including teaching, research, governance, leadership, and public-impact contexts.  
 https://github.com/cloudpedagogy/ai-capability-framework-scenarios
 
-### CloudPedagogy n8n Workflows *(under development)*
-This repository translates the Framework into operational, human-in-the-loop systems, demonstrating how AI capability can be enacted through everyday tools and processes.  
+---
+
+### 🧩 Diagnostic & Exploratory Software Tools
+
+**AI Capability Self-Assessment**  
+A static, framework-driven self-assessment tool with rule-based interpretations, designed to support reflective evaluation of AI capability across education, research, and public service.  
+https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-assessment
+
+**AI Capability Programme Mapping Tool**  
+A browser-based application for visualising and reflecting on how AI capability is distributed and developed across programmes, pathways, or organisational structures.  
+https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-programme-mapping
+
+**AI Capability Gaps & Risk Diagnostic**  
+A capability-led, interpretive diagnostic tool for exploring AI capability gaps and associated risk patterns using the AI Capability Framework.  
+https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-gaps-risk
+
+**AI Capability Scenario Stress-Test**  
+An exploratory, browser-based “what-if” stress-testing tool that examines how current AI capability assumptions may hold under plausible future scenarios and change conditions.  
+https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-scenario-stress-test
+
+---
+
+### ⚙️ Operational Workflows
+
+**CloudPedagogy n8n Workflows** *(under development)*  
+Human-in-the-loop automation workflows translating the Framework into operational processes and decision-support systems using everyday institutional tools.  
 https://github.com/cloudpedagogy/cloudpedagogy-n8n-workflows
 
-Companion repositories extend the Framework into applied practice; this repository remains the authoritative reference for the framework model, domains, and core resources.
+---
+
+Companion repositories **extend the Framework into applied guidance, diagnostics, and operational practice**.  
+This repository remains the **authoritative reference** for the CloudPedagogy AI Capability Framework model, domains, and core resources.
+
 
 ---
 
