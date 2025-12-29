@@ -143,6 +143,10 @@ https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-gaps-risk
 An exploratory, browser-based “what-if” stress-testing tool that examines how current AI capability assumptions may hold under plausible future scenarios and change conditions.  
 https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-scenario-stress-test
 
+**AI Capability Dashboard (Aggregate View)**  
+An aggregate, non-identifiable dashboard for system-level awareness of AI capability patterns and trends over time. Designed to support reflective discussion, governance conversations, and ethical oversight without surveillance.
+https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-dashboard
+
 ---
 
 ### ⚙️ Operational Workflows
