@@ -12,17 +12,17 @@ It helps users understand and apply AI safely and effectively across complex pro
 
 The Framework covers six domains:
 
-1.  **AI Awareness & Orientation  **
+1.  **AI Awareness & Orientation**
 
-2.  **Human–AI Co-Agency  **
+2.  **Human–AI Co-Agency**
 
-3.  **Applied Practice & Innovation  **
+3.  **Applied Practice & Innovation**
 
-4.  **Ethics, Equity & Impact  **
+4.  **Ethics, Equity & Impact**
 
-5.  **Decision-Making & Governance  **
+5.  **Decision-Making & Governance**
 
-6.  **Reflection, Learning & Renewal  **
+6.  **Reflection, Learning & Renewal**
 
 It includes:
 

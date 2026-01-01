@@ -12,215 +12,128 @@
 
 [CloudPedagogy AI Capability Framework (2026 Edition) [1](#cloudpedagogy-ai-capability-framework-2026-edition)](#cloudpedagogy-ai-capability-framework-2026-edition)
 
-[1. Overview of the AI Capability Framework [6](#_t2a7eilrvhl6)](#_t2a7eilrvhl6)
+[1. Overview of the AI Capability Framework](#_t2a7eilrvhl6) 6  
+[1.1 Purpose and Scope](#purpose-and-scope) 6  
+[1.2 Framework Structure](#framework-structure) 6  
+[1.3 Supporting Resources](#_unyhzn316f0s) 7  
+[1.4 Intended Audience](#intended-audience) 7  
+[1.5 Use Across AI Systems](#use-across-ai-systems) 7  
+[1.6 What’s New in the 2026 Edition](#_459axqqo1rtn) 7  
+[1.7 How to Navigate This Edition](#how-to-navigate-this-edition) 8  
+
+[2. Foreword for International Readers](#_iaaegh72j63u) 9  
+
+[3. Quick Start: How to Use This Framework](#quick-start-how-to-use-this-framework) 10  
+[**For Quick Reflection**](#for-quick-reflection) 10  
+[**For Structured Development**](#for-structured-development) 11  
+[**For Project or Policy Application**](#for-project-or-policy-application) 11  
+[**Suggested Pathway**](#suggested-pathway) 11  
+[**Adoption Checklist (Rapid Start)**](#_ectvkjpqbv5b) 12  
+[**Tips for Effective Use**](#tips-for-effective-use) 12  
+[**Why This Approach Works**](#why-this-approach-works) 12  
+
+[4. Introduction and Purpose](#_8dubymcxcle6) 13  
+[**4.1 From Competence to Capability**](#from-competence-to-capability) 13  
+[**4.2 Generative Capability and Ecological Learning**](#generative-capability-and-ecological-learning) 13  
+[**4.3 Capability as Design Practice**](#capability-as-design-practice) 14  
+[**4.4 From Digital Literacy to Reflective Intelligence**](#from-digital-literacy-to-reflective-intelligence) 14  
+[**4.5 Why a Universal AI Capability Framework**](#why-a-universal-ai-capability-framework) 14  
+[**4.6 A Developmental Structure for Responsible AI**](#a-developmental-structure-for-responsible-ai) 15  
+[**4.7 Integrating with Global and Sectoral Agendas**](#integrating-with-global-and-sectoral-agendas) 15  
+[**4.8 Invitation to Co-Creation**](#_azk3nj3bhyvf) 16  
+[**4.9 Concluding Purpose**](#concluding-purpose) 16  
+
+[5. The AI Capability Framework (Core Model)](#_1a92ba3p82za) 17  
+[5.1 The Six Domains](#the-six-domains) 17  
+[**Domain 1 — AI Awareness and Orientation**](#domain-1-ai-awareness-and-orientation) 17  
+[**Domain 2 — Human–AI Co-Agency**](#domain-2-humanai-co-agency) 18  
+[**Domain 3 — Applied Practice and Innovation**](#domain-3-applied-practice-and-innovation) 18  
+[**Domain 4 — Ethics, Equity and Impact**](#_nqugk1nenx9l) 19  
+[**Domain 5 — Decision-Making and Governance**](#domain-5-decision-making-and-governance) 19  
+[**Domain 6 — Reflection, Learning and Renewal**](#_ng4lu84nvk8c) 20  
+
+[5.2 Cross-Domain Interdependence](#cross-domain-interdependence) 20  
+[**The Flow of Capability**](#the-flow-of-capability) 20  
+[**Illustrative Micro-Cases**](#illustrative-micro-cases) 21  
+[**The Ecological View**](#the-ecological-view) 21  
+
+[6. Self-Assessment Matrix: Mapping Developmental Capability](#_uiq75ydd2xag) 22  
+[6.1 How to Use the Matrix](#how-to-use-the-matrix) 22  
+[6.2 Capability Progression Matrix](#_pr2tioye1p5f) 23  
+[**Domain 1: AI Awareness and Orientation**](#domain-1-ai-awareness-and-orientation-1) 23  
+[**Domain 2: Human–AI Co-Agency**](#domain-2-humanai-co-agency-1) 23  
+[**Domain 3: Applied Practice and Innovation**](#domain-3-applied-practice-and-innovation-1) 23  
+[**Domain 4: Ethics, Equity and Impact**](#domain-4-ethics-equity-and-impact-1) 23  
+[**Domain 5: Decision-Making and Governance**](#domain-5-decision-making-and-governance-1) 24  
+[**Domain 6: Reflection, Learning and Renewal**](#domain-6-reflection-learning-and-renewal-1) 24  
+
+[6.3 Developmental Insights](#developmental-insights) 24  
+[**Interpreting the Matrix**](#interpreting-the-matrix) 24  
+[**Developmental Narratives by Domain**](#_7r6xnph7zth2) 25  
+[**Common Developmental Tensions**](#common-developmental-tensions) 25  
+[**Review and Renewal**](#review-and-renewal) 25  
+
+[7. Reflection Toolkit](#_bxq1tqqd78e4) 26  
+[7.1 How to Use the Toolkit](#how-to-use-the-toolkit) 26  
+[**Domain 1 – AI Awareness and Orientation**](#_piporjrt2siu) 27  
+[**Domain 2 – Human–AI Co-Agency**](#domain-2-humanai-co-agency-2) 27  
+[**Domain 3 – Applied Practice and Innovation**](#_mg8678po5g4z) 28  
+[**Domain 4 – Ethics, Equity and Impact**](#domain-4-ethics-equity-and-impact-2) 28  
+[**Domain 5 – Decision-Making and Governance**](#_m9akz18dlu2r) 29  
+[**Domain 6 – Reflection, Learning and Renewal**](#domain-6-reflection-learning-and-renewal-2) 29  
+
+[7.2 Integrating Reflection](#_x4fo1zjbi3nb) 30  
+
+[8. AI Interaction and Design Toolkit](#_xgk8r03fsgtd) 31  
+[8.1 Purpose and Scope](#purpose-and-scope-1) 31  
+[8.2 Toolkit Structure (by Domain)](#_kal647kp3w97) 32  
+[**Domain 1 – AI Awareness and Orientation**](#domain-1-ai-awareness-and-orientation-3) 32  
+[**Domain 2 – Human–AI Co-Agency**](#domain-2-humanai-co-agency-3) 32  
+[**Domain 3 – Applied Practice and Innovation**](#domain-3-applied-practice-and-innovation-3) 33  
+[**Domain 4 – Ethics, Equity and Impact**](#domain-4-ethics-equity-and-impact-3) 33  
+[**Domain 5 – Decision-Making and Governance**](#_n804fss9sift) 34  
+[**Domain 6 – Reflection, Learning and Renewal**](#domain-6-reflection-learning-and-renewal-3) 34  
+
+[8.3 Using the Toolkit](#_687eww7l06l2) 35  
+
+[9. Scenario-Based Workshop Guides](#_t7g12c4ezu78) 36  
+[Domain 1 – AI Awareness and Orientation (Education)](#domain-1-ai-awareness-and-orientation-education) 36  
+[Domain 2 – Human–AI Co-Agency (Healthcare)](#domain-2-humanai-co-agency-healthcare) 37  
+[Domain 3 – Applied Practice and Innovation (Policy Design)](#domain-3-applied-practice-and-innovation-policy-design) 38  
+[Domain 4 – Ethics, Equity and Impact (Research Governance)](#domain-4-ethics-equity-and-impact-research-governance) 39  
+[Domain 5 – Decision-Making and Governance (Institutional Governance)](#domain-5-decision-making-and-governance-institutional-governance) 40  
+[Domain 6 – Reflection, Learning and Renewal (Organisational Learning)](#domain-6-reflection-learning-and-renewal-organisational-learning) 41  
+
+[9.1 Implementation Tips](#_icv96taommaa) 42  
+
+[10. Applied Examples: The Framework in Action](#applied-examples-the-framework-in-action) 43  
+[10.1 Education – Embedding Responsible AI in a New University Module](#_ar7fu4z3pyvd) 43  
+[10.2 Healthcare – Improving Patient Communication](#_l5cjqrs5mn30) 44  
+[10.3 Public Services – Data-Informed Policy Design](#_mvzxdtrtjtn4) 45  
+[**Cross-Case Insights**](#_r24x11a2jsae) 46  
+
+[11. Governance and Ethics Templates](#_z9nichsiblz0) 47  
+[11.1 Template A – AI Governance Protocol](#_96f8lty7lzs8) 47  
+[**Sections**](#sections) 47  
+[11.2 Template B – Equity-Focused AI Audit Tool](#_700e2g3hzsen) 49  
+[**Sections**](#sections-1) 49  
+[**Scoring (optional)**](#_wax71rnuz958) 50  
+[**Deliverables**](#deliverables) 50  
+[11.3 Using These Templates](#_pwoa7kly77wh) 51  
+[**Practical Integration Strategies**](#practical-integration-strategies) 51  
+[**Cultural Principles for Effective Governance**](#cultural-principles-for-effective-governance) 51  
+
+[12. Resources and Further Development](#_hy736etu0u7y) 52  
+[12.1 In Development](#in-development) 52  
+[12.2 Invitation to Collaborate](#invitation-to-collaborate) 53  
+[12.3 Integration within the CloudPedagogy Platform](#_g4hsapez5up8) 54  
+[12.4 Attribution and Licensing](#attribution-and-licensing) 54  
+[12.5 Closing Note](#_wi3noiiky6au) 55  
+[12.6 Measuring Impact (Suggested Indicators)](#measuring-impact-suggested-indicators) 55  
+[12.7 How to Cite](#how-to-cite) 56  
+
+[13. Glossary](#_z0adzw4ovn23) 57
 
-[1.1 Purpose and Scope [6](#purpose-and-scope)](#purpose-and-scope)
-
-[1.2 Framework Structure [6](#framework-structure)](#framework-structure)
-
-[1.3 Supporting Resources [7](#_unyhzn316f0s)](#_unyhzn316f0s)
-
-[1.4 Intended Audience [7](#intended-audience)](#intended-audience)
-
-[1.5 Use Across AI Systems [7](#use-across-ai-systems)](#use-across-ai-systems)
-
-[1.6 What’s New in the 2026 Edition [7](#_459axqqo1rtn)](#_459axqqo1rtn)
-
-[1.7 How to Navigate This Edition [8](#how-to-navigate-this-edition)](#how-to-navigate-this-edition)
-
-[2. Foreword for International Readers [9](#_iaaegh72j63u)](#_iaaegh72j63u)
-
-[3. Quick Start: How to Use This Framework [10](#quick-start-how-to-use-this-framework)](#quick-start-how-to-use-this-framework)
-
-[**For Quick Reflection** [10](#for-quick-reflection)](#for-quick-reflection)
-
-[**For Structured Development** [11](#for-structured-development)](#for-structured-development)
-
-[**For Project or Policy Application** [11](#for-project-or-policy-application)](#for-project-or-policy-application)
-
-[**Suggested Pathway** [11](#suggested-pathway)](#suggested-pathway)
-
-[**Adoption Checklist (Rapid Start)** [12](#_ectvkjpqbv5b)](#_ectvkjpqbv5b)
-
-[**Tips for Effective Use** [12](#tips-for-effective-use)](#tips-for-effective-use)
-
-[**Why This Approach Works** [12](#why-this-approach-works)](#why-this-approach-works)
-
-[4. Introduction and Purpose [13](#_8dubymcxcle6)](#_8dubymcxcle6)
-
-[**4.1 From Competence to Capability** [13](#from-competence-to-capability)](#from-competence-to-capability)
-
-[**4.2 Generative Capability and Ecological Learning** [13](#generative-capability-and-ecological-learning)](#generative-capability-and-ecological-learning)
-
-[**4.3 Capability as Design Practice** [14](#capability-as-design-practice)](#capability-as-design-practice)
-
-[**4.4 From Digital Literacy to Reflective Intelligence** [14](#from-digital-literacy-to-reflective-intelligence)](#from-digital-literacy-to-reflective-intelligence)
-
-[**4.5 Why a Universal AI Capability Framework** [14](#why-a-universal-ai-capability-framework)](#why-a-universal-ai-capability-framework)
-
-[**4.6 A Developmental Structure for Responsible AI** [15](#a-developmental-structure-for-responsible-ai)](#a-developmental-structure-for-responsible-ai)
-
-[**4.7 Integrating with Global and Sectoral Agendas** [15](#integrating-with-global-and-sectoral-agendas)](#integrating-with-global-and-sectoral-agendas)
-
-[**4.8 Invitation to Co-Creation** [16](#_azk3nj3bhyvf)](#_azk3nj3bhyvf)
-
-[**4.9 Concluding Purpose** [16](#concluding-purpose)](#concluding-purpose)
-
-[5. The AI Capability Framework (Core Model) [17](#_1a92ba3p82za)](#_1a92ba3p82za)
-
-[5.1 The Six Domains [17](#the-six-domains)](#the-six-domains)
-
-[**Domain 1 — AI Awareness and Orientation** [17](#domain-1-ai-awareness-and-orientation)](#domain-1-ai-awareness-and-orientation)
-
-[**Domain 2 — Human–AI Co-Agency** [18](#domain-2-humanai-co-agency)](#domain-2-humanai-co-agency)
-
-[**Domain 3 — Applied Practice and Innovation** [18](#domain-3-applied-practice-and-innovation)](#domain-3-applied-practice-and-innovation)
-
-[**Domain 4 — Ethics, Equity and Impact** [19](#_nqugk1nenx9l)](#_nqugk1nenx9l)
-
-[**Domain 5 — Decision-Making and Governance** [19](#domain-5-decision-making-and-governance)](#domain-5-decision-making-and-governance)
-
-[**Domain 6 — Reflection, Learning and Renewal** [20](#_ng4lu84nvk8c)](#_ng4lu84nvk8c)
-
-[5.2 Cross-Domain Interdependence [20](#cross-domain-interdependence)](#cross-domain-interdependence)
-
-[**The Flow of Capability** [20](#the-flow-of-capability)](#the-flow-of-capability)
-
-[**Illustrative Micro-Cases** [21](#illustrative-micro-cases)](#illustrative-micro-cases)
-
-[**The Ecological View** [21](#the-ecological-view)](#the-ecological-view)
-
-[6. Self-Assessment Matrix: Mapping Developmental Capability [22](#_uiq75ydd2xag)](#_uiq75ydd2xag)
-
-[6.1 How to Use the Matrix [22](#how-to-use-the-matrix)](#how-to-use-the-matrix)
-
-[6.2 Capability Progression Matrix [23](#_pr2tioye1p5f)](#_pr2tioye1p5f)
-
-[**Domain 1: AI Awareness and Orientation** [23](#domain-1-ai-awareness-and-orientation-1)](#domain-1-ai-awareness-and-orientation-1)
-
-[**Domain 2: Human–AI Co-Agency** [23](#domain-2-humanai-co-agency-1)](#domain-2-humanai-co-agency-1)
-
-[**Domain 3: Applied Practice and Innovation** [23](#domain-3-applied-practice-and-innovation-1)](#domain-3-applied-practice-and-innovation-1)
-
-[**Domain 4: Ethics, Equity and Impact** [23](#domain-4-ethics-equity-and-impact-1)](#domain-4-ethics-equity-and-impact-1)
-
-[**Domain 5: Decision-Making and Governance** [24](#domain-5-decision-making-and-governance-1)](#domain-5-decision-making-and-governance-1)
-
-[**Domain 6: Reflection, Learning and Renewal** [24](#domain-6-reflection-learning-and-renewal-1)](#domain-6-reflection-learning-and-renewal-1)
-
-[6.3 Developmental Insights [24](#developmental-insights)](#developmental-insights)
-
-[**Interpreting the Matrix** [24](#interpreting-the-matrix)](#interpreting-the-matrix)
-
-[**Developmental Narratives by Domain** [25](#_7r6xnph7zth2)](#_7r6xnph7zth2)
-
-[**Common Developmental Tensions** [25](#common-developmental-tensions)](#common-developmental-tensions)
-
-[**Review and Renewal** [25](#review-and-renewal)](#review-and-renewal)
-
-[7. Reflection Toolkit [26](#_bxq1tqqd78e4)](#_bxq1tqqd78e4)
-
-[7.1 How to Use the Toolkit [26](#how-to-use-the-toolkit)](#how-to-use-the-toolkit)
-
-[**Domain 1 – AI Awareness and Orientation** [27](#_piporjrt2siu)](#_piporjrt2siu)
-
-[**Domain 2 – Human–AI Co-Agency** [27](#domain-2-humanai-co-agency-2)](#domain-2-humanai-co-agency-2)
-
-[**Domain 3 – Applied Practice and Innovation** [28](#_mg8678po5g4z)](#_mg8678po5g4z)
-
-[**Domain 4 – Ethics, Equity and Impact** [28](#domain-4-ethics-equity-and-impact-2)](#domain-4-ethics-equity-and-impact-2)
-
-[**Domain 5 – Decision-Making and Governance** [29](#_m9akz18dlu2r)](#_m9akz18dlu2r)
-
-[**Domain 6 – Reflection, Learning and Renewal** [29](#domain-6-reflection-learning-and-renewal-2)](#domain-6-reflection-learning-and-renewal-2)
-
-[7.2 Integrating Reflection [30](#_x4fo1zjbi3nb)](#_x4fo1zjbi3nb)
-
-[8. AI Interaction and Design Toolkit [31](#_xgk8r03fsgtd)](#_xgk8r03fsgtd)
-
-[8.1 Purpose and Scope [31](#purpose-and-scope-1)](#purpose-and-scope-1)
-
-[8.2 Toolkit Structure (by Domain) [32](#_kal647kp3w97)](#_kal647kp3w97)
-
-[**Domain 1 – AI Awareness and Orientation** [32](#domain-1-ai-awareness-and-orientation-3)](#domain-1-ai-awareness-and-orientation-3)
-
-[**Domain 2 – Human–AI Co-Agency** [32](#domain-2-humanai-co-agency-3)](#domain-2-humanai-co-agency-3)
-
-[**Domain 3 – Applied Practice and Innovation** [33](#domain-3-applied-practice-and-innovation-3)](#domain-3-applied-practice-and-innovation-3)
-
-[**Domain 4 – Ethics, Equity and Impact** [33](#domain-4-ethics-equity-and-impact-3)](#domain-4-ethics-equity-and-impact-3)
-
-[**Domain 5 – Decision-Making and Governance** [34](#_n804fss9sift)](#_n804fss9sift)
-
-[**Domain 6 – Reflection, Learning and Renewal** [34](#domain-6-reflection-learning-and-renewal-3)](#domain-6-reflection-learning-and-renewal-3)
-
-[8.3 Using the Toolkit [35](#_687eww7l06l2)](#_687eww7l06l2)
-
-[9. Scenario-Based Workshop Guides [36](#_t7g12c4ezu78)](#_t7g12c4ezu78)
-
-[Domain 1 – AI Awareness and Orientation (Education) [36](#domain-1-ai-awareness-and-orientation-education)](#domain-1-ai-awareness-and-orientation-education)
-
-[Domain 2 – Human–AI Co-Agency (Healthcare) [37](#domain-2-humanai-co-agency-healthcare)](#domain-2-humanai-co-agency-healthcare)
-
-[Domain 3 – Applied Practice and Innovation (Policy Design) [38](#domain-3-applied-practice-and-innovation-policy-design)](#domain-3-applied-practice-and-innovation-policy-design)
-
-[Domain 4 – Ethics, Equity and Impact (Research Governance) [39](#domain-4-ethics-equity-and-impact-research-governance)](#domain-4-ethics-equity-and-impact-research-governance)
-
-[Domain 5 – Decision-Making and Governance (Institutional Governance) [40](#domain-5-decision-making-and-governance-institutional-governance)](#domain-5-decision-making-and-governance-institutional-governance)
-
-[Domain 6 – Reflection, Learning and Renewal (Organisational Learning) [41](#domain-6-reflection-learning-and-renewal-organisational-learning)](#domain-6-reflection-learning-and-renewal-organisational-learning)
-
-[9.1 Implementation Tips [42](#_icv96taommaa)](#_icv96taommaa)
-
-[10. Applied Examples: The Framework in Action [43](#applied-examples-the-framework-in-action)](#applied-examples-the-framework-in-action)
-
-[10.1 Education – Embedding Responsible AI in a New University Module [43](#_ar7fu4z3pyvd)](#_ar7fu4z3pyvd)
-
-[10.2 Healthcare – Improving Patient Communication [44](#_l5cjqrs5mn30)](#_l5cjqrs5mn30)
-
-[10.3 Public Services – Data-Informed Policy Design [45](#_mvzxdtrtjtn4)](#_mvzxdtrtjtn4)
-
-[**Cross-Case Insights** [46](#_r24x11a2jsae)](#_r24x11a2jsae)
-
-[11. Governance and Ethics Templates [47](#_z9nichsiblz0)](#_z9nichsiblz0)
-
-[11.1 Template A – AI Governance Protocol [47](#_96f8lty7lzs8)](#_96f8lty7lzs8)
-
-[**Sections** [47](#sections)](#sections)
-
-[11.2 Template B – Equity-Focused AI Audit Tool [49](#_700e2g3hzsen)](#_700e2g3hzsen)
-
-[**Sections** [49](#sections-1)](#sections-1)
-
-[**Scoring (optional)** [50](#_wax71rnuz958)](#_wax71rnuz958)
-
-[**Deliverables** [50](#deliverables)](#deliverables)
-
-[11.3 Using These Templates [51](#_pwoa7kly77wh)](#_pwoa7kly77wh)
-
-[**Practical Integration Strategies** [51](#practical-integration-strategies)](#practical-integration-strategies)
-
-[**Cultural Principles for Effective Governance** [51](#cultural-principles-for-effective-governance)](#cultural-principles-for-effective-governance)
-
-[12. Resources and Further Development [52](#_hy736etu0u7y)](#_hy736etu0u7y)
-
-[12.1 In Development [52](#in-development)](#in-development)
-
-[12.2 Invitation to Collaborate [53](#invitation-to-collaborate)](#invitation-to-collaborate)
-
-[12.3 Integration within the CloudPedagogy Platform [54](#_g4hsapez5up8)](#_g4hsapez5up8)
-
-[12.4 Attribution and Licensing [54](#attribution-and-licensing)](#attribution-and-licensing)
-
-[12.5 Closing Note [55](#_wi3noiiky6au)](#_wi3noiiky6au)
-
-[12.6 Measuring Impact (Suggested Indicators) [55](#measuring-impact-suggested-indicators)](#measuring-impact-suggested-indicators)
-
-[12.7 How to Cite [56](#how-to-cite)](#how-to-cite)
-
-[13. Glossary [57](#_z0adzw4ovn23)](#_z0adzw4ovn23)
-
-<span id="_t2a7eilrvhl6" class="anchor"></span>**  **
 
 # **1. Overview of the AI Capability Framework**
 
@@ -244,7 +157,7 @@ The framework is organised around **six interdependent domains** that together d
 
 - **Decision-Making and Governance**
 
-- **Reflection, Learning and Renewal  **
+- **Reflection, Learning and Renewal**
 
 Each domain includes **guiding questions**, a **capability purpose**, **ecological anchors**, **design-thinking modes**, **capability shifts**, and **values-in-practice**. Together they form a coherent **capability ecology** for developing responsible, adaptive, and creative AI practice at individual and organisational levels.
 
@@ -404,11 +317,12 @@ You can engage with it at three complementary levels: **reflection**, **developm
 
 *The cycle embodies the framework’s ecological logic—capability grows through continuous iteration rather than linear completion.*
 
-> <span id="_ectvkjpqbv5b" class="anchor"></span>
->
-> **Adoption Checklist (Rapid Start)**
+<span id="_ectvkjpqbv5b" class="anchor"></span>
 
-1.  Nominate a **cross-functional sponsor** or champion.
+**Adoption Checklist (Rapid Start)**
+
+1. Nominate a **cross-functional sponsor** or champion.
+
 
 2.  Run the **Self-Assessment Matrix** with a representative group.
 
@@ -1396,10 +1310,10 @@ Rather than prescriptive models, these examples are **patterned narratives**—e
 
 ## **10.1 Education – Embedding Responsible AI in a New University Module**
 
-**Context  **
+**Context**
 A School of Social Sciences launches a new module, *AI, Society and Foresight*, aimed at helping students critically explore AI’s social impacts. Staff wish to integrate generative-AI tools for research exploration but are concerned about academic integrity, transparency, and assessment fairness.
 
-**Process  **
+**Process**
 The module team follows a structured capability pathway:
 
 1.  **Orientation:** Begin with *Ethics, Equity and Impact*, *Human–AI Co-Agency*, and *Reflection & Renewal* domains to clarify boundaries and learning intentions.
@@ -1422,7 +1336,7 @@ The module team follows a structured capability pathway:
 
 - The module’s governance statement becomes a model for other departments.
 
-**Reflection  **
+**Reflection**
 Visible governance improved student trust and engagement. The framework gave staff a common language for cross-disciplinary design, shifting debate from “Should we use AI?” to “How do we use it responsibly and transparently?”
 
 *Capability Trajectory:* Awareness → Co-Agency → Ethics → Governance → Reflection.
@@ -1431,7 +1345,7 @@ Visible governance improved student trust and engagement. The framework gave sta
 
 ## **10.2 Healthcare – Improving Patient Communication**
 
-**Context  **
+**Context**
 A regional healthcare network seeks to update patient-education materials in multiple languages using AI-assisted translation and summarisation. Initial trials produce inconsistent tone and inaccurate clinical terminology.
 
 **Process**
@@ -1465,7 +1379,7 @@ Efficiency alone did not build trust—**participatory oversight** did. Embeddin
 
 ## **10.3 Public Services – Data-Informed Policy Design**
 
-**Context  **
+**Context**
 A metropolitan transport authority uses AI analytics to plan routes for underserved neighbourhoods. Although data accuracy improves, community representatives question how fairness is measured.
 
 **Process**
@@ -1490,7 +1404,7 @@ A metropolitan transport authority uses AI analytics to plan routes for underser
 
 - Public trust increases through visible citizen participation and documentation.
 
-**Reflection  **
+**Reflection**
 The authority discovered that *transparency itself is a service*: by exposing assumptions and trade-offs, they gained legitimacy. Human values—equity, fairness, accountability—became part of the technical workflow.
 
 *Capability Trajectory:* Awareness → Governance → Ethics → Reflection → Renewal.
@@ -1526,14 +1440,14 @@ Each template functions both as a **living document** and a **learning instrumen
 
 ## **11.1 Template A – AI Governance Protocol**
 
-**Purpose:  **
+**Purpose:**
 To establish clear structures, accountability, and review processes for all AI-related activities, systems, or decisions within an organisation or project.
 
 This protocol creates a shared record of purpose, oversight, and ethical assurance — turning abstract principles into actionable, auditable commitments.
 
 ### **Sections**
 
-1.  **Scope and Purpose  **
+1.  **Scope and Purpose**
 
     - Define the system(s) covered, including their purpose, scope, and intended benefits.
 
@@ -1541,7 +1455,7 @@ This protocol creates a shared record of purpose, oversight, and ethical assuran
 
     - Clarify alignment with institutional strategy, data governance, and social mission.
 
-2.  **Ethically Informed Use-Case Review  **
+2.  **Ethically Informed Use-Case Review**
 
     - Summarise purpose, expected benefits, and potential harms or risks.
 
@@ -1551,7 +1465,7 @@ This protocol creates a shared record of purpose, oversight, and ethical assuran
 
     - Include reference to applicable codes (e.g., institutional ethics policy, GDPR, UNESCO, OECD).
 
-3.  **Role Mapping  **
+3.  **Role Mapping**
 
     - Map decision authority and responsibility across all stages of AI deployment.
 
@@ -1559,7 +1473,7 @@ This protocol creates a shared record of purpose, oversight, and ethical assuran
 
     - Specify how role information is communicated to internal and external stakeholders.
 
-4.  **Transparency and Explainability  **
+4.  **Transparency and Explainability**
 
     - Document data provenance, model lineage, and interpretability processes.
 
@@ -1567,7 +1481,7 @@ This protocol creates a shared record of purpose, oversight, and ethical assuran
 
     - Provide accessible explanations for affected individuals or oversight bodies.
 
-5.  **Review and Escalation  **
+5.  **Review and Escalation**
 
     - Define triggers for review (e.g., performance anomalies, user complaints, ethical red flags).
 
@@ -1575,7 +1489,7 @@ This protocol creates a shared record of purpose, oversight, and ethical assuran
 
     - Establish criteria for halting, reconfiguring, or withdrawing systems.
 
-6.  **Feedback and Learning  **
+6.  **Feedback and Learning**
 
     - Integrate lessons from audits, user feedback, or reflective workshops.
 
@@ -1598,14 +1512,14 @@ When completed collaboratively, this protocol creates a **living governance reco
 
 ## **11.2 Template B – Equity-Focused AI Audit Tool**
 
-**Purpose:  **
+**Purpose:**
 To assess and strengthen inclusion, fairness, and justice in the design, deployment, and review of AI systems or decisions.
 
 This audit tool operationalises the *Ethics, Equity and Impact* domain, translating principles into concrete evaluative criteria. It can be applied to specific projects, datasets, workflows, or organisational policies.
 
 ### **Sections**
 
-1.  **Representation and Access  **
+1.  **Representation and Access**
 
     - Who benefits, and who may be excluded or harmed?
 
@@ -1613,7 +1527,7 @@ This audit tool operationalises the *Ethics, Equity and Impact* domain, translat
 
     - Are accessibility and language needs explicitly considered?
 
-2.  **Participatory Design and Input  **
+2.  **Participatory Design and Input**
 
     - Who shaped requirements, data selection, and system evaluation?
 
@@ -1621,7 +1535,7 @@ This audit tool operationalises the *Ethics, Equity and Impact* domain, translat
 
     - Were stakeholders consulted in ways that allowed genuine influence?
 
-3.  **Data and Model Sensitivities  **
+3.  **Data and Model Sensitivities**
 
     - Identify known limitations, biases, or blind spots in training data and model design.
 
@@ -1629,7 +1543,7 @@ This audit tool operationalises the *Ethics, Equity and Impact* domain, translat
 
     - Ensure transparency of model updates and validation methods.
 
-4.  **Feedback and Challenge Mechanisms  **
+4.  **Feedback and Challenge Mechanisms**
 
     - Are contestation routes available for affected users or communities?
 
@@ -1637,7 +1551,7 @@ This audit tool operationalises the *Ethics, Equity and Impact* domain, translat
 
     - Are appeal outcomes visible and traceable?
 
-5.  **Power and Shared Governance  **
+5.  **Power and Shared Governance**
 
     - Map decision-making authority across stakeholders.
 
@@ -1766,7 +1680,7 @@ CloudPedagogy invites institutions, practitioners, and researchers to:
 
 - **Pilot digital-badge systems** or run **community workshops** for shared evaluation.
 
-**Contact:  **
+**Contact:**
 🌐 [<u>cloudpedagogy.com  
 </u>](https://cloudpedagogy.com) 📧 info@cloudpedagogy.com  
 📧 (Project Lead) jonathan@cloudpedagogy.com
@@ -1800,7 +1714,7 @@ This Framework builds upon and extends key international initiatives:
 
 - **DigComp (EU)**
 
-- **EDUCAUSE Digital Dexterity and AI Literacy (US)  **
+- **EDUCAUSE Digital Dexterity and AI Literacy (US)**
 
 CloudPedagogy expands these models into the domains of **AI literacy**, **governance**, and **generative capability**, offering a developmental architecture for human-centred AI practice.
 
@@ -1819,22 +1733,22 @@ Use it. Adapt it. Evolve it in your context.
 
 To evaluate both capability growth and organisational learning, institutions may track the following indicators:
 
-1.  **Engagement and Reach  **
+1.  **Engagement and Reach**
      • % of teams completing the Self-Assessment Matrix every 6–12 months.
 
-2.  **Applied Practice  **
+2.  **Applied Practice**
      • Number of scenario-based workshops piloted and documented.
 
-3.  **Governance Maturity  **
+3.  **Governance Maturity**
      • Presence of AI Use Statements, decision logs, and oversight records across projects.
 
-4.  **Equity and Ethics Integration  **
+4.  **Equity and Ethics Integration**
      • Number of equity-audit actions closed per review cycle.
 
-5.  **Capability Confidence  **
+5.  **Capability Confidence**
      • Pre/post assessment shifts in staff confidence within each domain.
 
-6.  **Learning Sustainability  **
+6.  **Learning Sustainability**
      • Proportion of governance reviews completed on schedule with documented learning updates.
 
 These indicators should be interpreted *developmentally*, signalling progress in culture and reflection rather than compliance performance.
@@ -1849,82 +1763,82 @@ Wong, J. (2026). *CloudPedagogy AI Capability Framework (2026 Edition).* CloudPe
 
 This glossary defines key terms used throughout the **CloudPedagogy AI Capability Framework (2026 Edition)**. Each term is framed to reflect the developmental and ethical intent of the Framework—emphasising human–AI relationships, transparency, and systemic understanding rather than purely technical description.
 
-**AI system  **
+**AI system**
 Any software or hardware capable of perception, reasoning, or action that influences human or organisational outcomes.  
 Includes generative, predictive, agentic, multimodal, and hybrid forms of artificial intelligence.
 
-**AI interaction design  **
+**AI interaction design**
 The intentional practice of shaping inputs, configurations, and feedback processes to enable meaningful, auditable, and ethically aligned engagement with AI systems.  
 Extends beyond “prompting” to include interpretability, co-agency, and reflective oversight.
 
-**AI capability (capability)  **
+**AI capability (capability)**
 The developmental ability to understand, shape, and govern AI systems with ethical, creative, and systemic awareness.  
 In the Framework, capability evolves across six interdependent domains rather than through fixed skill acquisition.
 
-**AI awareness  **
+**AI awareness**
 Foundational literacy about how AI systems perceive, reason, and decide, including recognition of their assumptions, limitations, and social implications.  
 Serves as the entry point for critical engagement and informed decision-making.
 
-**Co-agency (human–AI)  **
+**Co-agency (human–AI)**
 The purposeful distribution of roles, responsibilities, and decision authority between humans and AI systems.  
 Co-agency ensures that human judgement, context, and ethics remain central while leveraging machine capabilities for augmentation and insight.
 
-**Interpretability  **
+**Interpretability**
 The extent to which an AI system’s inner reasoning, data use, and decision outputs can be understood and explained by humans.  
 A foundation for transparency, trust, and responsible governance.
 
-**Traceability  **
+**Traceability**
 The ability to reconstruct the sequence of inputs, data sources, configurations, and decisions that led to a particular outcome.  
 Enables auditability, accountability, and ethical review.
 
-**Transparency  **
+**Transparency**
 The degree to which AI processes, data sources, and decision pathways are visible, explainable, and open to scrutiny by stakeholders.  
 Transparency strengthens legitimacy and public trust.
 
-**Ethics (AI ethics)  **
+**Ethics (AI ethics)**
 The continuous practice of aligning AI design and use with human values, fairness, and accountability.  
 Extends beyond compliance to anticipatory and participatory foresight.
 
-**Equity audit  **
+**Equity audit**
 A structured process for assessing fairness, inclusion, and justice across the lifecycle of AI design, deployment, and evaluation.  
 Identifies who benefits, who is excluded, and how structural inequalities may be mitigated.
 
-**Governance (AI governance)  **
+**Governance (AI governance)**
 The structures, policies, and participatory processes that ensure accountable, transparent, and values-aligned oversight of AI systems.  
 Encompasses ethical review, documentation, escalation, and continuous learning.
 
-**Governance artefact  **
+**Governance artefact**
 A tangible record or mechanism—such as an AI Use Statement, audit log, or oversight protocol—that documents how AI-influenced decisions are guided, reviewed, and justified.
 
-**Innovation (applied practice and innovation)  **
+**Innovation (applied practice and innovation)**
 The process of experimenting and creating with AI responsibly.  
 Combines curiosity, ethics, and contextual adaptation to generate new insights, services, or practices while safeguarding inclusion and accountability.
 
-**Foresight  **
+**Foresight**
 The capacity to anticipate future consequences, opportunities, and ethical implications of AI systems.  
 Supports proactive design, strategic planning, and sustainable decision-making.
 
-**Ecological learning  **
+**Ecological learning**
 An approach to capability development that views knowledge as relational, adaptive, and situated within systems of people, tools, and contexts.  
 Serves as a philosophical foundation for reflection and renewal.
 
-**Learning ecosystem  **
+**Learning ecosystem**
 The interconnected network of people, processes, technologies, and feedback loops through which organisations learn and adapt in response to AI.  
 Transforms individual reflection into collective capability.
 
-**Design thinking  **
+**Design thinking**
 A human-centred methodology for creative problem-solving, emphasising empathy, prototyping, iteration, and testing.  
 Within the Framework, design thinking provides the mode through which AI capability becomes reflective and adaptive.
 
-**Reflective intelligence  **
+**Reflective intelligence**
 The capacity to question, analyse, and adapt one’s use of AI over time.  
 Anchors continuous improvement, ethical foresight, and renewal across all six domains.
 
-**Values-in-practice  **
+**Values-in-practice**
 The lived enactment of ethical, cultural, and organisational principles in daily AI-enabled work.  
 Translates institutional values—such as equity, care, or transparency—into observable behaviour and decision-making patterns.
 
-**Note:  **
+**Note:**
 This glossary is non-exhaustive and intended to evolve with each Framework edition. Users are encouraged to expand or adapt definitions for local, disciplinary, or linguistic contexts.
 
 # 
