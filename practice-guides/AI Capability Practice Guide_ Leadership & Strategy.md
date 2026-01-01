@@ -49,7 +49,7 @@ This guide is **not** designed for:
 
 If you are looking for tools that *replace* leadership responsibility rather than **support judgement**, this guide will feel intentionally restrictive.
 
-**  **
+
 
 ## **What You Will Be Able to Do in 30–60 Minutes**
 
@@ -115,7 +115,7 @@ Examples:
 
 Vague decisions create invisible risk.
 
-**  **
+
 
 ### **Step 2 — Identify AI Influence (Co-Agency Check)**
 
@@ -152,7 +152,7 @@ Choose one:
 
 Document the rationale in one paragraph.
 
-**  **
+
 
 ### **Step 5 — Record the Decision**
 
@@ -257,7 +257,7 @@ In leadership contexts, the six domains operate as **decision safeguards**:
 
 Skipping domains shifts risk onto people with less power to contest it.
 
-**  **
+
 
 ## **Stage 2 — How This Guide Works & Situational Entry Points (Leadership & Strategy)**
 
@@ -279,7 +279,7 @@ You are expected to:
 This mirrors real leadership practice:  
 decisions are iterative, revisited, and scrutinised after the fact.
 
-**  **
+
 
 ## **The Six Domains as a Leadership Decision Framework**
 
@@ -311,7 +311,7 @@ You apply **more domains as impact, uncertainty, or risk increases**.
 Skipping domains does not accelerate progress.  
 It shifts risk downstream—often onto people with less power to challenge outcomes.
 
-**  **
+
 
 ## **Why Situational Entry Points Matter for Leaders**
 
@@ -333,7 +333,7 @@ They start with:
 
 Situational entry points let you respond **where the decision pressure is**, not where the framework starts.
 
-**  **
+
 
 # **SITUATIONAL ENTRY POINTS — START HERE**
 
@@ -397,7 +397,7 @@ The decision will:
 
 - Treating indirect impact as minor
 
-**  **
+
 
 ## **Entry Point 3 — “AI is influencing strategy, not just operations.”**
 
@@ -429,7 +429,7 @@ AI is shaping:
 
 - Letting AI narrow option space prematurely
 
-**  **
+
 
 ## **Entry Point 4 — “If this goes wrong, I will be accountable.”**
 
@@ -459,7 +459,7 @@ You carry formal responsibility:
 
 - Assuming technical teams “own” AI risk
 
-**  **
+
 
 ## **Entry Point 5 — “We’re scaling AI use across the organisation.”**
 
@@ -493,7 +493,7 @@ You are thinking about:
 
 - future-readiness
 
-**  **
+
 
 ### **Primary domains to apply**
 
@@ -513,7 +513,7 @@ You are thinking about:
 
 - Treating AI capability as static
 
-**  **
+
 
 ## **How the Rest of This Guide Is Structured**
 
@@ -546,7 +546,7 @@ They prevent strategic drift, misplaced confidence, and silent delegation of aut
 
 Each domain follows the same canonical pattern used across the Practice Guides.
 
-**  **
+
 
 # **DOMAIN 1 — AI Awareness & Orientation (Strategic Literacy)**
 
@@ -621,7 +621,7 @@ Use this short check before approving AI-informed recommendations:
 
 One sentence per question is enough.
 
-**  **
+
 
 ## **Common Failure Modes in Leadership**
 
@@ -640,7 +640,7 @@ One sentence per question is enough.
 **Which assumptions in this recommendation deserve explicit challenge?**
 Write one sentence.
 
-**  **
+
 
 # **DOMAIN 2 — Human–AI Co-Agency (Authority & Accountability)**
 
@@ -707,7 +707,7 @@ Complete this before final approval.
 
 These failures surface during audits, inquiries, or crises.
 
-**  **
+
 
 ## **Quick Reflection**
 
@@ -734,7 +734,7 @@ Innovation at leadership level is about **better judgement**, not faster automat
 
 AI should *expand thinking*, not collapse it into a single “optimal” path.
 
-**  **
+
 
 ## **Apply Now — Key Questions**
 
@@ -797,7 +797,7 @@ As impact widens, these domains must be complemented by Domains 4–6:
 
 - long-term renewal
 
-**  **
+
 
 ## **Stage 4 — Risk, Responsibility & Renewal: Domains 4–6 (Leadership & Strategy)**
 
@@ -817,7 +817,7 @@ Domains 4–6 become critical when AI-influenced decisions:
 
 These domains ensure AI use at leadership level is **ethical, governed, defensible, and sustainable**.
 
-**  **
+
 
 # **DOMAIN 4 — Ethics, Equity & Impact (System-Level Responsibility)**
 
@@ -846,7 +846,7 @@ Seemingly neutral AI-informed decisions can:
 
 - shift responsibility away from decision-makers
 
-**  **
+
 
 ## **Apply Now — Key Questions**
 
@@ -880,7 +880,7 @@ Use this brief scan on any strategic AI use:
 
 Capture one sentence per risk.
 
-**  **
+
 
 ## **Common Failure Modes in Leadership**
 
@@ -898,7 +898,7 @@ Capture one sentence per risk.
 
 **Whose perspective is most absent from this decision—and why?**
 
-**  **
+
 
 # **DOMAIN 5 — Decision-Making & Governance (Organisational Accountability)**
 
@@ -993,7 +993,7 @@ When in doubt: **slow the decision, not the process**.
 
 **Could this decision withstand scrutiny from those most affected?**
 
-**  **
+
 
 # **DOMAIN 6 — Reflection, Learning & Renewal (Strategic Maturity)**
 
@@ -1022,7 +1022,7 @@ Without reflection, organisations:
 
 - mistake speed for progress
 
-**  **
+
 
 ## **Apply Now — Key Questions**
 
@@ -1052,7 +1052,7 @@ Adopt a simple cycle:
 
 This can be discussed in minutes during leadership meetings.
 
-**  **
+
 
 ## **Common Failure Modes in Leadership**
 
@@ -1068,7 +1068,7 @@ This can be discussed in minutes during leadership meetings.
 
 **What assumption about AI leadership just changed for me?**
 
-**  **
+
 
 # **Domains 4–6 in Practice (Leadership & Strategy)**
 
@@ -1213,7 +1213,7 @@ Capability will stagnate.
 
 Leadership capability grows by **rebalancing**, not maximising.
 
-**  **
+
 
 ## **PART B — WORKED LEADERSHIP SCENARIO (END-TO-END)**
 
@@ -1312,7 +1312,7 @@ Responsible leadership with AI:
 
 Capability is visible in **how** decisions were made.
 
-**  **
+
 
 ## **PART C — YOUR LEADERSHIP AI OPERATING MODEL**
 

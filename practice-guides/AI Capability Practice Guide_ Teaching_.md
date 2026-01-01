@@ -95,7 +95,7 @@ Use this guide when:
 
 If academic integrity, student learning, or fairness could be affected, this guide is essential.
 
-**  **
+
 
 ## **The 10-Minute Teaching Workflow**
 
@@ -127,7 +127,7 @@ Avoid:
 
 - generating assessments without supervision
 
-**  **
+
 
 ### **Step 2 — Define Educator–AI–Student Roles**
 
@@ -155,7 +155,7 @@ Before generating or using AI output, ask:
 
 If learning is weakened, do not proceed.
 
-**  **
+
 
 ### **Step 4 — Run the Academic Integrity & Fairness Screen**
 
@@ -185,7 +185,7 @@ Choose one:
 
 Document your reasoning — academic integrity requires traceability.
 
-**  **
+
 
 ## **Worked Example: Same Teaching Task, Three Outcomes**
 
@@ -217,7 +217,7 @@ AI accelerates structure, but *pedagogical judgement* shapes learning.
 **Why this is risky:**
 Students may be misdirected or miscalibrated about difficulty.
 
-**  **
+
 
 ### **⛔ Unacceptable Use**
 
@@ -248,7 +248,7 @@ This note helps:
 
 - improve future teaching design
 
-**  **
+
 
 # **STAGE 2 — AI CAPABILITY IN TEACHING PRACTICE**
 
@@ -381,7 +381,7 @@ If AI erodes productive struggle, redesign the task.
 
 This abdicates pedagogical responsibility rather than designing for reality.
 
-**  **
+
 
 ## **Domain 3 — Applied Practice & Innovation (Teaching-Specific)**
 
@@ -451,7 +451,7 @@ AI intensifies existing inequities unless designed otherwise.
 
 - reinforcing dominant perspectives
 
-**  **
+
 
 ### **Apply Now — Equity Check for Teaching**
 
@@ -485,7 +485,7 @@ Teaching governance ensures:
 
 It is not bureaucracy — it is professional protection.
 
-**  **
+
 
 ### **Teaching Decisions That Require Governance**
 
@@ -521,7 +521,7 @@ For high-impact teaching decisions:
 
 A short record is sufficient — silence is not.
 
-**  **
+
 
 ### **Teaching Failure Mode**
 
@@ -578,7 +578,7 @@ Teaching with AI requires:
 It is *not* about tool mastery.  
 It is about professional responsibility in an AI-rich learning environment.
 
-**  **
+
 
 # **STAGE 3 — APPLIED AI WORKFLOWS FOR TEACHING**
 
@@ -604,7 +604,7 @@ Therefore:
 
 > **Every AI use in teaching is a curriculum decision.**
 
-**  **
+
 
 ## **Workflow 1 — Designing Teaching Materials with AI**
 
@@ -642,7 +642,7 @@ AI can support educators by:
 
     - Ensure materials support, not shortcut, learning outcomes.
 
-**  **
+
 
 ### **Good Practice Example**
 
@@ -701,7 +701,7 @@ Design assessments that:
 
     - Capture the rationale for audit or review.
 
-**  **
+
 
 ### **Good Practice Example**
 
@@ -731,7 +731,7 @@ AI-generated feedback:
 
 Feedback requires **relational judgement**, not generic phrasing.
 
-**  **
+
 
 ### **Teaching Workflow (Feedback Design)**
 
@@ -760,7 +760,7 @@ Educator adjusts emphasis, removes assumptions, and adds personalised comments.
 
 Bulk AI-generated feedback sent without review.
 
-**  **
+
 
 ## **Workflow 4 — Student Guidance on Acceptable AI Use**
 
@@ -826,7 +826,7 @@ This prevents inconsistent student experience.
 
 This creates confusion, unfairness, and governance risk.
 
-**  **
+
 
 ## **Teaching Capability Signals (Self-Check)**
 
@@ -842,7 +842,7 @@ You are teaching well with AI if:
 
 - learning improves, not just delivery speed
 
-**  **
+
 
 # **STAGE 4 — ETHICS, EQUITY, GOVERNANCE & PEDAGOGICAL RENEWAL**
 
@@ -853,7 +853,7 @@ In education, **impact is multiplied**: one decision affects dozens, hundreds, o
 
 This stage turns domains 4–6 of the AI Capability Framework into **teaching-specific safeguards and renewal mechanisms**.
 
-**  **
+
 
 # **DOMAIN 4 — ETHICS, EQUITY & IMPACT IN TEACHING**
 
@@ -887,7 +887,7 @@ AI amplifies these risks because it:
 
 Educators must intervene *before* these outputs reach learners.
 
-**  **
+
 
 ## **2. Key Ethical Risks in Teaching with AI**
 
@@ -953,7 +953,7 @@ Use this **before** sharing AI-influenced materials or assessments:
 
 If any answer signals risk → revise, contextualise, or add human commentary.
 
-**  **
+
 
 # **DOMAIN 5 — DECISION-MAKING & GOVERNANCE IN TEACHING**
 
@@ -983,7 +983,7 @@ Therefore:
 
 > **If AI influences teaching or assessment, a governance trail must exist.**
 
-**  **
+
 
 ## **2. When Governance Is Required**
 
@@ -1079,7 +1079,7 @@ Escalate to programme leadership, assessment boards, or QA teams when:
 
 Teaching-related risk must never be carried alone.
 
-**  **
+
 
 # **DOMAIN 6 — REFLECTION, LEARNING & RENEWAL (PEDAGOGICAL ADVANCEMENT)**
 
@@ -1148,7 +1148,7 @@ Effective practices:
 
 Reflection becomes professional knowledge, not private insight.
 
-**  **
+
 
 ## **3. Indicators of Mature Teaching Capability**
 
@@ -1174,7 +1174,7 @@ You know your teaching capability has matured when:
 
 This principle anchors ethical and pedagogical responsibility across all teaching decisions.
 
-**  **
+
 
 # **STAGE 5 — TEACHING CAPABILITY SELF-CHECK, WORKED SCENARIO & OPERATING MODEL**
 
@@ -1232,7 +1232,7 @@ Run the Teaching Impact Scan before material release.
 **If missing:**
 Implement the Teaching Governance Note immediately.
 
-**  **
+
 
 ### **Domain 6 — Reflection & Pedagogical Renewal**
 
@@ -1253,7 +1253,7 @@ Introduce a simple reflection cadence at module end.
 
 Teaching capability grows through *alignment*, not acceleration.
 
-**  **
+
 
 ## **PART B — WORKED SCENARIO: END-TO-END TEACHING PRACTICE**
 
@@ -1355,7 +1355,7 @@ After marking, you review:
 
 You adjust guidance for next iteration.
 
-**  **
+
 
 ### **What This Scenario Demonstrates**
 
@@ -1387,7 +1387,7 @@ Examples:
 
 Write yours:
 
-**  **
+
 
 ### **2️⃣ My Educator–AI–Student Boundaries**
 
@@ -1416,7 +1416,7 @@ I document or escalate when AI affects:
 
 - curriculum standards
 
-**  **
+
 
 ### **5️⃣ My Reflection & Renewal Practice**
 

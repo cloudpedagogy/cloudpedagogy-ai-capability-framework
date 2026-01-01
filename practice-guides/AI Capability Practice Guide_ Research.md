@@ -92,7 +92,7 @@ Use this guide when:
 
 If none of these apply, formal guidance may not be needed yet.
 
-**  **
+
 
 ## **The 10-Minute Entry Workflow (Research)**
 
@@ -126,7 +126,7 @@ Ask yourself:
 
 If you cannot answer all three, **stop and refine the task**.
 
-**  **
+
 
 ### **Step 3 — Apply the Research Capability Check**
 
@@ -162,7 +162,7 @@ Choose one:
 
 Document the decision. One sentence is enough.
 
-**  **
+
 
 ## **Worked Example — One Task, Three Outcomes (Research)**
 
@@ -193,7 +193,7 @@ AI supports sense-making without replacing engagement with literature.
 **Why this is risky:**
 False coherence and hallucinated references may go unnoticed.
 
-**  **
+
 
 ### **⛔ Unacceptable Use**
 
@@ -230,7 +230,7 @@ This single note:
 
 You have now already **improved your research AI capability**.
 
-**  **
+
 
 ## **How This Guide Works**
 
@@ -321,7 +321,7 @@ This guide is designed for that reality.
 
 High-impact research requires **slower judgement, not faster automation**.
 
-**  **
+
 
 ## **Stage 2 — How This Guide Works & Situational Entry Points (Research)**
 
@@ -426,7 +426,7 @@ AI could help—but something feels risky.
 
 - Increase verification before sharing or submission
 
-**  **
+
 
 ### **Common failure mode**
 
@@ -499,7 +499,7 @@ The research output may affect:
 
 - public understanding
 
-**  **
+
 
 ### **Primary domains to apply**
 
@@ -519,7 +519,7 @@ The research output may affect:
 
 - Treating indirect impact as negligible
 
-**  **
+
 
 ## **Entry Point 5 — “Someone might question how this was produced.”**
 
@@ -551,7 +551,7 @@ You anticipate scrutiny from:
 
 - Trying to justify AI use retroactively
 
-**  **
+
 
 ## **Entry Point 6 — “I want to improve my research practice, not just finish this task.”**
 
@@ -581,7 +581,7 @@ You are thinking beyond one project toward:
 
 - Repeating convenient workflows without evaluation
 
-**  **
+
 
 ## **How the Rest of This Guide Is Structured**
 
@@ -607,7 +607,7 @@ You can work with:
 
 depending on the research situation you face.
 
-**  **
+
 
 ## **Stage 3 — Core Practice Workflow: Domains 1–3 (Research)**
 
@@ -628,7 +628,7 @@ Each domain follows the canonical structure:
 
 - **Quick Reflection**
 
-**  **
+
 
 # **DOMAIN 1 — AI Awareness & Orientation (Research Literacy)**
 
@@ -654,7 +654,7 @@ it predicts.
 
 Awareness ensures you never confuse those two.
 
-**  **
+
 
 ## **Apply Now — Key Questions**
 
@@ -691,7 +691,7 @@ Use this quick template before relying on any AI-generated research text:
 Write one sentence for each.  
 This prevents epistemic shortcuts.
 
-**  **
+
 
 ## **Common Failure Modes in Research**
 
@@ -711,7 +711,7 @@ This prevents epistemic shortcuts.
 Capture one sentence.  
 This small habit produces large capability gains over time.
 
-**  **
+
 
 # **DOMAIN 2 — Human–AI Co-Agency (Research Workflow Design)**
 
@@ -774,7 +774,7 @@ Ask:
 4.  **What decisions must be traceable for supervisors, reviewers, or examiners?**
     (How claims were formed, how literature was interpreted.)
 
-**  **
+
 
 ## **Tool in Use — Research Co-Agency Map**
 
@@ -807,7 +807,7 @@ Use this once per meaningful research task.
 
 These failures often remain invisible until challenged by a reviewer.
 
-**  **
+
 
 ## **Quick Reflection**
 
@@ -836,7 +836,7 @@ but research innovation must **never** shortcut scholarly rigor.
 
 Innovation is valuable only when **methods, evidence, and interpretation remain intact**.
 
-**  **
+
 
 ## **Apply Now — Key Questions**
 
@@ -864,7 +864,7 @@ Use this when you want AI support without epistemic shortcuts:
 
 This creates **creative divergence** without blurring evidence boundaries.
 
-**  **
+
 
 ## **Common Failure Modes in Research**
 
@@ -883,7 +883,7 @@ This creates **creative divergence** without blurring evidence boundaries.
 **What improved because I used AI—and what did not?**
 Capture one insight for reuse.
 
-**  **
+
 
 # **Domains 1–3 in Practice (Research)**
 
@@ -908,7 +908,7 @@ They prepare the foundation for Domains 4–6, which address:
 
 These are the guardrails preventing research from drifting into irresponsible use.
 
-**  **
+
 
 ## **Stage 4 — Risk, Responsibility & Renewal: Domains 4–6 (Research)**
 
@@ -940,7 +940,7 @@ We keep the canonical structure for each domain:
 
 - **Quick Reflection**
 
-**  **
+
 
 # **DOMAIN 4 — Ethics, Equity & Impact (Epistemic Responsibility)**
 
@@ -971,7 +971,7 @@ AI can distort:
 
 AI amplifies dominant perspectives unless intentionally constrained.
 
-**  **
+
 
 ## **Apply Now — Key Questions**
 
@@ -1003,7 +1003,7 @@ Use this 90-second scan on any AI-assisted research output:
 
 One sentence per risk is enough.
 
-**  **
+
 
 ## **Common Failure Modes in Research**
 
@@ -1022,7 +1022,7 @@ One sentence per risk is enough.
 **If I were part of the community represented here, what would concern me most?**
 Capture one insight.
 
-**  **
+
 
 # **DOMAIN 5 — Decision-Making & Governance (Research Integrity Infrastructure)**
 
@@ -1053,7 +1053,7 @@ AI use must be:
 
 especially when it shapes interpretation, structure, or claims.
 
-**  **
+
 
 ## **Apply Now — Key Questions**
 
@@ -1127,7 +1127,7 @@ When in doubt: **escalate**.
 
 These failures surface during peer review—rarely earlier.
 
-**  **
+
 
 ## **Quick Reflection**
 
@@ -1305,7 +1305,7 @@ Reflect:
 **If mostly no:**
 Shift from output extraction to safe experimentation.
 
-**  **
+
 
 ### **Domain 4 — Ethics, Equity & Impact**
 
@@ -1337,7 +1337,7 @@ Check:
 **If mixed or no:**
 Introduce lightweight documentation immediately.
 
-**  **
+
 
 ### **Domain 6 — Reflection, Learning & Renewal**
 
@@ -1364,7 +1364,7 @@ Adopt a simple reflection habit.
 
 Capability grows by **rebalancing**, not maximising.
 
-**  **
+
 
 ## **PART B — WORKED RESEARCH SCENARIO (END-TO-END)**
 
@@ -1391,7 +1391,7 @@ You therefore:
 
 - treat AI outputs as hypotheses, not claims
 
-**  **
+
 
 ### **Domain 2 — Co-Agency in Action**
 
@@ -1429,7 +1429,7 @@ You:
 
 AI expands thinking; it does not replace reading.
 
-**  **
+
 
 ### **Domain 4 — Ethics & Impact in Action**
 
@@ -1467,7 +1467,7 @@ After submission or review, you ask:
 
 You adjust your workflow accordingly.
 
-**  **
+
 
 ### **What This Scenario Shows**
 
@@ -1484,7 +1484,7 @@ Responsible AI use in research:
 AI capability is not visible in the output alone.  
 It is visible in **how the work was produced**.
 
-**  **
+
 
 ## **PART C — YOUR RESEARCH AI OPERATING MODEL**
 
@@ -1514,7 +1514,7 @@ Examples:
 
 **I always retain responsibility for:**
 
-**  **
+
 
 ### **3️⃣ My Ethical Red Lines**
 
@@ -1548,7 +1548,7 @@ After meaningful AI use, I ask:
 My reflection cadence:  
 ☐ after every task ☐ weekly ☐ per project
 
-**  **
+
 
 ### **6️⃣ My Renewal Commitment**
 

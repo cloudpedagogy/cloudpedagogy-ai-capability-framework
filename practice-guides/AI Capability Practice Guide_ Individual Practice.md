@@ -20,7 +20,7 @@ You **do** need to make sound decisions under real-world pressure.
 
 This guide assumes you are the person responsible for the outcome—even if AI is involved.
 
-**  **
+
 
 ## **Who This Guide Is *Not* For**
 
@@ -54,7 +54,7 @@ By working through this guide, you will be able to:
 
 You will also produce at least one **tangible artefact** (a documented decision, revised workflow, or reflection record) you can reuse immediately.
 
-**  **
+
 
 # **FAST START — USE THIS NOW**
 
@@ -80,7 +80,7 @@ Use this guide when:
 
 If none of these are true, this guide may not be necessary yet.
 
-**  **
+
 
 ## **The 10-Minute Entry Workflow**
 
@@ -114,7 +114,7 @@ Ask:
 
 If not, you are not ready to rely on the output.
 
-**  **
+
 
 ### **Step 4 — Run the rapid ethics & impact screen**
 
@@ -138,7 +138,7 @@ Choose **one**:
 
 Document the choice. Even one sentence is enough.
 
-**  **
+
 
 ## **Worked Example: Same Task, Three Outcomes**
 
@@ -170,7 +170,7 @@ AI accelerates drafting without replacing judgement or accountability.
 **Why this’s risky:**
 Errors aren’t obvious, but credibility could be undermined later.
 
-**  **
+
 
 ### **⛔ Unacceptable Use**
 
@@ -203,7 +203,7 @@ This single note is enough to:
 
 You have now already improved your AI capability.
 
-**  **
+
 
 # **HOW THIS GUIDE WORKS**
 
@@ -300,7 +300,7 @@ This is the *recommended minimum* for non-trivial work.
 
 High-impact contexts require *slower, more deliberate capability*, not faster automation.
 
-**  **
+
 
 # **SITUATIONAL ENTRY POINTS**
 
@@ -337,7 +337,7 @@ You feel pressure to deliver fast, but something about using AI feels risky.
 
 - Assumption that quick work is low-impact
 
-**  **
+
 
 ## **Entry Point 2 — “I’m not sure if AI is appropriate here.”**
 
@@ -371,7 +371,7 @@ The AI result appears polished, but confidence is low.
 
 - Reflection, Learning & Renewal
 
-**  **
+
 
 **What to do now**
 
@@ -439,7 +439,7 @@ You’re thinking about long-term capability, not one task.
 
 - Applied Practice & Innovation
 
-**  **
+
 
 **What to do now**
 
@@ -542,7 +542,7 @@ Capture one sentence for each.
 
 Write one sentence. This improves future judgement immediately.
 
-**  **
+
 
 ## **Domain 2 — Human–AI Co-Agency**
 
@@ -611,7 +611,7 @@ This domain enables:
 
 Innovation here means **better practice**, not maximal automation.
 
-**  **
+
 
 ### **Apply Now — Key Questions**
 
@@ -647,7 +647,7 @@ Explicitly frame AI as *support*, not authority.
 
 Capture one insight for reuse later.
 
-**  **
+
 
 ### **Domains 1–3 in Practice**
 
@@ -662,7 +662,7 @@ Together, these domains shape:
 They are **necessary but not sufficient** for responsible practice.  
 As impact and risk increase, you must apply the next domains.
 
-**  **
+
 
 **RISK, RESPONSIBILITY & RENEWAL**
 
@@ -726,7 +726,7 @@ One sentence per risk is sufficient.
 
 > *If I were on the receiving end of this output, what would concern me most?*
 
-**  **
+
 
 ## **Domain 5 — Decision-Making & Governance**
 
@@ -755,7 +755,7 @@ Ask:
 
 If you cannot document these answers, governance is missing.
 
-**  **
+
 
 ### **Tool in Use — Decision Transparency Log**
 
@@ -823,7 +823,7 @@ After meaningful AI use, ask:
 
 Reflection turns experience into capability.
 
-**  **
+
 
 ### **Tool in Use — Mini Reflection Cycle**
 
@@ -851,7 +851,7 @@ This can take under five minutes.
 
 > *What assumption about AI shifted for me during this task?*
 
-**  **
+
 
 ## **Domains 4–6 in Practice**
 
@@ -882,7 +882,7 @@ AI capability matures through repetition of this loop:
 Skipping steps increases risk.  
 Revisiting steps deepens capability.
 
-**  **
+
 
 # **STAGE 5 — CAPABILITY SELF-CHECK & WORKED EXAMPLE**
 
@@ -907,7 +907,7 @@ Answer honestly:
 
 **If mostly NO →** start with Domain 1 actions before increasing usage.
 
-**  **
+
 
 ### **Domain 2 — Human–AI Co-Agency**
 
@@ -1012,7 +1012,7 @@ You therefore:
 
 - ask for structured drafts and alternatives
 
-**  **
+
 
 ### **Domain 2 — Co-Agency in Action**
 
@@ -1115,7 +1115,7 @@ The same logic applies across:
 
 This is the **individual foundation** all other contexts build on.
 
-**  **
+
 
 # **STAGE 6 — QUICK-START & PERSONAL OPERATING MODEL**
 
@@ -1170,7 +1170,7 @@ If you cannot answer these, pause.
 
 These are **capability warnings**, not tool failures.
 
-**  **
+
 
 ## **Part B — Personal AI Practice Operating Model**
 
@@ -1234,7 +1234,7 @@ Examples:
 
 - policy, safety, or reputational risk
 
-**  **
+
 
 ### **5️⃣ My Reflection Habit**
 

@@ -63,7 +63,7 @@ If mistakes could:
 
 …this guide is for you.
 
-**  **
+
 
 ## **What You Will Be Able to Do in 30–60 Minutes**
 
@@ -83,7 +83,7 @@ By working through this guide, you will be able to:
 
 You will also produce at least one **concrete safeguard artefact** (e.g. red-line rules, escalation triggers, or a high-risk AI use note) you can apply immediately.
 
-**  **
+
 
 ## **FAST START — USE THIS NOW**
 
@@ -117,7 +117,7 @@ Use this guide when:
 
 If the answer to *“Could someone be seriously harmed or unjustly disadvantaged here?”* is **not clearly no**, treat the context as high-risk.
 
-**  **
+
 
 ## **The 10-Minute High-Risk Entry Workflow**
 
@@ -221,7 +221,7 @@ Drafting public guidance on a health-risk topic using AI.
 **Why this works:**
 AI accelerates drafting; humans retain expertise and responsibility.
 
-**  **
+
 
 ### **⚠️ Marginal, Fragile Use**
 
@@ -245,7 +245,7 @@ No clear evidence of safety or fairness; trust can collapse quickly if errors su
 **Why this fails:**
 People could be harmed by unverified information; no one can explain or own the decision.
 
-**  **
+
 
 ## **Your First High-Risk Safeguard Artefact (Create This Now)**
 
@@ -305,7 +305,7 @@ In high-risk or public-impact domains, the six domains function as **protective 
 Skipping domains in high-risk settings is not a time-saving tactic.  
 It is a **risk transfer** to those with least protection.
 
-**  **
+
 
 ## **Stage 2 — How This Guide Works & Situational Entry Points**
 
@@ -339,7 +339,7 @@ You are expected to:
 
 The goal is **risk containment and legitimacy**, not technical mastery.
 
-**  **
+
 
 ## **Why High-Risk Contexts Require a Different Usage Pattern**
 
@@ -369,7 +369,7 @@ This guide helps you decide:
 > *how to restrict it safely when you do  *
 > *how to justify those decisions later*
 
-**  **
+
 
 ## **The Guide at a Glance**
 
@@ -399,7 +399,7 @@ The guide is structured around **three layers**:
 
 You will move between layers depending on urgency and risk.
 
-**  **
+
 
 ## **The Six Domains as Protective Controls**
 
@@ -418,7 +418,7 @@ In high-risk environments, the six domains act less like a growth pathway and mo
 Skipping one barrier does not save time.  
 It simply shifts risk to people with fewer protections.
 
-**  **
+
 
 ## **Situational Entry Points**
 
@@ -457,7 +457,7 @@ You believe:
 
 - Define stop-use conditions
 
-**  **
+
 
 **Common failure mode**
 
@@ -493,7 +493,7 @@ The output will be:
 
 - Equating polish with reliability
 
-**  **
+
 
 ### **Entry Point 3 — “The decision seems small, but consequences aren’t.”**
 
@@ -533,7 +533,7 @@ You observe:
 
 - contested values
 
-**  **
+
 
 **Apply first:**
 
@@ -569,7 +569,7 @@ Pressure comes from:
 
 - Ethics, Equity & Impact
 
-**  **
+
 
 **What to do now**
 
@@ -609,7 +609,7 @@ You expect:
 
 - Preserve evidence of review and restraint
 
-**  **
+
 
 **Common failure mode**
 
@@ -677,7 +677,7 @@ In high-risk or public-impact contexts:
 
 - they establish **non-negotiable boundaries**
 
-**  **
+
 
 ## **Domain 1 — AI Awareness & Orientation**
 
@@ -711,7 +711,7 @@ Before AI use (or reliance on output), ask:
 
 If you cannot articulate **specific failure modes**, AI is being over-trusted.
 
-**  **
+
 
 ### **Tool in Use — High-Risk Awareness Check**
 
@@ -745,7 +745,7 @@ One sentence per line is enough.
 
 If you cannot imagine this, you are not yet safe to use AI.
 
-**  **
+
 
 ## **Domain 2 — Human–AI Co-Agency**
 
@@ -775,7 +775,7 @@ Ask explicitly:
 
 If responsibility becomes diffuse, co-agency has failed.
 
-**  **
+
 
 ### **Tool in Use — Restricted Co-Agency Map**
 
@@ -805,7 +805,7 @@ If exceptions exist, document them.
 
 If not, accountability is already compromised.
 
-**  **
+
 
 ## **Domain 3 — Applied Practice & Innovation**
 
@@ -841,7 +841,7 @@ Before experimenting, ask:
 
 If outputs can trigger irreversible action, experimentation is inappropriate.
 
-**  **
+
 
 ### **Tool in Use — Safe-Use Prompt Frame**
 
@@ -866,7 +866,7 @@ This framing reduces authority creep.
 
 If it’s the latter, stop.
 
-**  **
+
 
 ## **Domains 1–3 Combined — The High-Risk Gate**
 
@@ -896,7 +896,7 @@ Stage 4 focuses on:
 
 - governance, escalation, and renewal
 
-**  **
+
 
 ## **Stage 4 — Risk, Responsibility & Renewal: Domains 4–6**
 
@@ -972,7 +972,7 @@ Use this for any public-facing or high-stakes use:
 
 One sentence per line is sufficient — clarity matters more than length.
 
-**  **
+
 
 ### **Common Failure Modes**
 
@@ -1045,7 +1045,7 @@ Create a record *before* deployment:
 This record is not bureaucracy.  
 It is **permission to proceed responsibly**.
 
-**  **
+
 
 ### **Escalation & Stop-Use Triggers**
 
@@ -1146,7 +1146,7 @@ This ensures use remains conditional, not permanent by default.
 
 > *What assumption about “acceptable risk” needs revisiting?*
 
-**  **
+
 
 ## **Domains 4–6 Combined — The Public-Impact Test**
 
@@ -1174,7 +1174,7 @@ Stage 5 consolidates this work into:
 
 This final stage ensures readiness under pressure.
 
-**  **
+
 
 ## **Stage 5 — Capability Self-Check, Worked High-Risk Scenario & Operating Model**
 
@@ -1190,7 +1190,7 @@ You will:
 
 This stage ensures **practical readiness**, not theoretical understanding.
 
-**  **
+
 
 # **PART A — HIGH-RISK CAPABILITY SELF-CHECK**
 
@@ -1214,7 +1214,7 @@ Consider:
 **If “mixed/no”:**
 AI should *not* be used in any public-impact decisions until clarity improves.
 
-**  **
+
 
 ## **Domain 2 — Human–AI Co-Agency**
 
@@ -1246,7 +1246,7 @@ Reflect:
 **If “mixed/no”:**
 You are operating with unmanaged risk.
 
-**  **
+
 
 ## **Domain 4 — Ethics, Equity & Impact**
 
@@ -1278,7 +1278,7 @@ Check:
 **If “mixed/no”:**
 Governance is not ready for high-risk AI.
 
-**  **
+
 
 ## **Domain 6 — Reflection, Learning & Renewal**
 
@@ -1306,7 +1306,7 @@ Capability will degrade over time.
 High-risk capability is not about skill.  
 It is about **containment, judgement, and restraint**.
 
-**  **
+
 
 # **PART B — WORKED HIGH-RISK SCENARIO (END-TO-END)**
 
@@ -1400,7 +1400,7 @@ Before drafting final guidance, the group examines:
 
 They alter content accordingly.
 
-**  **
+
 
 ## **Domain 5 — Governance in Action**
 
@@ -1432,7 +1432,7 @@ After guidance is published, the agency:
 
 Capability strengthens for future events.
 
-**  **
+
 
 ## **What This Scenario Shows**
 
@@ -1450,7 +1450,7 @@ Responsible high-risk AI use is defined by:
 
 This is **capability**, not caution.
 
-**  **
+
 
 # **PART C — HIGH-RISK AI OPERATING MODEL**
 
