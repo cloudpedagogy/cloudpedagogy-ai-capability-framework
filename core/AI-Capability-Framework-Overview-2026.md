@@ -2,7 +2,6 @@
 
 This document explains what the AI Capability Framework is, why organisations across education, public services, health, NGOs and research find it useful, and what makes it uniquely suited to responsible, ethical and strategic AI readiness.
 
-**  **
 
 ## **1. What the AI Capability Framework Is**
 

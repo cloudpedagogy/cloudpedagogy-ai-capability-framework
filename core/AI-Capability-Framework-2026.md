@@ -161,7 +161,7 @@ The framework is organised around **six interdependent domains** that together d
 
 Each domain includes **guiding questions**, a **capability purpose**, **ecological anchors**, **design-thinking modes**, **capability shifts**, and **values-in-practice**. Together they form a coherent **capability ecology** for developing responsible, adaptive, and creative AI practice at individual and organisational levels.
 
-<span id="_unyhzn316f0s" class="anchor"></span>**  **
+<span id="_unyhzn316f0s" class="anchor"></span>
 
 ## **1.3 Supporting Resources**
 
@@ -195,7 +195,7 @@ To operationalise the six domains, the framework provides:
 
 The AICF applies to **all forms of AI**. It centres on **human judgment, contextual knowledge, and collective governance**—capabilities that remain essential as AI architectures, interfaces, and capacities evolve. This ensures the framework can guide practice through current and future paradigms, including autonomous agents and novel computing substrates.
 
-<span id="_459axqqo1rtn" class="anchor"></span>**  **
+<span id="_459axqqo1rtn" class="anchor"></span>
 
 ## **1.6 What’s New in the 2026 Edition**
 
@@ -350,7 +350,7 @@ You can engage with it at three complementary levels: **reflection**, **developm
 
 This structured yet flexible method reflects the framework’s core philosophy: **AI capability is developmental, relational, and renewable.** By cycling through orientation, assessment, application, reflection, and iteration, institutions cultivate *reflective intelligence*—the ability to govern and innovate with AI responsibly, regardless of how technologies evolve.
 
-<span id="_8dubymcxcle6" class="anchor"></span>**  **
+<span id="_8dubymcxcle6" class="anchor"></span>
 
 # **4. Introduction and Purpose**
 
@@ -424,7 +424,7 @@ The Framework aligns with international efforts to promote trustworthy and human
 
 By situating capability within broader sustainability and governance agendas—such as the **UN Sustainable Development Goals (SDGs)**—the Framework connects AI practice to societal wellbeing and planetary stewardship.
 
-<span id="_azk3nj3bhyvf" class="anchor"></span>**  **
+<span id="_azk3nj3bhyvf" class="anchor"></span>
 
 ### **4.8 Invitation to Co-Creation**
 
@@ -437,7 +437,7 @@ Capability, like ecology, thrives on diversity and feedback. By contributing cas
 Ultimately, this Framework is not about mastering AI—it is about **mastering the conditions under which AI and humanity learn together**.  
 It equips individuals and institutions to approach intelligent systems with curiosity, rigour, and care; to design environments where innovation serves justice; and to treat reflection not as an afterthought but as the heartbeat of ethical progress.
 
-<span id="_1a92ba3p82za" class="anchor"></span>**  **
+<span id="_1a92ba3p82za" class="anchor"></span>
 
 # **5. The AI Capability Framework (Core Model)**
 
@@ -495,7 +495,7 @@ Co-agency transforms AI from a background utility into a partner in reasoning. I
 
 Innovation here is **reflective experimentation**—testing ideas while anticipating impact. Teams cultivate “safe-to-fail” spaces where creativity and caution coexist, allowing AI to serve as a catalyst for discovery rather than a source of unchecked novelty.
 
-<span id="_nqugk1nenx9l" class="anchor"></span>**  **
+<span id="_nqugk1nenx9l" class="anchor"></span>
 
 ### **Domain 4 — Ethics, Equity and Impact**
 
@@ -519,7 +519,7 @@ Ethical capability is anticipatory: it looks forward to potential consequences b
 
 Governance capability ensures that innovation remains aligned with institutional mission and societal good. It transforms abstract ethics into **operational governance artefacts**—policies, oversight logs, and review cycles that keep AI accountable to human purpose.
 
-<span id="_ng4lu84nvk8c" class="anchor"></span>**  **
+<span id="_ng4lu84nvk8c" class="anchor"></span>
 
 ### **Domain 6 — Reflection, Learning and Renewal**
 
@@ -565,7 +565,7 @@ This continuous circulation keeps capability alive and adaptive. The model’s r
 Seen as a whole, the six domains form a **capability ecosystem**. Awareness grounds the system; co-agency gives it structure; innovation provides energy; ethics and governance stabilise it; reflection renews it.  
 Because AI contexts evolve continuously, capability must do the same. The Framework therefore represents a **living architecture**—adaptive, participatory, and self-correcting—through which individuals and organisations can navigate complexity with integrity and imagination.
 
-<span id="_uiq75ydd2xag" class="anchor"></span>**  **
+<span id="_uiq75ydd2xag" class="anchor"></span>
 
 # **6. Self-Assessment Matrix: Mapping Developmental Capability**
 
@@ -589,7 +589,7 @@ Use the matrix to:
 
 Aim for **capability progression**, not performance scoring. Growth may occur unevenly across domains depending on context, resources, and leadership support. Such asymmetry is expected: capability ecologies are rarely uniform.
 
-<span id="_pr2tioye1p5f" class="anchor"></span>**  **
+<span id="_pr2tioye1p5f" class="anchor"></span>
 
 ## **6.2 Capability Progression Matrix**
 
@@ -667,7 +667,7 @@ Capability is **dynamic and non-linear**. Teams may display different levels acr
 
 - Capture insights in an action plan or reflective journal to inform the next iteration of your Orient → Assess → Apply → Reflect → Iterate cycle.
 
-<span id="_7r6xnph7zth2" class="anchor"></span>**  **
+<span id="_7r6xnph7zth2" class="anchor"></span>
 
 ### **Developmental Narratives by Domain**
 
@@ -695,7 +695,7 @@ It is recommended that the matrix be revisited every **6–12 months**. Combine 
 
 Over time, these cycles transform the matrix from a diagnostic tool into a **living developmental ledger**—a record of institutional learning, ethical commitment, and adaptive growth.
 
-<span id="_bxq1tqqd78e4" class="anchor"></span>**  **
+<span id="_bxq1tqqd78e4" class="anchor"></span>
 
 # **7. Reflection Toolkit**
 
@@ -721,7 +721,7 @@ The prompts are designed to be flexible and sector-neutral. They may be used in 
 
 Each question set below may be used independently or as part of an extended reflective cycle following the Framework’s five-step process: **Orient → Assess → Apply → Reflect → Iterate**.
 
-<span id="_piporjrt2siu" class="anchor"></span>**  **
+<span id="_piporjrt2siu" class="anchor"></span>
 
 ### **Domain 1 – AI Awareness and Orientation**
 
@@ -763,7 +763,7 @@ Each question set below may be used independently or as part of an extended refl
 
 *Purpose:* Reinforce intentional design of human oversight and clarify authorship, accountability, and value.
 
-<span id="_mg8678po5g4z" class="anchor"></span>**  **
+<span id="_mg8678po5g4z" class="anchor"></span>
 
 ### **Domain 3 – Applied Practice and Innovation**
 
@@ -805,7 +805,7 @@ Each question set below may be used independently or as part of an extended refl
 
 *Purpose:* Embed proactive, justice-oriented ethics into day-to-day practice and oversight.
 
-<span id="_m9akz18dlu2r" class="anchor"></span>**  **
+<span id="_m9akz18dlu2r" class="anchor"></span>
 
 ### **Domain 5 – Decision-Making and Governance**
 
@@ -847,7 +847,7 @@ Each question set below may be used independently or as part of an extended refl
 
 *Purpose:* Strengthen organisational memory, adaptive culture, and continuous improvement.
 
-<span id="_x4fo1zjbi3nb" class="anchor"></span>**  **
+<span id="_x4fo1zjbi3nb" class="anchor"></span>
 
 ## **7.2 Integrating Reflection**
 
@@ -873,7 +873,7 @@ Reflection functions as the **connective tissue** of capability. It links awaren
 
 When practiced consistently, reflection becomes an **ethical infrastructure**—a habitual process through which teams notice consequences, share learning, and renew trust. It turns capability from a checklist into a living culture of inquiry, ensuring that AI systems and human systems evolve together.
 
-<span id="_xgk8r03fsgtd" class="anchor"></span>**  **
+<span id="_xgk8r03fsgtd" class="anchor"></span>
 
 # **8. AI Interaction and Design Toolkit**
 
@@ -897,7 +897,7 @@ This toolkit helps practitioners to:
 
 It can be applied to text, image, data, voice, sensor, multimodal, agentic, or future AI systems. The goal is to develop **design literacy** — not just technical skill — so that human oversight, intention, and meaning remain visible within automated processes.
 
-<span id="_kal647kp3w97" class="anchor"></span>**  **
+<span id="_kal647kp3w97" class="anchor"></span>
 
 ## **8.2 Toolkit Structure (by Domain)**
 
@@ -963,7 +963,7 @@ Each domain of the Framework brings a unique design focus and set of reflective 
 
 *Purpose:* Integrate **justice-by-design** into every stage of interaction — anticipating consequences and embedding inclusivity as a default condition, not a corrective measure.
 
-<span id="_n804fss9sift" class="anchor"></span>**  **
+<span id="_n804fss9sift" class="anchor"></span>
 
 ### **Domain 5 – Decision-Making and Governance**
 
@@ -995,7 +995,7 @@ Each domain of the Framework brings a unique design focus and set of reflective 
 
 *Purpose:* Treat interaction as iterative learning. Reflection ensures that system behaviour and human practice co-evolve toward higher integrity and insight.
 
-<span id="_687eww7l06l2" class="anchor"></span>**  **
+<span id="_687eww7l06l2" class="anchor"></span>
 
 ## **8.3 Using the Toolkit**
 
@@ -1023,7 +1023,7 @@ Every engagement with AI is an act of **design**—a moment where intention, eth
 
 **Outcome:** When used consistently, the AI Interaction and Design Toolkit cultivates a culture of **responsible experimentation** and **transparent co-creation**. It transforms prompting from a technical trick into a professional discipline — a form of reflective design that strengthens trust, creativity, and accountability across all AI-enabled work.
 
-<span id="_t7g12c4ezu78" class="anchor"></span>**  **
+<span id="_t7g12c4ezu78" class="anchor"></span>
 
 # **9. Scenario-Based Workshop Guides**
 
@@ -1064,7 +1064,7 @@ The guides can be adapted across **education, research, health, policy, and publ
 
 - Compare outputs with human marking or mentoring commentary.
 
-**  **
+
 
 **Activities:**
 
@@ -1104,7 +1104,7 @@ The guides can be adapted across **education, research, health, policy, and publ
 
 - Discuss consequences of over-reliance versus under-utilisation.
 
-**  **
+
 
 **Activities:**
 
@@ -1144,7 +1144,7 @@ The guides can be adapted across **education, research, health, policy, and publ
 
 - Encourage cross-disciplinary pairings (policy, data science, community).
 
-**  **
+
 
 **Activities:**
 
@@ -1184,7 +1184,7 @@ The guides can be adapted across **education, research, health, policy, and publ
 
 - Ensure participants consider accessibility and cultural representation.
 
-**  **
+
 
 **Activities:**
 
@@ -1224,7 +1224,7 @@ The guides can be adapted across **education, research, health, policy, and publ
 
 - Debrief around competing values—efficiency, fairness, autonomy.
 
-**  **
+
 
 **Activities:**
 
@@ -1264,7 +1264,7 @@ The guides can be adapted across **education, research, health, policy, and publ
 
 - Focus on system-level learning, not performance evaluation.
 
-**  **
+
 
 **Activities:**
 
@@ -1326,7 +1326,7 @@ The module team follows a structured capability pathway:
 
 5.  **Reflection:** Conclude each teaching block with structured reflective prompts asking students how AI influenced their thinking and reasoning processes.
 
-**  **
+
 
 **Outcomes**
 
@@ -1360,7 +1360,7 @@ A regional healthcare network seeks to update patient-education materials in mul
 
 5.  **Reflection:** A feedback loop is established, collecting patient responses and clinician edits for continuous refinement.
 
-**  **
+
 
 **Outcomes**
 
@@ -1394,7 +1394,7 @@ A metropolitan transport authority uses AI analytics to plan routes for underser
 
 5.  **Reflection:** Findings are published in an open annual report, inviting public commentary and follow-up reviews.
 
-**  **
+
 
 **Outcomes**
 
@@ -1426,7 +1426,7 @@ Across all sectors, several recurring themes emerge:
 Collectively, these examples demonstrate that the CloudPedagogy AI Capability Framework is more than a conceptual model—it is a **practical architecture** for capability growth.  
 It connects everyday tasks to organisational foresight, enabling diverse sectors to engage AI **responsibly, creatively, and adaptively**.
 
-<span id="_z9nichsiblz0" class="anchor"></span>**  **
+<span id="_z9nichsiblz0" class="anchor"></span>
 
 # **11. Governance and Ethics Templates**
 
@@ -1508,7 +1508,7 @@ This protocol creates a shared record of purpose, oversight, and ethical assuran
 **Outcome:  **
 When completed collaboratively, this protocol creates a **living governance record** — a transparent narrative of ethical stewardship that strengthens institutional trust and public legitimacy.
 
-<span id="_700e2g3hzsen" class="anchor"></span>**  **
+<span id="_700e2g3hzsen" class="anchor"></span>
 
 ## **11.2 Template B – Equity-Focused AI Audit Tool**
 
@@ -1583,7 +1583,7 @@ Use a four-level developmental scale to guide qualitative discussion rather than
 **Outcome:  **
 Used iteratively, the Equity-Focused AI Audit becomes an engine of **inclusive accountability**, enabling systems and institutions to evolve toward justice, accessibility, and participatory design.
 
-<span id="_pwoa7kly77wh" class="anchor"></span>**  **
+<span id="_pwoa7kly77wh" class="anchor"></span>
 
 ## **11.3 Using These Templates**
 
@@ -1613,7 +1613,7 @@ Governance and ethics templates are most effective when integrated **early** —
 
 When these templates are used consistently, governance becomes **developmental, not defensive**—a participatory practice of care and accountability that strengthens both human agency and institutional integrity.
 
-<span id="_hy736etu0u7y" class="anchor"></span>**  **
+<span id="_hy736etu0u7y" class="anchor"></span>
 
 # **12. Resources and Further Development**
 
@@ -1687,7 +1687,7 @@ CloudPedagogy invites institutions, practitioners, and researchers to:
 
 Collaboration is guided by open principles—shared learning, transparent crediting, and reciprocal improvement.
 
-<span id="_g4hsapez5up8" class="anchor"></span>**  **
+<span id="_g4hsapez5up8" class="anchor"></span>
 
 ## **12.3 Integration within the CloudPedagogy Platform**
 
@@ -1718,7 +1718,7 @@ This Framework builds upon and extends key international initiatives:
 
 CloudPedagogy expands these models into the domains of **AI literacy**, **governance**, and **generative capability**, offering a developmental architecture for human-centred AI practice.
 
-<span id="_wi3noiiky6au" class="anchor"></span>**  **
+<span id="_wi3noiiky6au" class="anchor"></span>
 
 ## **12.5 Closing Note**
 
@@ -1757,7 +1757,7 @@ These indicators should be interpreted *developmentally*, signalling progress in
 
 Wong, J. (2026). *CloudPedagogy AI Capability Framework (2026 Edition).* CloudPedagogy. CC BY-NC-SA 4.0.
 
-<span id="_z0adzw4ovn23" class="anchor"></span>**  **
+<span id="_z0adzw4ovn23" class="anchor"></span>
 
 # **13. Glossary**
 
