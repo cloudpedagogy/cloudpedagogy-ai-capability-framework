@@ -25,12 +25,12 @@ The CloudPedagogy AI Capability Framework provides a structured, future-ready mo
 
 It defines **six interdependent capability domains**:
 
-1. **AI Awareness & Orientation**  
-2. **Human–AI Co-Agency**  
-3. **Applied Practice & Innovation**  
-4. **Ethics, Equity & Impact**  
-5. **Decision-Making & Governance**  
-6. **Reflection, Learning & Renewal**
+- **AI Awareness & Orientation**  
+- **Human–AI Co-Agency**  
+- **Applied Practice & Innovation**  
+- **Ethics, Equity & Impact**  
+- **Decision-Making & Governance**  
+- **Reflection, Learning & Renewal**
 
 Grounded in ecological learning, systems thinking, and ethical foresight, the Framework helps individuals and organisations move beyond tool-focused AI training toward applied, reflective, and values-aligned AI capability.
 
@@ -42,7 +42,7 @@ This repository contains the **official, openly licensed source files and archiv
 
 All materials are free to download, adapt, and remix for **non-commercial use** under the **Creative Commons CC BY-NC-SA 4.0** licence.
 
-The repository is organised into four key folders:
+The repository is organised into four key folders.
 
 ---
 
@@ -108,7 +108,7 @@ Also included:
 
 ---
 
-## 🔗 Related CloudPedagogy repositories
+## 🔗 Related CloudPedagogy Repositories
 
 This repository is the **canonical source** for the CloudPedagogy AI Capability Framework (2026 Edition), including the framework model, domains, and core reference resources.
 
@@ -122,7 +122,7 @@ The following repositories provide **applied companion resources and software to
 Short, role- and context-specific briefs supporting professional judgement and decision-making using the AI Capability Framework.  
 https://github.com/cloudpedagogy/ai-capability-briefs
 
-**AI Capability Framework – Scenario Library**  
+**AI Capability Framework — Scenario Library**  
 Facilitation-ready scenarios for applying the Framework in real professional settings, including teaching, research, governance, leadership, and public-impact contexts.  
 https://github.com/cloudpedagogy/ai-capability-framework-scenarios
 
@@ -133,7 +133,6 @@ https://github.com/cloudpedagogy/ai-capability-framework-scenarios
 **CloudPedagogy AI Capability Tools**  
 An index and launchpad for the CloudPedagogy AI Capability Tools suite — including recommended flow, shared design principles, and direct links to live tools and their source repositories.  
 https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-tools
-
 
 ---
 
@@ -147,7 +146,6 @@ https://github.com/cloudpedagogy/cloudpedagogy-n8n-workflows
 
 Companion repositories **extend the Framework into applied guidance, diagnostics, and operational practice**.  
 This repository remains the **authoritative reference** for the CloudPedagogy AI Capability Framework model, domains, and core resources.
-
 
 ---
 
