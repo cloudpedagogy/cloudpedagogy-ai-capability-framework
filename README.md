@@ -48,19 +48,23 @@ The repository is organised into four key folders:
 
 ### `/core` — Canonical Framework Documents
 
-Authoritative, foundational publications:
+Authoritative, foundational framework texts, maintained in **Markdown as the canonical source**, with **PDF and Word versions provided as stable reference artefacts and editable copies**:
 
+- **AI-Capability-Framework-2026.md**  
+- **AI-Capability-Framework-Overview-2026.md**  
 - **AI-Capability-Framework-2026.pdf**  
-- **AI-Capability-Framework-2026.docx**  
 - **AI-Capability-Framework-Overview-2026.pdf**  
+- **AI-Capability-Framework-2026.docx**  
 - **AI-Capability-Framework-Overview-2026.docx**
 
 ---
 
 ### `/application` — Application Handbook & Executive Summary
 
-Applied guidance for institutional and organisational use:
+Applied guidance for institutional and organisational use, maintained in **Markdown**, with **PDF and Word versions provided for distribution and reuse**:
 
+- **AI CAPABILITY FRAMEWORK APPLICATION HANDBOOK.md**  
+- **AI Capability Framework Application Handbook — Executive Summary.md**  
 - **AI CAPABILITY FRAMEWORK APPLICATION HANDBOOK.pdf**  
 - **AI CAPABILITY FRAMEWORK APPLICATION HANDBOOK.docx**  
 - **AI Capability Framework Application Handbook — Executive Summary.pdf**  
@@ -70,7 +74,7 @@ Applied guidance for institutional and organisational use:
 
 ### `/toolkit` — Tools, Templates & Worksheets
 
-Modular practical resources supporting applied use:
+Modular practical resources supporting applied use, maintained in **Markdown**, with **Word (`.docx`) versions provided for flexible reuse**:
 
 - Self-Assessment Matrix (Worksheet)  
 - Scenario-Based Workshop Guides  
@@ -80,14 +84,13 @@ Modular practical resources supporting applied use:
 - AI Interaction & Design Toolkit  
 - Resource Index & Glossary  
 
-(All provided as individual **.docx** files for flexible reuse.)
-
 ---
 
-### `/practice-guides` — Role- & Context-Specific Practice Guides (PDF + Word)
+### `/practice-guides` — Role- & Context-Specific Practice Guides
 
-Short, applied guides demonstrating how to use the Framework in real-world contexts.  
-Each guide is provided in **PDF (stable)** and **Word (editable)** formats.
+Short, applied guides demonstrating how to use the Framework in real-world contexts.
+
+Guides are maintained in **Markdown as the canonical source format**, with **PDF (stable)** and **Word (editable)** versions provided in subfolders.
 
 Included guides:
 
@@ -101,7 +104,7 @@ Included guides:
 
 Also included:
 
-- **Quick Reference Guide for Course Designers** (PDF + Word)
+- **Quick Reference Guide for Course Designers** (Markdown + export formats)
 
 ---
 
