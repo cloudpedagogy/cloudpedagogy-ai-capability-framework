@@ -125,27 +125,12 @@ https://github.com/cloudpedagogy/ai-capability-framework-scenarios
 
 ---
 
-### 🧩 Diagnostic & Exploratory Software Tools
+### 🧩 AI Capability Tools Suite (Index + Launchpad)
 
-**AI Capability Self-Assessment**  
-A static, framework-driven self-assessment tool with rule-based interpretations, designed to support reflective evaluation of AI capability across education, research, and public service.  
-https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-assessment
+**CloudPedagogy AI Capability Tools**  
+An index and launchpad for the CloudPedagogy AI Capability Tools suite — including recommended flow, shared design principles, and direct links to live tools and their source repositories.  
+https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-tools
 
-**AI Capability Programme Mapping Tool**  
-A browser-based application for visualising and reflecting on how AI capability is distributed and developed across programmes, pathways, or organisational structures.  
-https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-programme-mapping
-
-**AI Capability Gaps & Risk Diagnostic**  
-A capability-led, interpretive diagnostic tool for exploring AI capability gaps and associated risk patterns using the AI Capability Framework.  
-https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-gaps-risk
-
-**AI Capability Scenario Stress-Test**  
-An exploratory, browser-based “what-if” stress-testing tool that examines how current AI capability assumptions may hold under plausible future scenarios and change conditions.  
-https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-scenario-stress-test
-
-**AI Capability Dashboard (Aggregate View)**  
-An aggregate, non-identifiable dashboard for system-level awareness of AI capability patterns and trends over time. Designed to support reflective discussion, governance conversations, and ethical oversight without surveillance.
-https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-dashboard
 
 ---
 
