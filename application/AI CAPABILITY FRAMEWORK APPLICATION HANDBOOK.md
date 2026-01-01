@@ -10,9 +10,9 @@
 
 ### ***With a Worked Example: Generative AI for Climate Change & Sustainability***
 
-**  **
 
-**  **
+
+
 
 # **CONTENTS**
 
@@ -86,7 +86,7 @@
 7.4 Invitation to Contribute and Co-Create  
 7.5 Licensing & Acknowledgements
 
-**  **
+
 
 # **SECTION 1 — INTRODUCTION**
 
@@ -102,19 +102,19 @@ While the Framework defines *what* responsible, creative, and ethical AI capabil
 
 Its purpose is to:
 
-- provide a replicable **course creation method  **
+- provide a replicable **course creation method**
 
-- demonstrate the full **translation from domain → module → lesson → activity → downloadable  **
+- demonstrate the full **translation from domain → module → lesson → activity → downloadable**
 
-- show how to design learning that is **engaging, practical, innovative, and responsible  **
+- show how to design learning that is **engaging, practical, innovative, and responsible**
 
 - give educators and organisations a **ready-made system** for building AI literacy and capability at scale
 
-- demonstrate the method using a complete worked example: **Generative AI for Climate Change & Sustainability  **
+- demonstrate the method using a complete worked example: **Generative AI for Climate Change & Sustainability**
 
 This handbook is deliberately **application-focused**: it shows how to design courses **from the Framework**, not merely about the Framework.
 
-**  **
+
 
 # **1.2 How This Handbook Complements the AI Capability Framework**
 
@@ -122,13 +122,13 @@ The 50-page Framework is foundational: it articulates the **six domains** of AI 
 
 However, practitioners, instructional designers, and domain experts often ask:
 
-- *“How do we turn the Framework into an actionable course?”  *
+- *“How do we turn the Framework into an actionable course?”*
 
-- *“How do we apply the six domains in specific areas such as climate, health, research, or teaching?”  *
+- *“How do we apply the six domains in specific areas such as climate, health, research, or teaching?”*
 
-- *“How do we design activities and assessments that reflect the Framework’s principles?”  *
+- *“How do we design activities and assessments that reflect the Framework’s principles?”*
 
-- *“What does a course built on this Framework actually look like?”  *
+- *“What does a course built on this Framework actually look like?”*
 
 This handbook answers those questions.
 
@@ -138,7 +138,7 @@ It acts as the **middle layer** of the ecosystem:
 
 This structure ensures consistency, quality, responsibility, and creativity across all CloudPedagogy courses.
 
-**  **
+
 
 # **1.3 Who This Handbook Is For**
 
@@ -168,7 +168,7 @@ Implementing large-scale capability-building initiatives using a structured deve
 
 Understanding *how* AI courses are built and how responsible AI practice works in multiple domains.
 
-**  **
+
 
 # **1.4 Why Climate Change & Sustainability Was Chosen as the Worked Example**
 
@@ -196,7 +196,7 @@ Climate topics naturally lend themselves to visually rich, practical, and innova
 
 This makes the climate example both **practical** and **pedagogically clean**, allowing the reader to clearly understand the Framework-to-course translation.
 
-**  **
+
 
 # **1.5 How to Use This Handbook**
 
@@ -228,7 +228,7 @@ Each section builds systematically:
 
 6.  Next steps
 
-**  **
+
 
 # **1.6 The Practical and Responsible AI Imperative**
 
@@ -236,7 +236,7 @@ Across all sectors, organisations face a dual challenge:
 
 1.  **Rapidly scaling AI adoption**, and
 
-2.  **Doing so responsibly, ethically, and strategically.  **
+2.  **Doing so responsibly, ethically, and strategically.**
 
 This requires a learning system that is:
 
@@ -254,13 +254,13 @@ The **AI Capability Framework**, combined with this **Application Handbook**, pr
 
 It enables organisations to move from:
 
-- **Tool use** to **capability development  **
+- **Tool use** to **capability development**
 
-- **Ad hoc experimentation** to **structured innovation  **
+- **Ad hoc experimentation** to **structured innovation**
 
-- **Individual improvisation** to **institutional strategy  **
+- **Individual improvisation** to **institutional strategy**
 
-- **Risk-prone adoption** to **safeguarded, ethical design  **
+- **Risk-prone adoption** to **safeguarded, ethical design**
 
 This Handbook embodies CloudPedagogy’s core mission:  
 **to transform how individuals and organisations build AI capability — responsibly, creatively, and with purpose.**
@@ -272,7 +272,7 @@ It is **not** a rewrite of the full 50-page Framework — instead, it highlights
 
 The goal is to give readers a **clear, working understanding** of the domains so they can follow the universal method and the climate example later in the handbook.
 
-**  **
+
 
 # **2.1 Overview of the Six Domains**
 
@@ -295,10 +295,10 @@ Below is a high-level summary of each domain.
 
 - Recognising when AI is inappropriate or risky
 
-**Why it matters:  **
+**Why it matters:**
 Domain 1 provides the foundation for every other part of the learning journey. Without awareness and orientation, learners cannot engage in safe or effective AI use.
 
-**  **
+
 
 ## **DOMAIN 2 — Human–AI Co-Agency**
 
@@ -315,7 +315,7 @@ Domain 1 provides the foundation for every other part of the learning journey. W
 
 - Maintaining accountability over AI-assisted outputs
 
-**Why it matters:  **
+**Why it matters:**
 Co-agency prevents over-reliance on AI, clarifies responsibilities, and ensures the human remains the decision-maker.
 
 ## **DOMAIN 3 — Generative Practice & Innovation**
@@ -333,7 +333,7 @@ Co-agency prevents over-reliance on AI, clarifies responsibilities, and ensures 
 
 - Safe-to-fail experimentation in low-risk contexts
 
-**Why it matters:  **
+**Why it matters:**
 Domain 3 enables learners to use AI *constructively* — for creativity, prototyping, and improved productivity — rather than passively or mechanically.
 
 ## **DOMAIN 4 — Ethics, Equity & Impact**
@@ -353,7 +353,7 @@ Domain 3 enables learners to use AI *constructively* — for creativity, prototy
 
 - Avoiding harm, misrepresentation, or exclusion
 
-**Why it matters:  **
+**Why it matters:**
 This domain ensures that innovation does not come at the expense of fairness, transparency, or vulnerable populations.
 
 ## **DOMAIN 5 — Decision-Making & Governance**
@@ -373,7 +373,7 @@ This domain ensures that innovation does not come at the expense of fairness, tr
 
 - When to seek human review or expert oversight
 
-**Why it matters:  **
+**Why it matters:**
 Domain 5 strengthens institutional trust and transparency, ensuring AI use is predictable, documented, and appropriately governed.
 
 ## **DOMAIN 6 — Reflection, Learning & Renewal**
@@ -391,10 +391,10 @@ Domain 5 strengthens institutional trust and transparency, ensuring AI use is pr
 
 - Critical self-evaluation of AI use
 
-**Why it matters:  **
+**Why it matters:**
 Domain 6 supports long-term capability development, preventing stagnation and ensuring sustainable, responsible practice.
 
-**  **
+
 
 # **2.2 How the Domains Interact as a System**
 
@@ -402,19 +402,19 @@ The six domains function as an **ecological system**, not a linear progression.
 
 ### **Key relationships:**
 
-- **Domain 1 → enables → Domain 2 & 3  **
+- **Domain 1 → enables → Domain 2 & 3**
   You cannot co-design or innovate with AI without foundational awareness.
 
-- **Domain 2 → moderates → Domain 3  **
+- **Domain 2 → moderates → Domain 3**
   Co-agency ensures generative practice remains safe, intentional, and aligned with human oversight.
 
-- **Domain 4 → sits across ALL domains  **
+- **Domain 4 → sits across ALL domains**
   Ethics, equity, and harm avoidance influence every use of AI.
 
-- **Domain 5 → governs → the whole system  **
+- **Domain 5 → governs → the whole system**
   Governance structures guide safe use, documentation, and accountability.
 
-- **Domain 6 → reinforces → continuous improvement  **
+- **Domain 6 → reinforces → continuous improvement**
   Reflection ensures that mistakes turn into learning and practice evolves over time.
 
 ### **Visual (ASCII-style)**
@@ -489,7 +489,7 @@ This means every course designed using the Framework is:
 
 This handbook shows exactly how to achieve this.
 
-**  **
+
 
 # **2.4 Core Principles Guiding Responsible AI Practice**
 
@@ -521,7 +521,7 @@ AI capability grows through practice, reflection, and adaptation.
 
 These principles shape the methodology described in the next section.
 
-**  **
+
 
 # **2.5 Visual Map: From Domains to Applied Learning Design**
 
@@ -541,7 +541,7 @@ Domain 6 → Reflection & Improvement
 
 This mapping becomes the basis for the **Universal Application Method** in Section 3 and the **Climate Course Example** in Section 4.
 
-**  **
+
 
 # **SECTION 3 — THE UNIVERSAL APPLICATION METHOD (STEP-BY-STEP)**
 
@@ -564,7 +564,7 @@ This method is designed to be:
 
 By following these seven steps, you can build any new course directly from the Framework.
 
-**  **
+
 
 # **3.1 STEP 1 — DEFINE THE PURPOSE AND LEARNER NEEDS**
 
@@ -600,7 +600,7 @@ Define:
 
 - Their risk exposure
 
-**  **
+
 
 ### **C. The Intended Capability Growth**
 
@@ -620,7 +620,7 @@ Use capability language:
 
 This anchors the course in *capability development*, not tool use.
 
-**  **
+
 
 # **3.2 STEP 2 — IDENTIFY REAL-WORLD USE CASES AND RISKS**
 
@@ -657,7 +657,7 @@ Then identify **risks**:
 
 This creates the **use-case foundation** for the entire course.
 
-**  **
+
 
 # **3.3 STEP 3 — MAP USE CASES TO THE SIX DOMAINS**
 
@@ -678,7 +678,7 @@ Example (for climate):
 
 This creates a **blueprint** for the course.
 
-**  **
+
 
 # **3.4 STEP 4 — TRANSLATE DOMAINS INTO PRACTICAL MODULES**
 
@@ -690,17 +690,17 @@ Module titles should always be **practical, action-oriented, applied**, not theo
 
 ### **Examples (Climate):**
 
-- Domain 1 → *Understanding Climate Information with AI  *
+- Domain 1 → *Understanding Climate Information with AI*
 
-- Domain 2 → *Co-Writing Climate Communications with AI  *
+- Domain 2 → *Co-Writing Climate Communications with AI*
 
-- Domain 3 → *Prototyping Climate Engagement Materials  *
+- Domain 3 → *Prototyping Climate Engagement Materials*
 
-- Domain 4 → *Ethical and Just Climate AI Practice  *
+- Domain 4 → *Ethical and Just Climate AI Practice*
 
-- Domain 5 → *AI Governance in Climate Workflows  *
+- Domain 5 → *AI Governance in Climate Workflows*
 
-- Domain 6 → *Reflective AI Practice for Climate Action  *
+- Domain 6 → *Reflective AI Practice for Climate Action*
 
 Course designers repeat this process for ANY domain:
 
@@ -773,7 +773,7 @@ Aligned to the domain:
 
 This is the **CloudPedagogy signature pattern**.
 
-**  **
+
 
 # **3.6 STEP 6 — BUILD RESPONSIBLE AND INNOVATIVE CROSS-DOMAIN LINKS**
 
@@ -844,7 +844,7 @@ Before publishing, assess:
 
 - Do learners consider fairness and justice?
 
-**  **
+
 
 ### **Domain 5 — Governance**
 
@@ -870,7 +870,7 @@ If all six are met, the course is:
 
 - aligned with CloudPedagogy standards
 
-**  **
+
 
 # **3.8 VISUAL FLOW: FRAMEWORK → METHOD → FINISHED COURSE**
 
@@ -905,7 +905,7 @@ REFLECTION + ITERATION
 
 This ensures that **every course you produce is consistent, high-quality, and deeply grounded in the Framework.**
 
-**  **
+
 
 # **SECTION 4 — WORKED EXAMPLE: GENERATIVE AI FOR CLIMATE CHANGE & SUSTAINABILITY**
 
@@ -928,7 +928,7 @@ The Climate Change & Sustainability course is used because it is:
 
 By the end of this section, readers will understand how the Framework is applied in practice — and how they can replicate this process for any topic.
 
-**  **
+
 
 # **4.1 WHY GENERATIVE AI MATTERS FOR CLIMATE ACTION**
 
@@ -1120,7 +1120,7 @@ Domain Focus:  **
 
 - Decision boundaries
 
-**  **
+
 
 ### **Lesson 2 — Co-Writing Workflows for Climate Messaging**
 
@@ -1152,7 +1152,7 @@ Generate, refine, and human-edit a message for:
 
 ### **Download — Human–AI Co-Agency Task Matrix**
 
-**  **
+
 
 # **4.6 MODULE 3 (DOMAIN 3): PROTOTYPING CLIMATE ENGAGEMENT MATERIALS**
 
@@ -1184,7 +1184,7 @@ Domain Focus:  **
 
 - Using AI for imaginative exploration
 
-**  **
+
 
 ### **Activity — Prototype a Climate Education Asset**
 
@@ -1200,7 +1200,7 @@ Examples:
 
 ### **Download — Climate Engagement Prompt Pack**
 
-**  **
+
 
 # **4.7 MODULE 4 (DOMAIN 4): ETHICAL AND JUST CLIMATE AI PRACTICE**
 
@@ -1406,13 +1406,13 @@ The two chosen examples are:
 
 Each is intentionally concise (1 page) to show how easily the Framework adapts to new contexts.
 
-**  **
+
 
 # **5.1 HUMANITARIAN CRISIS RESPONSE — ONE-PAGE EXAMPLE**
 
 ##  **Domain 1 — Awareness & Orientation**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Understanding Crisis Information with Generative AI*
 
 **Focus:**
@@ -1423,12 +1423,12 @@ Each is intentionally concise (1 page) to show how easily the Framework adapts t
 
 - Understand translation risks and hallucinations
 
-**Activity Example:  **
+**Activity Example:**
 Audit an AI-generated health advisory for accuracy, cultural sensitivity, and medical validity.
 
 ## **Domain 2 — Human–AI Co-Agency**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Designing Human-Led Workflows for Crisis Communication*
 
 **Focus:**
@@ -1439,12 +1439,12 @@ Audit an AI-generated health advisory for accuracy, cultural sensitivity, and me
 
 - Use co-agency prompting for official messaging
 
-**Activity Example:  **
+**Activity Example:**
 Map the human–AI workflow for an AI-assisted refugee registration and identify where human approval is required.
 
 ## **Domain 3 — Generative Practice & Innovation**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Prototyping Humanitarian Engagement Materials with AI*
 
 **Focus:**
@@ -1455,12 +1455,12 @@ Map the human–AI workflow for an AI-assisted refugee registration and identify
 
 - Generate scenario materials for training responders
 
-**Activity Example:  **
+**Activity Example:**
 Prototype a community engagement message for a disaster-affected region.
 
 ## **Domain 4 — Ethics, Equity & Impact**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Ensuring Ethical and Do-No-Harm AI Use in Humanitarian Contexts*
 
 **Focus:**
@@ -1471,14 +1471,14 @@ Prototype a community engagement message for a disaster-affected region.
 
 - Consider power dynamics and vulnerable groups
 
-**Activity Example:  **
+**Activity Example:**
 Audit an AI-generated refugee assistance plan for equity and unintended harm.
 
-**  **
+
 
 ## **Domain 5 — Decision-Making & Governance**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Governance for AI Use in Crisis Response Workflows*
 
 **Focus:**
@@ -1491,12 +1491,12 @@ Audit an AI-generated refugee assistance plan for equity and unintended harm.
 
 - Responsible data use
 
-**Activity Example:  **
+**Activity Example:**
 Create a governance protocol for AI translation during a rapid emergency response.
 
 ## **Domain 6 — Reflection, Learning & Renewal**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Reflective AI Practice for Humanitarian Teams*
 
 **Focus:**
@@ -1507,10 +1507,10 @@ Create a governance protocol for AI translation during a rapid emergency respons
 
 - Encouraging team-level reflection
 
-**Activity Example:  **
+**Activity Example:**
 Run a “mini retrospective” on an AI-supported logistics decision.
 
-**  **
+
 
 # **Summary**
 
@@ -1521,7 +1521,7 @@ The same logic used for the Climate course applies — but adapted to crisis ris
 
 ##  **Domain 1 — Awareness & Orientation**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Understanding Health Information Generated by AI*
 
 **Focus:**
@@ -1532,14 +1532,14 @@ The same logic used for the Climate course applies — but adapted to crisis ris
 
 - Evaluating simplifications of epidemiological concepts
 
-**Activity Example:  **
+**Activity Example:**
 Check an AI-generated summary of a public health guidance document for accuracy.
 
-**  **
+
 
 ## **Domain 2 — Human–AI Co-Agency**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Co-Writing Health Communications with AI*
 
 **Focus:**
@@ -1550,12 +1550,12 @@ Check an AI-generated summary of a public health guidance document for accuracy.
 
 - Ensuring scientific accuracy through human review
 
-**Activity Example:  **
+**Activity Example:**
 Co-write a health advisory for a general audience and annotate where humans must intervene.
 
 ## **Domain 3 — Generative Practice & Innovation**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Prototyping Health Education Materials with AI*
 
 **Focus:**
@@ -1566,14 +1566,14 @@ Co-write a health advisory for a general audience and annotate where humans must
 
 - Generating FAQs in multiple languages
 
-**Activity Example:  **
+**Activity Example:**
 Prototype a health education poster or short animation script.
 
-**  **
+
 
 ## **Domain 4 — Ethics, Equity & Impact**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Ensuring Ethical and Inclusive Health AI Practice*
 
 **Focus:**
@@ -1584,12 +1584,12 @@ Prototype a health education poster or short animation script.
 
 - Preventing bias in health messaging
 
-**Activity Example:  **
+**Activity Example:**
 Audit an AI-generated health message for equity and accessibility.
 
 ## **Domain 5 — Decision-Making & Governance**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Health Communication Governance for AI Use*
 
 **Focus:**
@@ -1600,14 +1600,14 @@ Audit an AI-generated health message for equity and accessibility.
 
 - Escalation triggers for clinical topics
 
-**Activity Example:  **
+**Activity Example:**
 Create a governance flow for an AI-assisted health communication workflow.
 
-**  **
+
 
 ## **Domain 6 — Reflection, Learning & Renewal**
 
-**Practical Module Title:  **
+**Practical Module Title:**
 *Reflective AI Practice in Health Communication*
 
 **Focus:**
@@ -1618,7 +1618,7 @@ Create a governance flow for an AI-assisted health communication workflow.
 
 - Updating workflows as evidence evolves
 
-**Activity Example:  **
+**Activity Example:**
 Run a retrospective on an AI-supported health communication project.
 
 # **Summary**
@@ -1627,7 +1627,7 @@ This example shows the Framework applied to a context requiring **scientific int
 
 It reinforces the universality of the Framework’s six domains and demonstrates how the same structure supports responsible AI use in public health.
 
-**  **
+
 
 # **SECTION 6 — TOOLS, CHECKLISTS, AND DESIGN TEMPLATES**
 
@@ -1637,17 +1637,17 @@ This section provides the **practical design instruments** that course developer
 These tools convert the Handbook from a conceptual guide into a **practical, repeatable design system**.  
 All templates are designed to be:
 
-- **PDF-friendly  **
+- **PDF-friendly**
 
 - **Fillable** (for Word/PDF form versions)
 
 - **Adaptable** to any domain
 
-- **Aligned to the Six Domains  **
+- **Aligned to the Six Domains**
 
 - **Immediately usable** for course creation, curriculum mapping, or organisational workflows
 
-**  **
+
 
 # **6.1 SIX-DOMAIN COURSE BUILDER TEMPLATE**
 
@@ -1675,7 +1675,7 @@ List 3–6 real-world tasks or problems in your domain.
 |              |                |           |
 |              |                |           |
 
-**  **
+
 
 ### **2. Map Use Cases to the Six Domains**
 
@@ -1698,7 +1698,7 @@ List 3–6 real-world tasks or problems in your domain.
 |       Domain 5       |                            |                    |
 |       Domain 6       |                            |                    |
 
-**  **
+
 
 ### **4. Lesson and Activity Planning**
 
@@ -1722,7 +1722,7 @@ Use this table:
 |     M5     |              |              |              |              |              |
 |     M6     |              |              |              |              |              |
 
-**  **
+
 
 ### **5. Cross-Domain Alignment Checklist**
 
@@ -1740,7 +1740,7 @@ Tick where appropriate.
 
 #  ****
 
-**  **
+
 
 # **6.2 PRACTICAL LESSON DESIGNER TEMPLATE**
 
@@ -1845,7 +1845,7 @@ Tick all that apply.
 
 A “No” answer requires revision before the content is shared.
 
-**  **
+
 
 # **6.4 HUMAN–AI CO-AGENCY WORKFLOW TEMPLATE**
 
@@ -1875,7 +1875,7 @@ List steps required for the task.
 
 - Where must human review be mandatory?
 
-**  **
+
 
 ### **C. Transparency**
 
@@ -1883,7 +1883,7 @@ List steps required for the task.
 
 - What authorship rules apply?
 
-**  **
+
 
 # **6.5 GOVERNANCE LOG TEMPLATE**
 
@@ -1921,7 +1921,7 @@ Tick risk category:
 ☐ Corrections made  
 ☐ Escalation triggered
 
-**  **
+
 
 ### **E. Decision Trail**
 
@@ -1939,7 +1939,7 @@ Tick risk category:
 
 - What to revise next time
 
-**  **
+
 
 # **6.6 REFLECTION CYCLE TEMPLATE**
 
@@ -1971,7 +1971,7 @@ List improvements for workflows, prompts, or governance.
 
 Attach follow-up actions or training needs.
 
-**  **
+
 
 # **6.7 PROMPT LIBRARY FOR COURSE DESIGNERS**
 
@@ -2004,7 +2004,7 @@ Include learning outcomes, an example workflow, and a guided practice component.
 
 “Analyse this AI output for ethical, equity, or justice concerns. Suggest revisions.”
 
-**  **
+
 
 # **6.8 VISUAL MAPS & DESIGN PATTERNS**
 
@@ -2035,7 +2035,7 @@ Each Module → 3 Lessons + 1 Activity + 1 Download
 
 Awareness → Co-Agency → Innovation → Ethics → Governance → Reflection → Renewal (→ Awareness)
 
-**  **
+
 
 # **SECTION 7 — CONCLUSION & NEXT STEPS**
 
@@ -2044,7 +2044,7 @@ This final section brings the Handbook together — summarising the core ideas, 
 
 #  ****
 
-**  **
+
 
 # **7.1 SUMMARY OF THE UNIVERSAL METHOD**
 
@@ -2053,28 +2053,28 @@ The AI Capability Framework Application Handbook provides a **complete translati
 
 ### **That pathway has seven essential steps:**
 
-1.  **Define the purpose and learner needs  **
+1.  **Define the purpose and learner needs**
     Identify real problems, real audiences, and desired capability growth.
 
-2.  **Identify real-world use cases and risks  **
+2.  **Identify real-world use cases and risks**
     Anchor the course in authentic tasks that matter in the domain.
 
-3.  **Map each use case to the Six Domains  **
+3.  **Map each use case to the Six Domains**
     Use capability logic to shape the learning architecture.
 
-4.  **Translate domains into practical modules  **
+4.  **Translate domains into practical modules**
     Create action-oriented module titles and module purpose statements.
 
-5.  **Use the universal lesson structure  **
+5.  **Use the universal lesson structure**
     3 practical lessons + 1 activity + 1 downloadable per module.
 
-6.  **Build cross-domain links for responsible innovation  **
+6.  **Build cross-domain links for responsible innovation**
     Ensure ethics, governance, and reflection are embedded throughout.
 
-7.  **Validate using the Framework Checklist  **
+7.  **Validate using the Framework Checklist**
     Confirm the course is practical, innovative, safe, and aligned with the Framework.
 
-**  **
+
 
 ### **Together, these steps ensure that every course built using this Handbook is:**
 
@@ -2096,7 +2096,7 @@ This method is now your primary **design engine** for all future CloudPedagogy c
 
 #  ****
 
-**  **
+
 
 # **7.2 HOW TO USE THIS HANDBOOK IN TEAMS & ORGANISATIONS**
 
@@ -2131,7 +2131,7 @@ This document can support **individual designers**, **teams**, and **institution
 
 - Support staff development and upskilling
 
-**  **
+
 
 ## **D. For Partnerships, Accreditation, and Licensing**
 
@@ -2199,7 +2199,7 @@ These courses provide:
 
 ### Together, these resources create a connected, future-ready capability ecosystem.
 
-**  **
+
 
 # **7.4 INVITATION TO CONTRIBUTE & CO-CREATE**
 

@@ -14,58 +14,58 @@ It connects three layers:
 
 It exists to help educators, NGOs, public sector teams, and HE institutions build **safe, responsible, and creative AI capability at scale**.
 
-**  **
+
 
 ## **The Six Domains at a Glance**
 
-1.  **Awareness & Orientation  **
+1.  **Awareness & Orientation**
     AI literacy, accuracy checks, recognising hallucinations and misinformation.
 
-2.  **Human–AI Co-Agency  **
+2.  **Human–AI Co-Agency**
     Clear workflows, role boundaries, and human-in-the-loop design.
 
-3.  **Generative Practice & Innovation  **
+3.  **Generative Practice & Innovation**
     Prototyping, creative experimentation, scenario exploration.
 
-4.  **Ethics, Equity & Impact  **
+4.  **Ethics, Equity & Impact**
     Bias mitigation, harm avoidance, inclusion, transparency.
 
-5.  **Decision-Making & Governance  **
+5.  **Decision-Making & Governance**
     Oversight, documentation, escalation protocols, accountability.
 
-6.  **Reflection, Learning & Renewal  **
+6.  **Reflection, Learning & Renewal**
     Feedback loops, reflective practice, continual improvement.
 
 These domains work as an **integrated capability system**, not isolated skills.
 
-**  **
+
 
 ## **The Universal 7-Step Application Method**
 
 A simple, replicable method for designing responsible and practical AI courses.
 
-1.  **Define the purpose & learner needs  **
+1.  **Define the purpose & learner needs**
     Identify real-world problems and capability gaps.
 
-2.  **Identify real-world use cases & risks  **
+2.  **Identify real-world use cases & risks**
     Select 3–6 tasks where AI can assist.
 
-3.  **Map use cases to the Six Domains  **
+3.  **Map use cases to the Six Domains**
     Align domain logic to real practice.
 
-4.  **Translate domains into practical modules  **
+4.  **Translate domains into practical modules**
     Six modules, each grounded in one domain.
 
-5.  **Use the universal lesson structure  **
+5.  **Use the universal lesson structure**
     3 applied lessons + 1 activity + 1 downloadable per module.
 
-6.  **Build cross-domain links  **
+6.  **Build cross-domain links**
     Ensure ethics, governance, co-agency, and reflection flow through every module.
 
-7.  **Validate using the AI Capability Checklist  **
+7.  **Validate using the AI Capability Checklist**
     Confirm the course is practical, responsible, and aligned to the Framework.
 
-**  **
+
 
 ## **Worked Example: Climate Change & Sustainability**
 
@@ -99,7 +99,7 @@ The Handbook demonstrates the full application method through a complete course 
 
 The example illustrates how any domain—health, humanitarian action, research, policy—can be built using the same method.
 
-**  **
+
 
 ## **Tools & Templates Included**
 
@@ -123,7 +123,7 @@ The Handbook provides fillable tools for instant application:
 
 These ensure **consistency, quality, and responsibility** across all courses.
 
-**  **
+
 
 ## **Intended Uses**
 
@@ -145,34 +145,34 @@ This Handbook is designed for:
 
 It supports both **individual designers** and **institution-wide adoption**.
 
-**  **
+
 
 ## **The CloudPedagogy Ecosystem**
 
 This Handbook forms part of a connected suite:
 
-- **AI Capability Framework (2026 Edition)  **
+- **AI Capability Framework (2026 Edition)**
 
-- **Application Handbook (this)  **
+- **Application Handbook (this)**
 
-- **Universal AI Practice Workbook  **
+- **Universal AI Practice Workbook**
 
-- **Prompt Design Toolkit  **
+- **Prompt Design Toolkit**
 
-- **Governance & Ethics Templates  **
+- **Governance & Ethics Templates**
 
-- **Reflection Toolkit  **
+- **Reflection Toolkit**
 
-- **Free and Paid CloudPedagogy Courses  **
+- **Free and Paid CloudPedagogy Courses**
 
 Together, they create a scalable, ethical, and innovative capability system.
 
 ## **Licensing**
 
-Creative Commons **CC BY-NC-SA 4.0  **
+Creative Commons **CC BY-NC-SA 4.0**
 You may share and adapt this work non-commercially with attribution.
 
-**  **
+
 
 ## **Closing Message**
 

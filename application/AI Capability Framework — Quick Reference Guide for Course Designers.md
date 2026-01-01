@@ -4,7 +4,7 @@
 
 **CloudPedagogy (2026 Edition)**
 
-**  **
+
 
 # **1. THE SIX DOMAINS (ESSENTIAL SUMMARY FOR DESIGN)**
 
@@ -22,7 +22,7 @@
 
 > Every course must have **six modules**, each aligned to one domain.
 
-**  **
+
 
 # **2. THE UNIVERSAL 7-STEP COURSE DESIGN METHOD**
 
@@ -45,9 +45,9 @@ Example: “Draft a climate explainer” or “Review public health messaging.�
 
 Each use case must clearly map to:
 
-- A **primary domain  **
+- A **primary domain**
 
-- One or more **secondary domains  **
+- One or more **secondary domains**
 
 ### **STEP 4 — Convert Domains into Practical Modules**
 
@@ -58,17 +58,17 @@ Instead use practical titles:
 
 - “Ethical AI for Public Health Messaging”
 
-**  **
+
 
 ### **STEP 5 — Use the 3+1+1 Lesson Structure**
 
 Each module contains:
 
-- **3 applied lessons  **
+- **3 applied lessons**
 
-- **1 hands-on activity  **
+- **1 hands-on activity**
 
-- **1 downloadable template/tool  **
+- **1 downloadable template/tool**
 
 ### **STEP 6 — Build Cross-Domain Links**
 
@@ -88,7 +88,7 @@ Ensure the course has:
 
 The course is complete only when all domains have been addressed fully and responsibly.
 
-**  **
+
 
 # **3. THE SIGNATURE COURSE STRUCTURE TEMPLATE**
 
@@ -119,7 +119,7 @@ MODULE 6 — Reflection (Domain 6)
 Total course time (free course): 2–3 hours  
 Total course time (paid version): 5–7 hours or 30–40k words
 
-**  **
+
 
 # **4. LESSON DESIGN QUICK TEMPLATE**
 
@@ -137,13 +137,13 @@ Total course time (paid version): 5–7 hours or 30–40k words
 
 4.  *Reflection* — quick self-check
 
-**Ethical/EQUITY Note:  **
+**Ethical/EQUITY Note:**
 List one risk or bias to check for.
 
-**Outputs:  **
+**Outputs:**
 What the learner will produce during the lesson.
 
-**  **
+
 
 # **5. ACTIVITY DESIGN QUICK TEMPLATE**
 
@@ -208,7 +208,7 @@ The download should:
 
 - support real work beyond the course
 
-**  **
+
 
 # **7. ETHICAL & EQUITY QUICK CHECK (DOMAIN 4)**
 
@@ -233,7 +233,7 @@ If any box is unticked, revise before publishing.
 
 If outputs affect real people, governance must be explicit.
 
-**  **
+
 
 # **9. REFLECTION QUICK CHECK (DOMAIN 6)**
 
@@ -255,7 +255,7 @@ Each course must include:
 
 - instructions for updating practice
 
-**  **
+
 
 # **10. END-TO-END VISUAL WORKFLOW**
 
