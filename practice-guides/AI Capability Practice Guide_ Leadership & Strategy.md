@@ -55,17 +55,17 @@ If you are looking for tools that *replace* leadership responsibility rather tha
 
 By working through this guide, you will be able to:
 
-- decide **where AI should and should not influence strategy  **
+- decide **where AI should and should not influence strategy**
 
 - clarify **what decisions remain human-owned** at leadership level
 
 - identify **second-order risks** (equity, reputation, trust, governance)
 
-- apply proportionate **oversight and escalation  **
+- apply proportionate **oversight and escalation**
 
 - ask better questions of teams using AI
 
-- document decisions so they remain **defensible over time  **
+- document decisions so they remain **defensible over time**
 
 You will also produce at least **one tangible leadership artefact** (e.g. a decision note, boundary statement, or risk trigger list) usable immediately.
 
@@ -172,7 +172,7 @@ This protects you and the organisation later.
 
 ## **Worked Example — One Decision, Three Outcomes (Leadership)**
 
-**Decision  **
+**Decision**
 Using AI-generated analysis to prioritise projects for funding.
 
 ### **✅ Good Use**
@@ -185,7 +185,7 @@ Using AI-generated analysis to prioritise projects for funding.
 
 - Final decision is human-owned and documented
 
-**Why this works:  **
+**Why this works:**
 AI informs strategy without displacing responsibility.
 
 ### **⚠️ Risky Use**
@@ -196,7 +196,7 @@ AI informs strategy without displacing responsibility.
 
 - Social or reputational impact is underestimated
 
-**Why this is risky:  **
+**Why this is risky:**
 Bias and long-term consequences may be baked in.
 
 ### **⛔ Unacceptable Use**
@@ -207,7 +207,7 @@ Bias and long-term consequences may be baked in.
 
 - No one can explain the decision later
 
-**Why this fails:  **
+**Why this fails:**
 Accountability has been silently delegated.
 
 ## **Your First Leadership Artefact (Create This Now)**
@@ -290,22 +290,22 @@ You apply **more domains as impact, uncertainty, or risk increases**.
 
 ### **The Leadership Capability Flow**
 
-- **AI Awareness & Orientation  **
+- **AI Awareness & Orientation**
   Understand what AI-driven analysis can and cannot reliably support.
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
   Clarify who has authority and who is accountable for decisions.
 
-- **Applied Practice & Innovation  **
+- **Applied Practice & Innovation**
   Use AI to extend foresight and option space, not to automate judgement.
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
   Anticipate second-order and systemic consequences.
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
   Apply proportional oversight, documentation, and escalation.
 
-- **Reflection, Learning & Renewal  **
+- **Reflection, Learning & Renewal**
   Improve leadership capability over time, not just decision speed.
 
 Skipping domains does not accelerate progress.  
@@ -353,9 +353,9 @@ AI-supported analysis is persuasive—but something feels off.
 
 ### **Primary domains to apply**
 
-- **AI Awareness & Orientation  **
+- **AI Awareness & Orientation**
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
 
 ### **What to do now**
 
@@ -381,9 +381,9 @@ The decision will:
 
 ### **Primary domains to apply**
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
 
 ### **What to do now**
 
@@ -413,9 +413,9 @@ AI is shaping:
 
 ### **Primary domains to apply**
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
 
-- **Applied Practice & Innovation  **
+- **Applied Practice & Innovation**
 
 ### **What to do now**
 
@@ -443,9 +443,9 @@ You carry formal responsibility:
 
 ### **Primary domains to apply**
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
 
 ### **What to do now**
 
@@ -467,9 +467,9 @@ AI is moving from pilot to routine practice.
 
 ### **Primary domains to apply**
 
-- **Applied Practice & Innovation  **
+- **Applied Practice & Innovation**
 
-- **Reflection, Learning & Renewal  **
+- **Reflection, Learning & Renewal**
 
 ### **What to do now**
 
@@ -497,9 +497,9 @@ You are thinking about:
 
 ### **Primary domains to apply**
 
-- **Reflection, Learning & Renewal  **
+- **Reflection, Learning & Renewal**
 
-- **AI Awareness & Orientation  **
+- **AI Awareness & Orientation**
 
 ### **What to do now**
 
@@ -554,7 +554,7 @@ Each domain follows the same canonical pattern used across the Practice Guides.
 
 This domain protects leaders from:
 
-- mistaking *confidence* for *reliability  *
+- mistaking *confidence* for *reliability*
 
 - over-trusting forecasts, rankings, or trend analysis
 
@@ -591,16 +591,16 @@ Awareness is what keeps leaders *in charge of direction*.
 
 Before acting on AI-influenced strategy or advice, ask:
 
-1.  **What kind of insight is this actually providing?  **
+1.  **What kind of insight is this actually providing?**
     (Forecast, clustering, simulation, ranking, language synthesis?)
 
-2.  **What assumptions underpin this output?  **
+2.  **What assumptions underpin this output?**
     (Data selection, time horizon, optimisation criteria.)
 
-3.  **What does the AI not “see” here?  **
+3.  **What does the AI not “see” here?**
     (Culture, morale, politics, equity, history.)
 
-4.  **Where would a confident but wrong decision cause the greatest damage?  **
+4.  **Where would a confident but wrong decision cause the greatest damage?**
     (People, reputation, trust, finances, long-term capability.)
 
 If these questions feel hard to answer, pause.
@@ -637,7 +637,7 @@ One sentence per question is enough.
 
 ## **Quick Reflection**
 
-**Which assumptions in this recommendation deserve explicit challenge?  **
+**Which assumptions in this recommendation deserve explicit challenge?**
 Write one sentence.
 
 **  **
@@ -667,16 +667,16 @@ If leaders cannot clearly state what they decided—and why—the organisation h
 
 Ask:
 
-1.  **What parts of this decision can AI inform?  **
+1.  **What parts of this decision can AI inform?**
     (Options, trade-offs, scenarios.)
 
-2.  **What parts must remain human-owned?  **
+2.  **What parts must remain human-owned?**
     (Prioritisation, value judgments, trade-offs.)
 
-3.  **Who is accountable if this decision proves harmful?  **
+3.  **Who is accountable if this decision proves harmful?**
     (This should have a single, named answer.)
 
-4.  **Could I explain this decision without referencing AI?  **
+4.  **Could I explain this decision without referencing AI?**
     (If not, authority has drifted.)
 
 ## **Tool in Use — Leadership Co-Agency Map**
@@ -685,11 +685,11 @@ A rapid exercise to prevent silent delegation:
 
 **Leadership Co-Agency Map**
 
-- **AI informs:  **
+- **AI informs:**
 
-- **Humans decide:  **
+- **Humans decide:**
 
-- **Leader accountable:  **
+- **Leader accountable:**
 
 Complete this before final approval.
 
@@ -711,7 +711,7 @@ These failures surface during audits, inquiries, or crises.
 
 ## **Quick Reflection**
 
-**Could I clearly defend this decision as my own?  **
+**Could I clearly defend this decision as my own?**
 Yes or no — and why?
 
 # **DOMAIN 3 — Applied Practice & Innovation (Strategic Use Without Automation)**
@@ -740,13 +740,13 @@ AI should *expand thinking*, not collapse it into a single “optimal” path.
 
 Ask:
 
-1.  **Is AI helping us think more broadly, or narrowing our view?  **
+1.  **Is AI helping us think more broadly, or narrowing our view?**
 
-2.  **Would this strategy still make sense without AI support?  **
+2.  **Would this strategy still make sense without AI support?**
 
-3.  **What alternative futures or interpretations should we explore?  **
+3.  **What alternative futures or interpretations should we explore?**
 
-4.  **Are we experimenting safely, or baking assumptions into policy?  **
+4.  **Are we experimenting safely, or baking assumptions into policy?**
 
 If AI reduces debate, it is being misused.
 
@@ -774,7 +774,7 @@ This preserves leadership agency while benefiting from AI exploration.
 
 ## **Quick Reflection**
 
-**Did AI increase strategic imagination—or reduce it?  **
+**Did AI increase strategic imagination—or reduce it?**
 Capture one sentence.
 
 # **Domains 1–3 in Practice (Leadership & Strategy)**
@@ -852,15 +852,15 @@ Seemingly neutral AI-informed decisions can:
 
 Before finalising or scaling an AI-influenced decision, ask:
 
-1.  **Who benefits from this decision—and who does not?  **
+1.  **Who benefits from this decision—and who does not?**
 
-2.  **Which groups bear disproportionate risk or cost?  **
+2.  **Which groups bear disproportionate risk or cost?**
 
-3.  **Does AI amplify existing inequalities or biases?  **
+3.  **Does AI amplify existing inequalities or biases?**
 
-4.  **What values are implicitly prioritised (e.g. efficiency over fairness)?  **
+4.  **What values are implicitly prioritised (e.g. efficiency over fairness)?**
 
-5.  **What harm would be hardest to reverse?  **
+5.  **What harm would be hardest to reverse?**
 
 These questions are governance, not politics.
 
@@ -926,15 +926,15 @@ At leadership level, governance answers:
 
 Before approving or delegating an AI-influenced decision, ask:
 
-1.  **Where does this decision sit in our risk hierarchy?  **
+1.  **Where does this decision sit in our risk hierarchy?**
 
-2.  **What documentation is proportionate and necessary?  **
+2.  **What documentation is proportionate and necessary?**
 
-3.  **Who must review or be consulted?  **
+3.  **Who must review or be consulted?**
 
-4.  **How will this decision be explained externally if needed?  **
+4.  **How will this decision be explained externally if needed?**
 
-5.  **Are governance mechanisms keeping pace with adoption?  **
+5.  **Are governance mechanisms keeping pace with adoption?**
 
 If governance lags adoption, risk compounds.
 
@@ -944,17 +944,17 @@ For any consequential AI-influenced decision, record:
 
 **Leadership Decision Transparency Note**
 
-- **Decision:  **
+- **Decision:**
 
-- **Purpose:  **
+- **Purpose:**
 
 - **Role of AI:** inform / analyse / scenario-model
 
-- **Human judgement applied:  **
+- **Human judgement applied:**
 
-- **Risks considered:  **
+- **Risks considered:**
 
-- **Oversight or escalation:  **
+- **Oversight or escalation:**
 
 This need not be lengthy.  
 It must be **clear and retrievable**.
@@ -1028,15 +1028,15 @@ Without reflection, organisations:
 
 After meaningful AI-influenced decisions, ask:
 
-1.  **Did AI improve the quality of judgement or just the speed?  **
+1.  **Did AI improve the quality of judgement or just the speed?**
 
-2.  **What unintended consequences emerged?  **
+2.  **What unintended consequences emerged?**
 
-3.  **Where did leadership over- or under-trust AI?  **
+3.  **Where did leadership over- or under-trust AI?**
 
-4.  **What should change in future decision processes?  **
+4.  **What should change in future decision processes?**
 
-5.  **How will we capture and share this learning?  **
+5.  **How will we capture and share this learning?**
 
 ## **Tool in Use — Leadership Reflection Loop**
 
@@ -1125,7 +1125,7 @@ Ask yourself:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mixed/no:  **
+**If mixed/no:**
 Pause high-impact use until assumptions are surfaced.
 
 ### **Domain 2 — Human–AI Co-Agency**
@@ -1140,7 +1140,7 @@ Consider:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If unclear:  **
+**If unclear:**
 Authority and accountability are drifting.
 
 ### **Domain 3 — Applied Practice & Innovation**
@@ -1155,7 +1155,7 @@ Reflect:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mostly no:  **
+**If mostly no:**
 AI may be constraining strategic imagination.
 
 ### **Domain 4 — Ethics, Equity & Impact**
@@ -1170,7 +1170,7 @@ Ask:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mixed/no:  **
+**If mixed/no:**
 Ethics must move earlier in leadership decisions.
 
 ### **Domain 5 — Decision-Making & Governance**
@@ -1185,7 +1185,7 @@ Check:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mixed/no:  **
+**If mixed/no:**
 Governance is lagging adoption.
 
 ### **Domain 6 — Reflection, Learning & Renewal**
@@ -1200,7 +1200,7 @@ Finally:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If inconsistent:  **
+**If inconsistent:**
 Capability will stagnate.
 
 ### **Interpreting Your Self-Check**

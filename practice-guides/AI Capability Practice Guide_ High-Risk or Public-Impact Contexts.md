@@ -69,7 +69,7 @@ If mistakes could:
 
 By working through this guide, you will be able to:
 
-- recognise when an AI-related task has **high-risk or public-impact characteristics  **
+- recognise when an AI-related task has **high-risk or public-impact characteristics**
 
 - decide whether AI is appropriate **at all** in that context
 
@@ -77,7 +77,7 @@ By working through this guide, you will be able to:
 
 - apply **ethics, equity, and harm-avoidance** before deployment
 
-- set **clear escalation and “stop-use” conditions  **
+- set **clear escalation and “stop-use” conditions**
 
 - document decisions in a way that can withstand scrutiny
 
@@ -109,7 +109,7 @@ Use this guide when:
 
 - people may rely on outputs they cannot easily verify
 
-- those affected have **limited power to contest or appeal  **
+- those affected have **limited power to contest or appeal**
 
 - you would be uncomfortable if use became public knowledge
 
@@ -147,9 +147,9 @@ Ask:
 
 1.  **Is this primarily a judgement task?** (ethics, values, context)
 
-2.  **Would we be comfortable defending AI use in this context publicly?  **
+2.  **Would we be comfortable defending AI use in this context publicly?**
 
-3.  **Are there safer non-AI alternatives?  **
+3.  **Are there safer non-AI alternatives?**
 
 If you cannot justify AI use **better than** non-AI alternatives, the default in high-risk contexts is:
 
@@ -171,13 +171,13 @@ If this cannot be guaranteed in practice, **do not deploy AI**.
 
 Ask:
 
-1.  **Who could be harmed if this output is wrong or incomplete?  **
+1.  **Who could be harmed if this output is wrong or incomplete?**
 
-2.  **Who is least able to challenge or correct it?  **
+2.  **Who is least able to challenge or correct it?**
 
-3.  **Could this deepen existing inequities or stigma?  **
+3.  **Could this deepen existing inequities or stigma?**
 
-4.  **Would harm likely be visible early—or only after damage is done?  **
+4.  **Would harm likely be visible early—or only after damage is done?**
 
 If you cannot mitigate identified harms **before use**, AI is **not yet safe to deploy**.
 
@@ -185,7 +185,7 @@ If you cannot mitigate identified harms **before use**, AI is **not yet safe to 
 
 Before you proceed, define:
 
-- **Escalation triggers:  **
+- **Escalation triggers:**
 
   - any serious complaint or incident
 
@@ -193,7 +193,7 @@ Before you proceed, define:
 
   - conflicting expert or community feedback
 
-- **Stop-use triggers:  **
+- **Stop-use triggers:**
 
   - evidence of significant harm or unfairness
 
@@ -205,7 +205,7 @@ If you cannot commit to stopping or revising use under these conditions, governa
 
 ## **Worked Fast-Start Example — One Context, Three Paths**
 
-**Context  **
+**Context**
 Drafting public guidance on a health-risk topic using AI.
 
 ### **✅ Cautious, Acceptable Use (Support Only)**
@@ -216,9 +216,9 @@ Drafting public guidance on a health-risk topic using AI.
 
 - Final wording is human-authored and owned
 
-- AI use is clearly **supporting, not deciding  **
+- AI use is clearly **supporting, not deciding**
 
-**Why this works:  **
+**Why this works:**
 AI accelerates drafting; humans retain expertise and responsibility.
 
 **  **
@@ -231,7 +231,7 @@ AI accelerates drafting; humans retain expertise and responsibility.
 
 - No documented harm or equity screen
 
-**Why this is fragile:  **
+**Why this is fragile:**
 No clear evidence of safety or fairness; trust can collapse quickly if errors surface.
 
 ### **⛔ Unacceptable Use**
@@ -242,7 +242,7 @@ No clear evidence of safety or fairness; trust can collapse quickly if errors su
 
 - No record of how guidance was generated
 
-**Why this fails:  **
+**Why this fails:**
 People could be harmed by unverified information; no one can explain or own the decision.
 
 **  **
@@ -251,17 +251,17 @@ People could be harmed by unverified information; no one can explain or own the 
 
 Write a **High-Risk AI Use Note** (5–7 lines):
 
-- **Context:  **
+- **Context:**
 
-- **Potential harms:  **
+- **Potential harms:**
 
-- **Who is most exposed:  **
+- **Who is most exposed:**
 
-- **AI role (if any):  **
+- **AI role (if any):**
 
-- **Non-AI alternatives considered:  **
+- **Non-AI alternatives considered:**
 
-- **Escalation / stop-use conditions:  **
+- **Escalation / stop-use conditions:**
 
 If you cannot fill this out convincingly, the safest move is **not to introduce AI** at this time.
 
@@ -269,13 +269,13 @@ If you cannot fill this out convincingly, the safest move is **not to introduce 
 
 This guide prioritises:
 
-- **safety over speed  **
+- **safety over speed**
 
-- **judgement over automation  **
+- **judgement over automation**
 
-- **equity over efficiency  **
+- **equity over efficiency**
 
-- **accountability over convenience  **
+- **accountability over convenience**
 
 You are not expected to ban AI outright.  
 You are expected to:
@@ -357,11 +357,11 @@ In high-risk or public-impact contexts:
 
 Therefore:
 
-- **AI capability here is primarily defensive  **
+- **AI capability here is primarily defensive**
 
-- innovation must remain **careful, bounded, and reviewable  **
+- innovation must remain **careful, bounded, and reviewable**
 
-- refusal to use AI is sometimes the **most responsible decision  **
+- refusal to use AI is sometimes the **most responsible decision**
 
 This guide helps you decide:
 
@@ -655,7 +655,7 @@ From here, the guide moves into the **core practice workflow**, applying the six
 
 Stage 3 focuses on:
 
-- **Domains 1–3  **
+- **Domains 1–3**
 
 - understanding AI limits
 
@@ -673,9 +673,9 @@ In high-risk or public-impact contexts:
 
 - these domains are not about creativity
 
-- they are about *preventing silent failure  *
+- they are about *preventing silent failure*
 
-- they establish **non-negotiable boundaries  **
+- they establish **non-negotiable boundaries**
 
 **  **
 
@@ -1166,11 +1166,11 @@ Responsible restraint is a form of capability.
 
 Stage 5 consolidates this work into:
 
-- a **High-Risk Capability Self-Check  **
+- a **High-Risk Capability Self-Check**
 
-- a **worked public-impact scenario  **
+- a **worked public-impact scenario**
 
-- a **personal or organisational operating model  **
+- a **personal or organisational operating model**
 
 This final stage ensures readiness under pressure.
 
@@ -1211,7 +1211,7 @@ Consider:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If “mixed/no”:  **
+**If “mixed/no”:**
 AI should *not* be used in any public-impact decisions until clarity improves.
 
 **  **
@@ -1228,7 +1228,7 @@ Ask:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If “mixed/no”:  **
+**If “mixed/no”:**
 You are exposed to responsibility drift.
 
 ## **Domain 3 — Applied Practice & Innovation**
@@ -1243,7 +1243,7 @@ Reflect:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If “mixed/no”:  **
+**If “mixed/no”:**
 You are operating with unmanaged risk.
 
 **  **
@@ -1260,7 +1260,7 @@ Evaluate:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If “mixed/no”:  **
+**If “mixed/no”:**
 Ethical risk is high and unmitigated.
 
 ## **Domain 5 — Decision-Making & Governance**
@@ -1275,7 +1275,7 @@ Check:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If “mixed/no”:  **
+**If “mixed/no”:**
 Governance is not ready for high-risk AI.
 
 **  **
@@ -1292,7 +1292,7 @@ Ask:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If “mixed/no”:  **
+**If “mixed/no”:**
 Capability will degrade over time.
 
 ## **Interpreting Your Self-Check**
@@ -1380,7 +1380,7 @@ The team:
 
 - tests multiple AI framings for clarity
 
-- uses AI only as a **support tool  **
+- uses AI only as a **support tool**
 
 - ensures all outputs remain reversible and non-binding
 

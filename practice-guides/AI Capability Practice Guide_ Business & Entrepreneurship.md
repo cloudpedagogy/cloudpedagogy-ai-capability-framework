@@ -20,7 +20,7 @@ This guide is for people using AI **to build or grow something in the real world
 
 You are:
 
-- making decisions that affect **money, reputation, jobs, and customers  **
+- making decisions that affect **money, reputation, jobs, and customers**
 
 - under pressure to “move fast” or “leverage AI”
 
@@ -53,11 +53,11 @@ By working through this guide, you will be able to:
 
 - design clear **human–AI workflows** for core business tasks
 
-- reduce the risk of **brand damage, regulatory issues, or customer backlash  **
+- reduce the risk of **brand damage, regulatory issues, or customer backlash**
 
 - build **lightweight governance** into everyday commercial decisions
 
-- avoid the trap of “AI everywhere” and focus on **AI where it matters  **
+- avoid the trap of “AI everywhere” and focus on **AI where it matters**
 
 - set up a simple **operating model** for using AI in your venture
 
@@ -79,15 +79,15 @@ This Fast Start gets you from “AI as a shiny thing” to “AI as a controlled
 
 Use this guide when:
 
-- you’re about to plug AI into a **customer-facing process  **
+- you’re about to plug AI into a **customer-facing process**
 
-- AI is shaping **offers, pricing, or messaging  **
+- AI is shaping **offers, pricing, or messaging**
 
 - AI is used for **screening, ranking, or shortlisting** people or opportunities
 
 - investors or stakeholders ask, “How are you using AI?”
 
-- you’re tempted to **automate a process that currently relies on judgement  **
+- you’re tempted to **automate a process that currently relies on judgement**
 
 - you can’t quite explain why you’re using AI in a given area
 
@@ -147,9 +147,9 @@ If you can’t clearly separate these, you’re about to blur accountability.
 
 Ask:
 
-1.  **Do I understand, at a basic level, how this AI produces answers?  **
+1.  **Do I understand, at a basic level, how this AI produces answers?**
 
-2.  **Do I know what it is likely to get wrong in this task?  **
+2.  **Do I know what it is likely to get wrong in this task?**
 
 If the honest answer is “Not really” to either:
 
@@ -173,7 +173,7 @@ If the answer to the last question is “no” or “I don’t know”, your AI 
 
 Choose one of three paths:
 
-1.  **✅ Proceed (with constraints)  **
+1.  **✅ Proceed (with constraints)**
 
     - AI used for support roles only
 
@@ -181,7 +181,7 @@ Choose one of three paths:
 
     - risk and usage documented
 
-2.  **🔁 Redesign  **
+2.  **🔁 Redesign**
 
     - narrow the task
 
@@ -189,7 +189,7 @@ Choose one of three paths:
 
     - add human review or small-scale piloting
 
-3.  **⛔ Do not use AI here (for now)  **
+3.  **⛔ Do not use AI here (for now)**
 
     - risk or ambiguity is too high
 
@@ -201,12 +201,12 @@ Write down which you chose and why — even 3–4 lines. That note is part of yo
 
 ## **Worked Fast-Start Example — Business Context, Three Outcomes**
 
-**Task  **
+**Task**
 Using AI to draft outbound messages for a new B2B service.
 
 ### **✅ Acceptable, Controlled Use**
 
-- AI generates first drafts based on **clear, accurate input  **
+- AI generates first drafts based on **clear, accurate input**
 
 - Founder or marketer vets each message for:
 
@@ -218,7 +218,7 @@ Using AI to draft outbound messages for a new B2B service.
 
 - AI is not allowed to “invent” customers, metrics, or case studies
 
-**Why this works:  **
+**Why this works:**
 AI accelerates writing, but business risk remains under human control.
 
 ### **⚠️ Commercially Risky Use**
@@ -229,7 +229,7 @@ AI accelerates writing, but business risk remains under human control.
 
 - Brand voice is inconsistent; some messages feel generic or slightly off
 
-**Why this is risky:  **
+**Why this is risky:**
 Short-term productivity gains may be outweighed by brand damage or trust erosion.
 
 **  **
@@ -242,24 +242,24 @@ Short-term productivity gains may be outweighed by brand damage or trust erosion
 
 - No human validates claims, legal exposure, or fit with positioning
 
-**Why this fails:  **
+**Why this fails:**
 You’ve outsourced integrity to a system that has none. Legal and reputational risk is high.
 
 ## **Your First Business AI Artefact (Create This Now)**
 
 Write a short **Business AI Use Note** (5–7 lines) for one real task:
 
-- **Task:  **
+- **Task:**
 
-- **Business outcome sought:  **
+- **Business outcome sought:**
 
-- **AI role (support only / suggestion / draft):  **
+- **AI role (support only / suggestion / draft):**
 
-- **Human responsibility:  **
+- **Human responsibility:**
 
-- **Main risks considered (trust, accuracy, fairness, compliance):  **
+- **Main risks considered (trust, accuracy, fairness, compliance):**
 
-- **Decision (proceed / redesign / do not use AI yet):  **
+- **Decision (proceed / redesign / do not use AI yet):**
 
 This is enough to:
 
@@ -281,7 +281,7 @@ You will use it to:
 
 - **prevent silent risks** in sales, marketing, operations, product, HR, and finance
 
-- **keep control of positioning, promises, and accountability  **
+- **keep control of positioning, promises, and accountability**
 
 You are not expected to apply all six domains for every trivial task.  
 You are expected to:
@@ -310,9 +310,9 @@ This stage helps you **use the guide under real business conditions**: time pres
 
 It answers two questions founders and business leaders actually face:
 
-1.  *Where do I start with AI right now?  *
+1.  *Where do I start with AI right now?*
 
-2.  *Which capability lens matters most in this situation?  *
+2.  *Which capability lens matters most in this situation?*
 
 You are not expected to follow this guide linearly.  
 You are expected to **enter where the risk or opportunity is live**.
@@ -589,9 +589,9 @@ Each domain section will:
 
 - explain **what it protects or enables** in business terms
 
-- show **how to apply it immediately  **
+- show **how to apply it immediately**
 
-- surface common **commercial failure modes  **
+- surface common **commercial failure modes**
 
 - include a short reflection moment
 

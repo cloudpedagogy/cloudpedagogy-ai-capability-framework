@@ -54,13 +54,13 @@ If you are looking for shortcuts that replace **research judgement**, this guide
 
 By working through this guide, you will be able to:
 
-- decide **when AI is appropriate in research—and when it is not  **
+- decide **when AI is appropriate in research—and when it is not**
 
 - design a clear **human–AI research relationship** for a real task
 
 - recognise **epistemic risk** (hallucination, distortion, false synthesis)
 
-- apply lightweight but credible **research governance  **
+- apply lightweight but credible **research governance**
 
 - document AI involvement in a way you can justify to supervisors, reviewers, or funders
 
@@ -80,7 +80,7 @@ Use this guide when:
 
 - you feel pressure to use AI because others are doing so
 
-- a task affects **research claims, interpretation, or credibility  **
+- a task affects **research claims, interpretation, or credibility**
 
 - you are unsure how much to trust an AI-generated synthesis
 
@@ -166,7 +166,7 @@ Document the decision. One sentence is enough.
 
 ## **Worked Example — One Task, Three Outcomes (Research)**
 
-**Task  **
+**Task**
 Using AI to help shape the literature review section of a paper.
 
 ### **✅ Good Use**
@@ -179,7 +179,7 @@ Using AI to help shape the literature review section of a paper.
 
 - Final structure is human-designed and defensible
 
-**Why this works:  **
+**Why this works:**
 AI supports sense-making without replacing engagement with literature.
 
 ### **⚠️ Risky Use**
@@ -190,7 +190,7 @@ AI supports sense-making without replacing engagement with literature.
 
 - Citations are assumed to be correct
 
-**Why this is risky:  **
+**Why this is risky:**
 False coherence and hallucinated references may go unnoticed.
 
 **  **
@@ -203,22 +203,22 @@ False coherence and hallucinated references may go unnoticed.
 
 - Researcher cannot explain why claims are included
 
-**Why this fails:  **
+**Why this fails:**
 Authorship, evidence, and accountability have been delegated to a system that cannot carry them.
 
 ## **Your First Research Artefact (Create This Now)**
 
 Write a short **Research AI Use Note** (3–5 lines):
 
-- **Research task:  **
+- **Research task:**
 
-- **Role of AI:  **
+- **Role of AI:**
 
-- **Human responsibility retained:  **
+- **Human responsibility retained:**
 
-- **Key risks considered:  **
+- **Key risks considered:**
 
-- **Decision made:  **
+- **Decision made:**
 
 This single note:
 
@@ -258,22 +258,22 @@ You apply them **as risk and impact increase**.
 
 **The research capability flow in practice:**
 
-- **AI Awareness & Orientation  **
+- **AI Awareness & Orientation**
   Understand how AI may mislead in research contexts.
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
   Decide who does what—and who owns the claim.
 
-- **Applied Practice & Innovation  **
+- **Applied Practice & Innovation**
   Use AI to explore and test thinking, not replace it.
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
   Anticipate effects on people, knowledge, and trust.
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
   Keep research decisions transparent and defensible.
 
-- **Reflection, Learning & Renewal  **
+- **Reflection, Learning & Renewal**
   Improve capability over time, not just outputs.
 
 Skipping a domain does not save time.  
@@ -293,7 +293,7 @@ This guide is designed for that reality.
 
 ### **If you only have 5–10 minutes**
 
-- Use the **Fast Start  **
+- Use the **Fast Start**
 
 - Clarify co-agency
 
@@ -352,22 +352,22 @@ You apply **more domains as risk, impact, or uncertainty increase**.
 
 ### **The Research Capability Flow**
 
-- **AI Awareness & Orientation  **
+- **AI Awareness & Orientation**
   Understand how AI systems can mislead in research contexts.
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
   Decide who does what—and who owns claims, methods, and interpretation.
 
-- **Applied Practice & Innovation  **
+- **Applied Practice & Innovation**
   Use AI to explore ideas without shortcutting scholarly reasoning.
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
   Anticipate effects on participants, communities, and knowledge itself.
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
   Keep research decisions transparent, auditable, and defensible.
 
-- **Reflection, Learning & Renewal  **
+- **Reflection, Learning & Renewal**
   Learn from AI use and refine research practice over time.
 
 Skipping a domain may feel efficient.  
@@ -414,9 +414,9 @@ AI could help—but something feels risky.
 
 ### **Primary domains to apply**
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
 
 ### **What to do now**
 
@@ -448,9 +448,9 @@ You could use AI—but may be crossing a boundary:
 
 ### **Primary domains to apply**
 
-- **AI Awareness & Orientation  **
+- **AI Awareness & Orientation**
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
 
 ### **What to do now**
 
@@ -471,9 +471,9 @@ but confidence is low.
 
 ### **Primary domains to apply**
 
-- **AI Awareness & Orientation  **
+- **AI Awareness & Orientation**
 
-- **Reflection, Learning & Renewal  **
+- **Reflection, Learning & Renewal**
 
 ### **What to do now**
 
@@ -503,9 +503,9 @@ The research output may affect:
 
 ### **Primary domains to apply**
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
 
 ### **What to do now**
 
@@ -535,9 +535,9 @@ You anticipate scrutiny from:
 
 ### **Primary domains to apply**
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
 
 ### **What to do now**
 
@@ -565,9 +565,9 @@ You are thinking beyond one project toward:
 
 ### **Primary domains to apply**
 
-- **Reflection, Learning & Renewal  **
+- **Reflection, Learning & Renewal**
 
-- **Applied Practice & Innovation  **
+- **Applied Practice & Innovation**
 
 ### **What to do now**
 
@@ -618,15 +618,15 @@ These domains shape *how* you think with AI—not what AI produces.
 
 Each domain follows the canonical structure:
 
-- **What This Domain Protects / Enables  **
+- **What This Domain Protects / Enables**
 
-- **Apply Now — Key Questions  **
+- **Apply Now — Key Questions**
 
-- **Tool in Use  **
+- **Tool in Use**
 
-- **Common Failure Modes  **
+- **Common Failure Modes**
 
-- **Quick Reflection  **
+- **Quick Reflection**
 
 **  **
 
@@ -636,15 +636,15 @@ Each domain follows the canonical structure:
 
 This domain protects you from:
 
-- mistaking **plausibility** for **evidence  **
+- mistaking **plausibility** for **evidence**
 
-- believing AI has **access to knowledge it cannot have  **
+- believing AI has **access to knowledge it cannot have**
 
-- accepting **fabricated citations, data, or coherence  **
+- accepting **fabricated citations, data, or coherence**
 
 - letting synthetic text distort real literature
 
-- confusing **pattern generation** with **analysis  **
+- confusing **pattern generation** with **analysis**
 
 Researchers face a unique risk:  
 AI outputs can appear **academically convincing**, even when wrong.
@@ -660,16 +660,16 @@ Awareness ensures you never confuse those two.
 
 Before using or acting on an AI output, ask:
 
-1.  **What kind of system am I interacting with?  **
+1.  **What kind of system am I interacting with?**
     (Predictive text generator, not a reasoning agent.)
 
-2.  **What information is it *not* trained on or cannot infer?  **
+2.  **What information is it *not* trained on or cannot infer?**
     (Recent publications, proprietary datasets, disciplinary nuance.)
 
-3.  **What would a confident-sounding error look like here?  **
+3.  **What would a confident-sounding error look like here?**
     (Fabricated citations, overgeneralised claims, missing caveats.)
 
-4.  **Which part of this output would cause damage if wrong?  **
+4.  **Which part of this output would cause damage if wrong?**
     (Framings, definitions, relationships, causal suggestions.)
 
 If you cannot identify at least one plausible failure mode, you are over-trusting the model.
@@ -680,13 +680,13 @@ Use this quick template before relying on any AI-generated research text:
 
 **AI Awareness Check (Research)**
 
-- *What is this AI optimised to do?  *
+- *What is this AI optimised to do?*
 
-- *What is it not designed to do?  *
+- *What is it not designed to do?*
 
-- *Which parts of my task require evidence the AI cannot provide?  *
+- *Which parts of my task require evidence the AI cannot provide?*
 
-- *What would a misleading but fluent output look like?  *
+- *What would a misleading but fluent output look like?*
 
 Write one sentence for each.  
 This prevents epistemic shortcuts.
@@ -707,7 +707,7 @@ This prevents epistemic shortcuts.
 
 ## **Quick Reflection**
 
-**What did I assume the AI “knew” that it could not reasonably know?  **
+**What did I assume the AI “knew” that it could not reasonably know?**
 Capture one sentence.  
 This small habit produces large capability gains over time.
 
@@ -719,15 +719,15 @@ This small habit produces large capability gains over time.
 
 This domain protects:
 
-- **authorship  **
+- **authorship**
 
-- **methodological integrity  **
+- **methodological integrity**
 
-- **accountability  **
+- **accountability**
 
-- **interpretive ownership  **
+- **interpretive ownership**
 
-- **transparent research practice  **
+- **transparent research practice**
 
 In research, co-agency is **non-negotiable**.  
 If the boundary between your judgement and AI assistance is unclear, research integrity collapses silently.
@@ -762,16 +762,16 @@ Only the human researcher can.
 
 Ask:
 
-1.  **Which parts of this research task can AI support?  **
+1.  **Which parts of this research task can AI support?**
     (Exploration, drafting, counter-arguments.)
 
-2.  **Which parts must remain human-led?  **
+2.  **Which parts must remain human-led?**
     (Interpretation, evidence evaluation, methodological reasoning.)
 
-3.  **Who is accountable if something goes wrong here?  **
+3.  **Who is accountable if something goes wrong here?**
     (Always you.)
 
-4.  **What decisions must be traceable for supervisors, reviewers, or examiners?  **
+4.  **What decisions must be traceable for supervisors, reviewers, or examiners?**
     (How claims were formed, how literature was interpreted.)
 
 **  **
@@ -782,13 +782,13 @@ A two-minute activity that prevents accidental delegation:
 
 **Research Co-Agency Map**
 
-- **AI may support by:  **
+- **AI may support by:**
   (e.g. generating alternative framings, proposing structure.)
 
-- **AI may not:  **
+- **AI may not:**
   (e.g. produce final synthesis, replace reading, justify claims.)
 
-- **I remain responsible for:  **
+- **I remain responsible for:**
   (method choice, accuracy, interpretation, citation, argument.)
 
 Use this once per meaningful research task.
@@ -842,16 +842,16 @@ Innovation is valuable only when **methods, evidence, and interpretation remain 
 
 Ask:
 
-1.  **Does AI genuinely improve this research task?  **
+1.  **Does AI genuinely improve this research task?**
     (Not every task needs AI.)
 
-2.  **What would “good” look like *without* AI?  **
+2.  **What would “good” look like *without* AI?**
     (This prevents dependency.)
 
-3.  **Am I using AI to explore, or to avoid thinking?  **
+3.  **Am I using AI to explore, or to avoid thinking?**
     (Be honest.)
 
-4.  **Is this experiment low-risk, or could it distort evidence?  **
+4.  **Is this experiment low-risk, or could it distort evidence?**
     (Exploration is fine; replacing literature is not.)
 
 ## **Tool in Use — Safe Research Experimentation Prompt**
@@ -880,7 +880,7 @@ This creates **creative divergence** without blurring evidence boundaries.
 
 ## **Quick Reflection**
 
-**What improved because I used AI—and what did not?  **
+**What improved because I used AI—and what did not?**
 Capture one insight for reuse.
 
 **  **
@@ -891,7 +891,7 @@ Together, Domains 1–3 establish a research environment where:
 
 - **AI supports thinking** without replacing evidence
 
-- **the researcher remains the epistemic agent  **
+- **the researcher remains the epistemic agent**
 
 - **innovation strengthens**, not weakens, research quality
 
@@ -930,15 +930,15 @@ These domains ensure AI use remains **ethical, transparent, equitable, and audit
 
 We keep the canonical structure for each domain:
 
-- **What This Domain Protects / Enables  **
+- **What This Domain Protects / Enables**
 
-- **Apply Now — Key Questions  **
+- **Apply Now — Key Questions**
 
-- **Tool in Use  **
+- **Tool in Use**
 
-- **Common Failure Modes  **
+- **Common Failure Modes**
 
-- **Quick Reflection  **
+- **Quick Reflection**
 
 **  **
 
@@ -977,15 +977,15 @@ AI amplifies dominant perspectives unless intentionally constrained.
 
 Before sharing, submitting, or embedding AI-generated content, ask:
 
-1.  **Who is represented or misrepresented by this framing?  **
+1.  **Who is represented or misrepresented by this framing?**
 
-2.  **Does the AI output oversimplify lived experience or sensitive topics?  **
+2.  **Does the AI output oversimplify lived experience or sensitive topics?**
 
-3.  **Which groups might be disadvantaged or misinterpreted?  **
+3.  **Which groups might be disadvantaged or misinterpreted?**
 
-4.  **Does this output encode normative assumptions that need unpacking?  **
+4.  **Does this output encode normative assumptions that need unpacking?**
 
-5.  **If someone were harmed by this output, how difficult would it be to reverse?  **
+5.  **If someone were harmed by this output, how difficult would it be to reverse?**
 
 These questions matter even in desk-based and theoretical research.
 
@@ -1019,7 +1019,7 @@ One sentence per risk is enough.
 
 ## **Quick Reflection**
 
-**If I were part of the community represented here, what would concern me most?  **
+**If I were part of the community represented here, what would concern me most?**
 Capture one insight.
 
 **  **
@@ -1059,15 +1059,15 @@ especially when it shapes interpretation, structure, or claims.
 
 Before finalising a research decision influenced by AI, ask:
 
-1.  **Did AI influence this decision directly or indirectly?  **
+1.  **Did AI influence this decision directly or indirectly?**
 
-2.  **Is this a low-risk support use or a high-stakes judgement?  **
+2.  **Is this a low-risk support use or a high-stakes judgement?**
 
-3.  **What must be documented for future scrutiny?  **
+3.  **What must be documented for future scrutiny?**
 
-4.  **Would I stand by this process in a viva, peer review, or audit?  **
+4.  **Would I stand by this process in a viva, peer review, or audit?**
 
-5.  **Does this require supervisor, ethics, or team review?  **
+5.  **Does this require supervisor, ethics, or team review?**
 
 If the answer to #5 is unclear, assume it **does require review**.
 
@@ -1078,17 +1078,17 @@ Use it for any meaningful research decision AI touches:
 
 **Decision Transparency Log (Research)**
 
-- **Decision being made:  **
+- **Decision being made:**
 
 - **Role of AI:** inform / suggest / draft / structure / generate
 
-- **Human decision-maker:  **
+- **Human decision-maker:**
 
-- **Verification performed:  **
+- **Verification performed:**
 
-- **Escalation required? (Y/N):  **
+- **Escalation required? (Y/N):**
 
-- **Notes:  **
+- **Notes:**
 
 This log can be a notebook entry, a file, or a project page—  
 but it **must exist**.
@@ -1131,7 +1131,7 @@ These failures surface during peer review—rarely earlier.
 
 ## **Quick Reflection**
 
-**Could I explain and justify this decision six months from now?  **
+**Could I explain and justify this decision six months from now?**
 If not, governance is insufficient.
 
 # **DOMAIN 6 — Reflection, Learning & Renewal (Sustaining Research Capability)**
@@ -1167,15 +1167,15 @@ Reflection prevents research practice from:
 
 After meaningful AI use, ask:
 
-1.  **What improved because of AI?  **
+1.  **What improved because of AI?**
 
-2.  **Where did AI distort or oversimplify?  **
+2.  **Where did AI distort or oversimplify?**
 
-3.  **What will I change in the workflow next time?  **
+3.  **What will I change in the workflow next time?**
 
-4.  **What new risk did I discover?  **
+4.  **What new risk did I discover?**
 
-5.  **Do I need to update my co-agency boundaries?  **
+5.  **Do I need to update my co-agency boundaries?**
 
 These questions take under five minutes.
 
@@ -1272,7 +1272,7 @@ Ask yourself honestly:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mostly no:  **
+**If mostly no:**
 Pause AI use in literature or framing tasks until awareness improves.
 
 ### **Domain 2 — Human–AI Co-Agency**
@@ -1287,7 +1287,7 @@ Consider:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mixed:  **
+**If mixed:**
 Clarify co-agency boundaries before continuing.
 
 ### **Domain 3 — Applied Practice & Innovation**
@@ -1302,7 +1302,7 @@ Reflect:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mostly no:  **
+**If mostly no:**
 Shift from output extraction to safe experimentation.
 
 **  **
@@ -1319,7 +1319,7 @@ Ask:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mostly no:  **
+**If mostly no:**
 Ethics must move earlier in your workflow.
 
 ### **Domain 5 — Decision-Making & Governance**
@@ -1334,7 +1334,7 @@ Check:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mixed or no:  **
+**If mixed or no:**
 Introduce lightweight documentation immediately.
 
 **  **
@@ -1351,7 +1351,7 @@ Finally:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If inconsistent:  **
+**If inconsistent:**
 Adopt a simple reflection habit.
 
 ### **Interpreting Your Self-Check**

@@ -156,7 +156,7 @@ Using AI to draft a short professional summary for public use.
 
 - Final wording is human-authored and owned
 
-**Why this works:  **
+**Why this works:**
 AI accelerates drafting without replacing judgement or accountability.
 
 ### **⚠️ Risky Use**
@@ -167,7 +167,7 @@ AI accelerates drafting without replacing judgement or accountability.
 
 - Context-specific nuance is missing
 
-**Why this’s risky:  **
+**Why this’s risky:**
 Errors aren’t obvious, but credibility could be undermined later.
 
 **  **
@@ -180,7 +180,7 @@ Errors aren’t obvious, but credibility could be undermined later.
 
 - No accountability if challenged
 
-**Why this fails:  **
+**Why this fails:**
 Responsibility has been delegated to a system that cannot carry it.
 
 ## **Your First Artefact (Create This Now)**
@@ -231,22 +231,22 @@ You apply them **as the situation demands**.
 
 ### **The capability flow in practice**
 
-- **AI Awareness & Orientation  **
+- **AI Awareness & Orientation**
   Understand what the system is doing and where it might mislead.
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
   Decide who does what, and who remains accountable.
 
-- **Applied Practice & Innovation  **
+- **Applied Practice & Innovation**
   Use AI creatively and productively, but within boundaries.
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
   Anticipate who may be affected and how harm could occur.
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
   Apply proportionate oversight, documentation, and review.
 
-- **Reflection, Learning & Renewal  **
+- **Reflection, Learning & Renewal**
   Learn from outcomes and improve your future practice.
 
 Skipping a domain does not save time.  
@@ -266,7 +266,7 @@ This guide is structured to support exactly that reality.
 
 ### **If you only have 5–10 minutes**
 
-- Use the **Fast Start  **
+- Use the **Fast Start**
 
 - Apply the co-agency check
 
@@ -1138,26 +1138,26 @@ Repeating steps increases capability.
 
 Before using AI, ask:
 
-1.  **Why am I using AI here?  **
+1.  **Why am I using AI here?**
     (Speed, clarity, exploration — not avoidance.)
 
-2.  **What will AI do — and what remains mine?  **
+2.  **What will AI do — and what remains mine?**
     (Define the boundary.)
 
-3.  **What would failure look like?  **
+3.  **What would failure look like?**
     (Accuracy, harm, reputation, fairness.)
 
 If you cannot answer these, pause.
 
 ### **The 3 Rules of Individual AI Practice**
 
-1.  **Fluency is never proof.  **
+1.  **Fluency is never proof.**
     Always verify claims that matter.
 
-2.  **You remain accountable.  **
+2.  **You remain accountable.**
     AI assistance does not dilute responsibility.
 
-3.  **If impact extends beyond you, governance applies.  **
+3.  **If impact extends beyond you, governance applies.**
     Document or escalate.
 
 ### **Common Signals to Slow Down**

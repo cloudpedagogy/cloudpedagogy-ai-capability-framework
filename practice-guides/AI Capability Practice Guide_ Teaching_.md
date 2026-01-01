@@ -133,11 +133,11 @@ Avoid:
 
 Use this 3-part teaching-specific co-agency check:
 
-1.  **AI supports me by…  **
+1.  **AI supports me by…**
 
-2.  **Students may use AI to…  **
+2.  **Students may use AI to…**
 
-3.  **I remain responsible for…  **
+3.  **I remain responsible for…**
 
 If educator and student boundaries blur, pause — learning integrity is at risk.
 
@@ -175,12 +175,12 @@ If the answer to any is uncertain, revise.
 
 Choose one:
 
-- **Proceed carefully  **
+- **Proceed carefully**
   (with review, disclosure, or adaptation)
 
-- **Revise the task or prompt  **
+- **Revise the task or prompt**
 
-- **Pause and escalate  **
+- **Pause and escalate**
   (assessment boards, QA, module lead, digital education team)
 
 Document your reasoning — academic integrity requires traceability.
@@ -203,7 +203,7 @@ Preparing a reading guide for a complex topic using AI.
 
 - Student misconceptions are anticipated and addressed
 
-**Why this works:  **
+**Why this works:**
 AI accelerates structure, but *pedagogical judgement* shapes learning.
 
 ### **⚠️ Risky Use**
@@ -214,7 +214,7 @@ AI accelerates structure, but *pedagogical judgement* shapes learning.
 
 - Level and language drift away from expected learning outcomes
 
-**Why this is risky:  **
+**Why this is risky:**
 Students may be misdirected or miscalibrated about difficulty.
 
 **  **
@@ -227,7 +227,7 @@ Students may be misdirected or miscalibrated about difficulty.
 
 - No transparency to students
 
-**Why this fails:  **
+**Why this fails:**
 It breaches academic duty of care and undermines disciplinary integrity.
 
 ## **Your First Teaching Artefact**
@@ -271,7 +271,7 @@ This stage shows how each AI Capability domain **behaves differently in teaching
 
 In teaching:
 
-- mistakes scale to *many students  *
+- mistakes scale to *many students*
 
 - ambiguity confuses learning trajectories
 
@@ -291,7 +291,7 @@ Educator awareness is not just AI literacy.
 
 It includes:
 
-- understanding how AI explanations *shape student mental models  *
+- understanding how AI explanations *shape student mental models*
 
 - recognising when AI oversimplifies disciplinary thinking
 
@@ -299,7 +299,7 @@ It includes:
 
 ### **Teaching-Specific Risks**
 
-- AI presents *answers* without modelling *reasoning  *
+- AI presents *answers* without modelling *reasoning*
 
 - Concepts appear simpler than they are
 
@@ -565,15 +565,15 @@ Unexamined success can embed long-term harm.
 
 Teaching with AI requires:
 
-- **clear boundaries  **
+- **clear boundaries**
 
-- **designed struggle  **
+- **designed struggle**
 
-- **explicit expectations  **
+- **explicit expectations**
 
-- **documented judgement  **
+- **documented judgement**
 
-- **iterative refinement  **
+- **iterative refinement**
 
 It is *not* about tool mastery.  
 It is about professional responsibility in an AI-rich learning environment.
@@ -598,7 +598,7 @@ In teaching:
 
 - design decisions shape what students practice
 
-- poor AI design teaches the *wrong habits  *
+- poor AI design teaches the *wrong habits*
 
 Therefore:
 
@@ -622,23 +622,23 @@ AI can support educators by:
 
 ### **Teaching Workflow (Material Design)**
 
-1.  **Define the learning intent  **
+1.  **Define the learning intent**
 
     - What must students understand or practise?
 
-2.  **Use AI for variation, not authority  **
+2.  **Use AI for variation, not authority**
 
     - Ask for multiple explanations, not “the best one.”
 
-3.  **Apply disciplinary judgement  **
+3.  **Apply disciplinary judgement**
 
     - Remove inaccuracies, oversimplifications, or tonal drift.
 
-4.  **Reinsert epistemic cues  **
+4.  **Reinsert epistemic cues**
 
     - Add uncertainty, assumptions, and limits explicitly.
 
-5.  **Align with assessment  **
+5.  **Align with assessment**
 
     - Ensure materials support, not shortcut, learning outcomes.
 
@@ -681,23 +681,23 @@ Design assessments that:
 
 ### **Teaching Workflow (Assessment Design)**
 
-1.  **Identify what must be human  **
+1.  **Identify what must be human**
 
     - What cannot be meaningfully delegated to AI?
 
-2.  **Anticipate AI use  **
+2.  **Anticipate AI use**
 
     - Assume students will attempt to use AI.
 
-3.  **Design for transparency  **
+3.  **Design for transparency**
 
     - Require declaration or commentary where appropriate.
 
-4.  **Shift emphasis  **
+4.  **Shift emphasis**
 
     - From product → process, critique, or application.
 
-5.  **Document the decision  **
+5.  **Document the decision**
 
     - Capture the rationale for audit or review.
 
@@ -735,19 +735,19 @@ Feedback requires **relational judgement**, not generic phrasing.
 
 ### **Teaching Workflow (Feedback Design)**
 
-1.  **Decide what feedback is for  **
+1.  **Decide what feedback is for**
 
     - Improvement, reassurance, direction, challenge?
 
-2.  **Use AI as a drafting partner  **
+2.  **Use AI as a drafting partner**
 
     - Tone, clarity, structure — not judgement.
 
-3.  **Review for bias and framing  **
+3.  **Review for bias and framing**
 
     - Especially for students at the margins.
 
-4.  **Personalise deliberately  **
+4.  **Personalise deliberately**
 
     - Ensure feedback signals human attention.
 
@@ -772,19 +772,19 @@ Silence ≠ neutrality.
 
 ### **Teaching Workflow (Student AI Guidance)**
 
-1.  **Be explicit  **
+1.  **Be explicit**
 
     - What AI use is acceptable, limited, or prohibited?
 
-2.  **Link to learning goals  **
+2.  **Link to learning goals**
 
     - Explain *why* the boundaries exist.
 
-3.  **Model ethical use  **
+3.  **Model ethical use**
 
     - Show examples of critique, not just generation.
 
-4.  **Revisit regularly  **
+4.  **Revisit regularly**
 
     - Guidance must evolve with tasks.
 
@@ -1156,9 +1156,9 @@ You know your teaching capability has matured when:
 
 - AI use **strengthens** learning outcomes, not shortcuts them
 
-- assessments still surface **student thinking  **
+- assessments still surface **student thinking**
 
-- teaching materials model **disciplinary reasoning  **
+- teaching materials model **disciplinary reasoning**
 
 - expectations are explicit and unambiguous
 
@@ -1193,7 +1193,7 @@ Complete in 5–7 minutes.
 ✔ I understand how AI outputs may reshape student mental models  
 ✔ I recognise where AI fluency can mask conceptual gaps
 
-**If gaps exist:  **
+**If gaps exist:**
 Pause AI use in core teaching materials and revise explanations.
 
 ### **Domain 2 — Educator–AI–Student Co-Agency**
@@ -1202,7 +1202,7 @@ Pause AI use in core teaching materials and revise explanations.
 ✔ I make expectations visible to students  
 ✔ I avoid delegating judgement to AI
 
-**If unclear:  **
+**If unclear:**
 Re-design tasks before further AI integration.
 
 ### **Domain 3 — Applied Teaching & Innovation**
@@ -1211,7 +1211,7 @@ Re-design tasks before further AI integration.
 ✔ I use AI to reveal thinking, not hide it  
 ✔ I test pedagogical impact rather than assume value
 
-**If weak:  **
+**If weak:**
 Shift innovation from content generation to learning design.
 
 ### **Domain 4 — Ethics, Equity & Impact**
@@ -1220,7 +1220,7 @@ Shift innovation from content generation to learning design.
 ✔ I consider representation and framing  
 ✔ I design for transparency and fairness
 
-**If uncertain:  **
+**If uncertain:**
 Run the Teaching Impact Scan before material release.
 
 ### **Domain 5 — Decision-Making & Governance**
@@ -1229,7 +1229,7 @@ Run the Teaching Impact Scan before material release.
 ✔ I can explain AI influence if challenged  
 ✔ I know when escalation is required
 
-**If missing:  **
+**If missing:**
 Implement the Teaching Governance Note immediately.
 
 **  **
@@ -1240,16 +1240,16 @@ Implement the Teaching Governance Note immediately.
 ✔ I adapt tasks and guidance based on evidence  
 ✔ I share learning with colleagues
 
-**If inconsistent:  **
+**If inconsistent:**
 Introduce a simple reflection cadence at module end.
 
 ### **Interpreting Your Results**
 
-- Early-domain gaps → **slow down and clarify foundations  **
+- Early-domain gaps → **slow down and clarify foundations**
 
-- Ethics or governance gaps → **increase oversight before scaling  **
+- Ethics or governance gaps → **increase oversight before scaling**
 
-- Reflection gaps → **capability will stall without renewal  **
+- Reflection gaps → **capability will stall without renewal**
 
 Teaching capability grows through *alignment*, not acceleration.
 
@@ -1272,7 +1272,7 @@ You recognise:
 
 - Surface-level synthesis is no longer valid evidence of learning
 
-**Design implication:  **
+**Design implication:**
 Assessment must require reasoning, not just output.
 
 ### **Domain 2 — Co-Agency in Action**

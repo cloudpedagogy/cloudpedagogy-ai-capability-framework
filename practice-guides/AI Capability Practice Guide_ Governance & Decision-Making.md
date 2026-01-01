@@ -57,17 +57,17 @@ If your aim is to use AI **without traceability or oversight**, this guide will 
 
 By working through this guide, you will be able to:
 
-- determine **when AI use triggers governance requirements  **
+- determine **when AI use triggers governance requirements**
 
-- distinguish low-risk support from **decision-shaping influence  **
+- distinguish low-risk support from **decision-shaping influence**
 
 - apply **proportionate oversight** without bureaucracy
 
-- design **transparent, contestable decision processes  **
+- design **transparent, contestable decision processes**
 
 - document AI influence in ways that stand up to scrutiny
 
-- know **when to escalate, pause, or prohibit AI use  **
+- know **when to escalate, pause, or prohibit AI use**
 
 You will also produce at least **one concrete governance artefact** (e.g. a decision note, escalation trigger list, or accountability map) you can reuse immediately.
 
@@ -87,7 +87,7 @@ Use this guide when:
 
 - an AI-informed recommendation is hard to interrogate
 
-- you may be asked later: *“How was this decision made?”  *
+- you may be asked later: *“How was this decision made?”*
 
 - responsibility sits with you—even if analysis came from elsewhere
 
@@ -171,7 +171,7 @@ If it isn’t recorded, it effectively didn’t happen.
 
 ## **Worked Example — One Decision, Three Outcomes (Governance)**
 
-**Decision  **
+**Decision**
 Using AI-supported analysis to prioritise service access.
 
 ### **✅ Good Use**
@@ -184,7 +184,7 @@ Using AI-supported analysis to prioritise service access.
 
 - Decision process is documented
 
-**Why this works:  **
+**Why this works:**
 AI informs without obscuring accountability.
 
 **  **
@@ -197,7 +197,7 @@ AI informs without obscuring accountability.
 
 - Governance is informal
 
-**Why this is risky:  **
+**Why this is risky:**
 Challenges later cannot be answered clearly.
 
 ### **⛔ Unacceptable Use**
@@ -208,7 +208,7 @@ Challenges later cannot be answered clearly.
 
 - No decision record
 
-**Why this fails:  **
+**Why this fails:**
 Accountability has been displaced.
 
 ## **Your First Governance Artefact (Create This Now)**
@@ -292,22 +292,22 @@ You apply **more domains as impact, irreversibility, or uncertainty increases**.
 
 ### **The Governance Capability Flow**
 
-- **AI Awareness & Orientation  **
+- **AI Awareness & Orientation**
   Understand *how* AI influenced the decision—not just that it was used.
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
   Make authority and accountability explicit and non-transferable.
 
-- **Applied Practice & Innovation  **
+- **Applied Practice & Innovation**
   Permit AI use without bypassing oversight or due process.
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
   Identify who bears risk, who benefits, and who can contest outcomes.
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
   Ensure traceability, documentation, and proportionate escalation.
 
-- **Reflection, Learning & Renewal  **
+- **Reflection, Learning & Renewal**
   Improve decision systems over time; avoid repeating unseen failures.
 
 Skipping domains rarely saves time.  
@@ -345,9 +345,9 @@ AI-informed advice looks strong, but the reasoning is hard to interrogate.
 
 ### **Primary domains to apply**
 
-- **AI Awareness & Orientation  **
+- **AI Awareness & Orientation**
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
 
 ### **What to do now**
 
@@ -375,9 +375,9 @@ The decision impacts:
 
 ### **Primary domains to apply**
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
 
 ### **What to do now**
 
@@ -399,9 +399,9 @@ AI influence goes beyond presentation into **choice or prioritisation**.
 
 ### **Primary domains to apply**
 
-- **Human–AI Co-Agency  **
+- **Human–AI Co-Agency**
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
 
 ### **What to do now**
 
@@ -433,9 +433,9 @@ You anticipate scrutiny from:
 
 ### **Primary domains to apply**
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
 
-- **Ethics, Equity & Impact  **
+- **Ethics, Equity & Impact**
 
 ### **What to do now**
 
@@ -463,9 +463,9 @@ AI is normalised in:
 
 ### **Primary domains to apply**
 
-- **Applied Practice & Innovation  **
+- **Applied Practice & Innovation**
 
-- **Reflection, Learning & Renewal  **
+- **Reflection, Learning & Renewal**
 
 ### **What to do now**
 
@@ -493,9 +493,9 @@ You are aiming for:
 
 ### **Primary domains to apply**
 
-- **Applied Practice & Innovation  **
+- **Applied Practice & Innovation**
 
-- **Decision-Making & Governance  **
+- **Decision-Making & Governance**
 
 ### **What to do now**
 
@@ -574,16 +574,16 @@ If decision-makers cannot explain *how* AI shaped a decision, governance has alr
 
 Before approving or ratifying any AI-influenced decision, ask:
 
-1.  **How exactly did AI influence this decision?  **
+1.  **How exactly did AI influence this decision?**
     (Informing, ranking, filtering, forecasting, recommending?)
 
-2.  **Which assumptions, proxies, or data boundaries are embedded?  **
+2.  **Which assumptions, proxies, or data boundaries are embedded?**
     (What was included? What was excluded?)
 
-3.  **What uncertainty or confidence limits apply?  **
+3.  **What uncertainty or confidence limits apply?**
     (What is unknown or estimated?)
 
-4.  **Where could a confident but wrong output cause harm?  **
+4.  **Where could a confident but wrong output cause harm?**
     (Access, fairness, safety, trust.)
 
 If these cannot be answered, pause the decision.
@@ -594,13 +594,13 @@ Require a short, standardised statement in decision papers:
 
 **AI Influence Statement**
 
-- **Purpose of AI use:  **
+- **Purpose of AI use:**
 
 - **Type of influence:** inform / rank / predict / recommend
 
-- **Key assumptions or limitations:  **
+- **Key assumptions or limitations:**
 
-- **Human judgement applied:  **
+- **Human judgement applied:**
 
 This turns opaque influence into governable input.
 
@@ -646,13 +646,13 @@ No matter how complex the analysis, authority must remain human and named.
 
 Ask:
 
-1.  **Who is the decision-maker of record?  **
+1.  **Who is the decision-maker of record?**
 
-2.  **What judgement was exercised by humans—not AI?  **
+2.  **What judgement was exercised by humans—not AI?**
 
-3.  **Could accountability be disputed later?  **
+3.  **Could accountability be disputed later?**
 
-4.  **Is responsibility shared or unclear across committees?  **
+4.  **Is responsibility shared or unclear across committees?**
 
 If any answer is unclear, governance risk is present.
 
@@ -664,11 +664,11 @@ Clarify roles explicitly:
 
 **Decision Authority Map**
 
-- **AI contributes:  **
+- **AI contributes:**
 
-- **Humans decide:  **
+- **Humans decide:**
 
-- **Accountable authority:  **
+- **Accountable authority:**
 
 This prevents silent diffusion of responsibility.
 
@@ -716,13 +716,13 @@ Innovation here means **designed permission**, not uncontrolled experimentation.
 
 Ask:
 
-1.  **Is this AI use appropriate for the decision’s risk level?  **
+1.  **Is this AI use appropriate for the decision’s risk level?**
 
-2.  **Are we allowing flexibility where risk is low?  **
+2.  **Are we allowing flexibility where risk is low?**
 
-3.  **Have we imposed controls where impact is high?  **
+3.  **Have we imposed controls where impact is high?**
 
-4.  **Is governance enabling or obstructing good decisions?  **
+4.  **Is governance enabling or obstructing good decisions?**
 
 Over-governance and under-governance are equally risky.
 
@@ -840,15 +840,15 @@ Ethical governance ensures **those affected are considered and protected**.
 
 Before finalising AI-influenced decisions, ask:
 
-1.  **Who is affected by this decision, directly and indirectly?  **
+1.  **Who is affected by this decision, directly and indirectly?**
 
-2.  **Are some groups more exposed to risk or exclusion?  **
+2.  **Are some groups more exposed to risk or exclusion?**
 
-3.  **Can those affected understand or challenge the outcome?  **
+3.  **Can those affected understand or challenge the outcome?**
 
-4.  **Does AI reduce or increase transparency for those impacted?  **
+4.  **Does AI reduce or increase transparency for those impacted?**
 
-5.  **Would harm be detectable early—or only after damage occurs?  **
+5.  **Would harm be detectable early—or only after damage occurs?**
 
 Ethics must be applied **before** decisions are locked in.
 
@@ -922,15 +922,15 @@ AI adds complexity — governance must add clarity.
 
 Ask:
 
-1.  **What documentation is required for this decision’s risk level?  **
+1.  **What documentation is required for this decision’s risk level?**
 
-2.  **Is the rationale clear without technical expertise?  **
+2.  **Is the rationale clear without technical expertise?**
 
-3.  **Who reviewed or approved the AI influence?  **
+3.  **Who reviewed or approved the AI influence?**
 
-4.  **How would this decision be explained externally?  **
+4.  **How would this decision be explained externally?**
 
-5.  **Is this consistent with similar past decisions?  **
+5.  **Is this consistent with similar past decisions?**
 
 Inconsistency creates challenge risk.
 
@@ -940,17 +940,17 @@ For any consequential AI-influenced decision, capture:
 
 **Decision Defensibility Record**
 
-- **Decision outcome:  **
+- **Decision outcome:**
 
-- **Purpose and context:  **
+- **Purpose and context:**
 
-- **Role of AI:  **
+- **Role of AI:**
 
-- **Human reasoning applied:  **
+- **Human reasoning applied:**
 
-- **Risks and mitigations:  **
+- **Risks and mitigations:**
 
-- **Review or appeal pathway:  **
+- **Review or appeal pathway:**
 
 Store where it can be retrieved later.
 
@@ -980,7 +980,7 @@ If escalation feels inconvenient, governance is most needed.
 
 - governance decisions made in email or verbally only
 
-- documentation that explains *what* but not *why  *
+- documentation that explains *what* but not *why*
 
 - assuming legal review equals ethical review
 
@@ -1026,15 +1026,15 @@ AI governance must evolve as use evolves.
 
 After AI-influenced decisions, ask:
 
-1.  **What went as expected—and what did not?  **
+1.  **What went as expected—and what did not?**
 
-2.  **Were governance controls proportionate?  **
+2.  **Were governance controls proportionate?**
 
-3.  **Did anyone raise concerns that were ignored?  **
+3.  **Did anyone raise concerns that were ignored?**
 
-4.  **What should change in future decision processes?  **
+4.  **What should change in future decision processes?**
 
-5.  **How will this learning be shared or embedded?  **
+5.  **How will this learning be shared or embedded?**
 
 Reflection must inform policy, not just memory.
 
@@ -1126,7 +1126,7 @@ Ask honestly:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mixed/no:  **
+**If mixed/no:**
 Pause approval until AI influence is clarified.
 
 ### **Domain 2 — Human–AI Co-Agency**
@@ -1141,7 +1141,7 @@ Consider:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If unclear:  **
+**If unclear:**
 Authority and accountability are drifting.
 
 ### **Domain 3 — Applied Practice & Innovation**
@@ -1156,7 +1156,7 @@ Reflect:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mostly no:  **
+**If mostly no:**
 Governance may be either too loose or too rigid.
 
 ### **Domain 4 — Ethics, Equity & Impact**
@@ -1171,7 +1171,7 @@ Ask:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mixed/no:  **
+**If mixed/no:**
 Ethical risk is likely accumulating unseen.
 
 **  **
@@ -1188,7 +1188,7 @@ Check:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If mixed/no:  **
+**If mixed/no:**
 Defensibility is weak.
 
 ### **Domain 6 — Reflection, Learning & Renewal**
@@ -1203,7 +1203,7 @@ Finally:
 
 ☐ Mostly yes  ☐ Mixed  ☐ Mostly no
 
-**If inconsistent:  **
+**If inconsistent:**
 Governance capability will stagnate.
 
 **  **
