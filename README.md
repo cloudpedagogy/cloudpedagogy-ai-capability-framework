@@ -108,6 +108,17 @@ Also included:
 
 ---
 
+### `/documentation` — Framework Documentation & Orientation
+
+Guidance explaining how the AI Capability Framework ecosystem fits together in practice, including how scenarios, briefs, quizzes, slides, and facilitation materials are intended to be used.
+
+Included documentation:
+
+- [Using the AI Capability Framework in Practice](documentation/using-the-ai-capability-framework-in-practice.md)
+
+
+---
+
 ## 🔗 Related CloudPedagogy Repositories
 
 This repository is the **canonical source** for the CloudPedagogy AI Capability Framework (2026 Edition), including the framework model, domains, and core reference resources.
