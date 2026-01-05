@@ -34,6 +34,8 @@ It defines **six interdependent capability domains**:
 
 Grounded in ecological learning, systems thinking, and ethical foresight, the Framework helps individuals and organisations move beyond tool-focused AI training toward applied, reflective, and values-aligned AI capability.
 
+The Framework defines capability expectations; it does not prescribe specific tools, platforms, or system architectures.
+
 ---
 
 ## 📁 Repository Structure & Contents
