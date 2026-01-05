@@ -157,6 +157,12 @@ https://github.com/cloudpedagogy/cloudpedagogy-n8n-workflows
 
 ---
 
+### 🛠 Capability-Driven Development (CDD)
+A capability-first system design method for translating AI Capability Framework principles into software, workflows, and AI-enabled systems.
+https://github.com/cloudpedagogy/capability-driven-development
+
+---
+
 Companion repositories **extend the Framework into applied guidance, diagnostics, and operational practice**.  
 This repository remains the **authoritative reference** for the CloudPedagogy AI Capability Framework model, domains, and core resources.
 
