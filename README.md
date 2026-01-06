@@ -176,6 +176,16 @@ You may copy, adapt, and remix these materials for non-commercial purposes with 
 
 ---
 
+## 👤 Authorship and Development
+
+This framework, associated software, and their underlying design were developed by Jonathan Wong as part of the CloudPedagogy initiative.
+
+All architecture, code, documentation, and conceptual resources are produced in-house and aligned with the CloudPedagogy AI Capability Framework.
+
+CloudStartupTech is used as a technical development identity for tooling, workflows, and software components.
+
+---
+
 ## 🧭 Citation
 
 ### Preferred citation (Concept DOI)
