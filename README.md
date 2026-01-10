@@ -149,6 +149,27 @@ https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-tools
 
 ---
 
+### ⚙️ CloudPedagogy Course Engine
+
+The CloudPedagogy Course Engine is an open-source, MIT-licensed software tool
+designed to support transparent, reproducible course production and review.
+
+It enables educators and institutions to compile course artefacts from a single
+source of truth, inspect build metadata, and optionally declare and review
+capability alignment using structured, auditable outputs.
+
+While the Course Engine is designed around the principles of the CloudPedagogy
+AI Capability Framework and Capability-Driven Development (CDD), it does not
+embed, mandate, or enforce this Framework.
+
+Capability mapping, reporting, and validation features are informational by
+default and are intended to support reflection, assurance, and governance
+workflows rather than determine quality, compliance, or approval outcomes.
+https://github.com/cloudpedagogy/cloudpedagogy-course-engine
+
+
+---
+
 ### ⚙️ Operational Workflows
 
 **CloudPedagogy n8n Workflows** *(under development)*  
