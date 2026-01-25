@@ -38,6 +38,52 @@ The Framework defines capability expectations; it does not prescribe specific to
 
 ---
 
+## ⚙️ Framework Infrastructure: CloudPedagogy Course Engine
+
+The **CloudPedagogy AI Capability Framework** is supported by open, inspectable infrastructure that enables it to be applied in real educational, research, and governance contexts — not just described in documents.
+
+### CloudPedagogy Course Engine (Open Source)
+
+The **CloudPedagogy Course Engine** is an open-source, MIT-licensed system for producing **transparent, reproducible, and governance-ready learning artefacts** from a single, structured source of truth.
+
+It enables educators, researchers, and institutions to:
+
+- compile interactive static course websites and print-ready PDFs from the same source
+- keep learning materials aligned across formats over time
+- record design intent and AI scoping boundaries transparently
+- generate inspectable evidence for QA, audit, and governance review
+- track change and provenance across versions
+
+The Course Engine treats learning design as a **versioned, inspectable specification**, similar to how software systems are built and reviewed.
+
+### Relationship to the AI Capability Framework
+
+While the Course Engine is **designed around the principles** of the CloudPedagogy AI Capability Framework and Capability-Driven Development (CDD), it:
+
+- does **not** embed, mandate, or enforce the Framework
+- does **not** prescribe pedagogy, quality judgements, or approval outcomes
+- treats capability alignment as **declared, inspectable metadata** by default
+
+Capability mapping, reporting, and validation features are **informational unless explicitly configured**, supporting reflection, assurance, and governance workflows rather than automated decision-making.
+
+This separation ensures that:
+
+- **human judgement remains central**
+- governance is transparent rather than opaque
+- institutions retain control over interpretation and policy
+
+### Learn more
+
+- 🔗 **Course Engine repository**  
+  https://github.com/cloudpedagogy/cloudpedagogy-course-engine
+
+- 🌐 **Live demo: interactive course site generated from source**  
+  http://cloudpedagogy-course-engine-demo.s3-website.eu-west-2.amazonaws.com/
+
+The Course Engine provides the operational backbone that allows the AI Capability Framework to be used **credibly, reproducibly, and defensibly** in real institutional settings.
+
+---
+
 ## 📁 Repository Structure & Contents
 
 This repository contains the **official, openly licensed source files and archival releases** of the **CloudPedagogy AI Capability Framework (2026 Edition)** and its companion resources.
