@@ -187,6 +187,26 @@ https://github.com/cloudpedagogy/ai-capability-framework-scenarios
 
 ---
 
+### 📚 Related CloudPedagogy Books
+
+The CloudPedagogy AI Capability Framework is complemented by a curated collection of open, long-form books that explore AI capability, generative AI, ethics, governance, and professional practice in greater conceptual and applied depth.
+
+📖 **CloudPedagogy Books Repository**  
+A curated collection of open, versioned texts supporting responsible AI capability across education, research, public services, and professional practice.
+
+🔗 https://github.com/cloudpedagogy/cloudpedagogy-books
+
+The repository includes:
+
+- AI Capability Series companion books aligned with the Framework domains  
+- Generative AI ethics and governance texts  
+- Applied generative AI practice guides  
+- Institutional governance and policy resources  
+- Foundational generative AI understanding texts  
+
+These books extend the Framework by providing sustained narrative explanation, reflective analysis, and practical application guidance.
+---
+
 ### 🧩 AI Capability Tools Suite (Index + Launchpad)
 
 **CloudPedagogy AI Capability Tools**  
@@ -212,7 +232,6 @@ Capability mapping, reporting, and validation features are informational by
 default and are intended to support reflection, assurance, and governance
 workflows rather than determine quality, compliance, or approval outcomes.
 https://github.com/cloudpedagogy/cloudpedagogy-course-engine
-
 
 ---
 
