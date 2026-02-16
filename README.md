@@ -83,7 +83,27 @@ This separation ensures that:
 The Course Engine provides the operational backbone that allows the AI Capability Framework to be used **credibly, reproducibly, and defensibly** in real institutional settings.
 
 ---
+## 🧩 AI Capability Studio (Structured Workflow Tool)
 
+CloudPedagogy AI Capability Studio is an open-source, offline-first workflow environment designed to support structured, governance-ready human–AI collaboration.
+
+It enables educators, researchers, and strategy teams to:
+
+- Apply the AI Capability Framework in structured 6-step workflows  
+- Generate export-ready AI Workflow Records  
+- Document human judgement and AI involvement explicitly  
+- Maintain local, privacy-preserving workflow logs  
+- Produce governance-ready artefacts without relying on cloud storage or API calls  
+
+AI Capability Studio does **not** generate AI content and does not store user data remotely.  
+It structures applied capability practice and produces portable documentation.
+
+🔗 Repository:  
+https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-studio
+
+The Studio complements the Framework by operationalising structured reflection, co-agency, ethical review, governance logging, and renewal practices in real institutional settings.
+
+---
 ## 📁 Repository Structure & Contents
 
 This repository contains the **official, openly licensed source files and archival releases** of the **CloudPedagogy AI Capability Framework (2026 Edition)** and its companion resources.
