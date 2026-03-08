@@ -187,90 +187,69 @@ Included documentation:
 
 ---
 
-## 🔗 Related CloudPedagogy Repositories
+## 🌐 CloudPedagogy Ecosystem
+### Companion Repositories, Tools, and Infrastructure
 
-This repository is the **canonical source** for the CloudPedagogy AI Capability Framework (2026 Edition), including the framework model, domains, and core reference resources.
+This repository provides the canonical reference for the **CloudPedagogy AI Capability Framework**.
 
-The following repositories provide **applied companion resources and software tools** derived from, and explicitly grounded in, the Framework.
+The following companion repositories extend the Framework into applied guidance, software tools, workflows, and supporting infrastructure.
 
 ---
 
 ### 📘 Applied Guidance & Practice Resources
 
-**AI Capability Briefs**  
-Short, role- and context-specific briefs supporting professional judgement and decision-making using the AI Capability Framework.  
-https://github.com/cloudpedagogy/ai-capability-briefs
+**[AI Capability Briefs](https://github.com/cloudpedagogy/ai-capability-briefs)**  
+Short, role- and context-specific briefs supporting professional judgement and decision-making using the AI Capability Framework.
 
-**AI Capability Framework — Scenario Library**  
-Facilitation-ready scenarios for applying the Framework in real professional settings, including teaching, research, governance, leadership, and public-impact contexts.  
-https://github.com/cloudpedagogy/ai-capability-framework-scenarios
+**[AI Capability Framework — Scenario Library](https://github.com/cloudpedagogy/ai-capability-framework-scenarios)**  
+Facilitation-ready scenarios for applying the Framework in real professional settings.
 
 ---
 
-### 📚 Related CloudPedagogy Books
+### 📚 Books & Long-Form Resources
 
-The CloudPedagogy AI Capability Framework is complemented by a curated collection of open, long-form books that explore AI capability, generative AI, ethics, governance, and professional practice in greater conceptual and applied depth.
-
-📖 **CloudPedagogy Books Repository**  
-A curated collection of open, versioned texts supporting responsible AI capability across education, research, public services, and professional practice.
-
-🔗 https://github.com/cloudpedagogy/cloudpedagogy-books
-
-The repository includes:
-
-- AI Capability Series companion books aligned with the Framework domains  
-- Generative AI ethics and governance texts  
-- Applied generative AI practice guides  
-- Institutional governance and policy resources  
-- Foundational generative AI understanding texts  
-
-These books extend the Framework by providing sustained narrative explanation, reflective analysis, and practical application guidance.
----
-
-### 🧩 AI Capability Tools Suite (Index + Launchpad)
-
-**CloudPedagogy AI Capability Tools**  
-An index and launchpad for the CloudPedagogy AI Capability Tools suite — including recommended flow, shared design principles, and direct links to live tools and their source repositories.  
-https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-tools
+**[CloudPedagogy Books Repository](https://github.com/cloudpedagogy/cloudpedagogy-books)**  
+A curated collection of open, versioned texts supporting responsible AI capability across education, research, and public services.
 
 ---
 
-### ⚙️ CloudPedagogy Course Engine
+### 🧩 Tools
 
-The CloudPedagogy Course Engine is an open-source, MIT-licensed software tool
-designed to support transparent, reproducible course production and review.
+**[CloudPedagogy AI Capability Studio](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-studio)**  
+A structured workflow environment for documenting human–AI collaboration and generating governance-ready AI Workflow Records.
 
-It enables educators and institutions to compile course artefacts from a single
-source of truth, inspect build metadata, and optionally declare and review
-capability alignment using structured, auditable outputs.
+**[CloudPedagogy AI Capability Tools](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-tools)**  
+Index and launchpad for CloudPedagogy capability tools and live demos.
 
-While the Course Engine is designed around the principles of the CloudPedagogy
-AI Capability Framework and Capability-Driven Development (CDD), it does not
-embed, mandate, or enforce this Framework.
+---
 
-Capability mapping, reporting, and validation features are informational by
-default and are intended to support reflection, assurance, and governance
-workflows rather than determine quality, compliance, or approval outcomes.
-https://github.com/cloudpedagogy/cloudpedagogy-course-engine
+### ⚙️ Infrastructure
+
+**[CloudPedagogy Course Engine](https://github.com/cloudpedagogy/cloudpedagogy-course-engine)**  
+An open-source system for producing transparent, reproducible course artefacts from a single structured source.
+
+---
+
+### 🧪 Research Infrastructure
+
+**[CloudPedagogy Research Object Template](https://github.com/cloudpedagogy/cloudpedagogy-research-object-template)**  
+A governance-ready template for building transparent, reproducible research artefacts and AI-aware research outputs.
+
+It enables researchers to package data, analysis, documentation, and governance information into inspectable research objects suitable for sharing, review, and long-term preservation.
 
 ---
 
 ### ⚙️ Operational Workflows
 
-**CloudPedagogy n8n Workflows** *(under development)*  
-Human-in-the-loop automation workflows translating the Framework into operational processes and decision-support systems using everyday institutional tools.  
-https://github.com/cloudpedagogy/cloudpedagogy-n8n-workflows
+**[CloudPedagogy n8n Workflows](https://github.com/cloudpedagogy/cloudpedagogy-n8n-workflows)** *(under development)*  
+Human-in-the-loop automation workflows translating the Framework into operational processes and decision-support systems using everyday institutional tools.
 
 ---
 
-### 🛠 Capability-Driven Development (CDD)
-A capability-first system design method for translating AI Capability Framework principles into software, workflows, and AI-enabled systems.
-https://github.com/cloudpedagogy/capability-driven-development
+### 🛠 Design Methodology
 
----
-
-Companion repositories **extend the Framework into applied guidance, diagnostics, and operational practice**.  
-This repository remains the **authoritative reference** for the CloudPedagogy AI Capability Framework model, domains, and core resources.
+**[Capability-Driven Development (CDD)](https://github.com/cloudpedagogy/capability-driven-development)**  
+A capability-first design methodology for translating AI Capability Framework principles into software systems, workflows, and AI-enabled infrastructure.
 
 ---
 
